@@ -43,7 +43,7 @@ export const PRESETS: Record<OpenAICompatConfig["backend"], OpenAICompatConfig> 
   gemini: {
     backend: "gemini",
     defaultBaseUrl: "https://generativelanguage.googleapis.com/v1beta/openai/",
-    defaultModel: "gemini-3.5-flash",
+    defaultModel: "gemini-3.1-flash-lite",
     apiKeyEnv: "GEMINI_API_KEY",
     baseUrlEnv: "GEMINI_BASE_URL",
   },
