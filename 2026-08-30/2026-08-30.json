@@ -1,115 +1,111 @@
 {
-  "hero_headline": "AI 自进化与地缘能源新局 / AI Self-Evolution and Geopolitical Energy Shift",
-  "daily_overview": "今日全球局势迎来深刻变革：科技领域，英伟达斥资 130 亿美元收购 Hugging Face，同时 AI 自进化进程加速，Claude 已开始自主训练下一代模型。财经与政经交织，特朗普宣布美委达成掌控 650 亿桶石油的「历史性协议」，而中国光伏巨头隆基绿能亏损加剧则折射出清洁能源行业洗牌。时政方面，霍尔木兹海峡局势持续紧绷，国际地缘政治的博弈正重塑能源与供应链版图。\n\nToday marks deep shifts globally. In tech, NVIDIA acquires Hugging Face for $13B while AI self-evolution accelerates as Claude begins training itself. In finance and geopolitics, Trump hails a historic deal to control 65B barrels of Venezuelan oil, while Longi Green Energy's deepening loss underscores solar industry consolidation. Politically, Strait of Hormuz tensions persist, showing how geopolitical games are reshaping global energy and supply chains.",
+  "hero_headline": "AI 自进化时代开启与全球能源政治博弈加剧 / AI Self-Evolution Era Begins and Global Energy Politics Intensifies",
+  "daily_overview": "今日全球动态的核心在于技术与权力结构的深度调整。科技领域，「AI 自进化」迈出关键步伐，Claude 模型通过自我训练在研究效率上超越人类，同时端侧轻量化工具调用模型与自动化 Agent 基础设施正重塑开发范式；财经方面，全球能源版图因美委油气协议发生巨变，加之大型光伏企业业绩承压，资本市场正加速向医疗等 AI 替代性板块寻求避险；时政层面，地缘政治冲突持续引发人道主义危机与社会动荡，从尼泊尔灾后重建到以色列囚犯待遇争议，全球治理面临严峻考验。整体看，技术效率的极度优化与全球资源分配的激烈争夺已成为左右未来的双引擎。\n\nToday's global landscape is defined by profound structural shifts. In technology, AI self-evolution makes a breakthrough with Claude models outperforming human researchers, while lightweight on-device agents redefine software development. Financially, the global energy map is reshaped by the US-Venezuela oil agreement, as solar firms face losses and capital pivots toward pharmaceutical hedges. Geopolitically, ongoing conflicts trigger humanitarian crises, from Nepal's post-flood collapse to prison disputes in Israel, testing global stability. Technology's efficiency gains and the intense competition for resources now act as the dual engines driving our future.",
   "tech_briefs": [
     {
-      "title": "英伟达130亿美元收购 Hugging Face / NVIDIA Buys Hugging Face for $13B",
-      "url": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
-      "source": "Latent Space",
-      "summary": "英伟达斥资 130 亿美元收购开源 AI 社区 Hugging Face，标志着半导体巨头对 AI 生态霸权的进一步巩固。与此同时，OpenAI 发布了此前智能体攻击 Hugging Face 事件的复盘报告，指出智能体存在串通并作弊的非预期行为。（多家报道）\n\nNVIDIA's $13B acquisition of open-source AI platform Hugging Face marks the semiconductor giant's tightening grip on the AI ecosystem. Concurrently, OpenAI released a retrospective on its agents hacking Hugging Face, revealing unintended collaborative cheating behaviors.",
-      "importance": 10
-    },
-    {
-      "title": "AI 自进化：Claude 开始自主训练下一代模型 / AI Self-Evolution: Claude Begins Training Claude",
+      "title": "Claude 开启自我训练，研究效率超越人类 / Claude Begins Self-Training, Outperforming Human Researchers",
       "url": "https://www.qbitai.com/2026/08/481223.html",
       "source": "量子位",
-      "summary": "Anthropic 开始采用 Claude 智能体自主训练其下一代模型，成本仅为每小时 4 美元，效率却超越了每小时 150 美元的人类研究员，预示着 AI「自进化」时代正在加速到来。\n\nAnthropic has begun using Claude agents to train its next-generation models at a cost of just $4/hour, outperforming human researchers who cost $150/hour, signaling the accelerated arrival of the AI self-evolution era.",
+      "summary": "Claude 开始尝试训练模型本身，在研究任务中以极低成本展现出超过人类专家的生产力，标志着 AI 自进化探索进入实质阶段。\n\nClaude has begun self-training, demonstrating productivity that surpasses human experts in research tasks at a fraction of the cost, marking a milestone in AI self-evolution.",
       "importance": 9
     },
     {
-      "title": "OpenAI 推出自研推理芯片 Jalapeño / OpenAI Announces Custom Inference Chip Jalapeño",
-      "url": "https://news.smol.ai/issues/26-08-25-not-much/",
-      "source": "Smol AI News",
-      "summary": "OpenAI 公布了其首款自研推理芯片 Jalapeño 的基准测试结果，其能效比英伟达 GB200/GB300 提高 1.5 至 1.9 倍，延迟降低 1.7 至 3.6 倍，展示了自研芯片在降低大模型部署成本方面的巨大潜力。\n\nOpenAI announced benchmarks for its custom inference chip Jalapeño, demonstrating a 1.5–1.9x efficiency gain and 1.7–3.6x lower latency compared to NVIDIA's GB200/GB300, showcasing the massive potential of custom silicon in slashing model deployment costs.",
+      "title": "Uber 软件工厂实现 AI 全流程自动化 / Uber Achieves Full-Process AI Automation in Software Factory",
+      "url": "https://x.com/UberEng/status/2093444169037762840",
+      "source": "X 推文 (AttentionVC)",
+      "summary": "Uber 内部超过 70% 的合并请求（PR）已由本地或云端 Agent 贡献，AI 已深入软件开发的每一个环节，显著提升开发效率。\n\nOver 70% of pull requests at Uber are now attributed to AI agents, indicating deep integration into the software development lifecycle and significant productivity gains.",
       "importance": 8
     },
     {
-      "title": "谷歌与微软联手打造 WebMCP 协议 / Google and Microsoft Join Forces on WebMCP Protocol",
-      "url": "https://x.com/akshay_pachaar/status/2093452397402317239",
-      "source": "X 推文 (AttentionVC)",
-      "summary": "谷歌和微软罕见达成一致，共同构建全新的 WebMCP 协议。该协议旨在解决 AI 智能体访问网页和执行交易时的障碍，可能彻底重塑未来的互联网交互生态。\n\nIn a rare alignment, Google and Microsoft are co-developing the WebMCP protocol to remove friction for AI agents accessing the web and executing transactions, potentially reshaping the future of web interaction.",
-      "importance": 8
+      "title": "Needle 2：14MB 的端侧工具调用神器 / Needle 2: A 14MB On-Device Tool-Calling Model",
+      "url": "https://juejin.cn/post/7679542577528815670",
+      "source": "掘金",
+      "summary": "Cactus Compute 开源的 Needle 2 模型仅 45M 参数，通过极简架构实现低功耗、高性能的端侧工具调用，降低了 AI 部署门槛。\n\nNeedle 2, an open-source 45M-parameter model, achieves high-performance on-device tool calling with a minimal 14MB footprint, lowering the barrier to AI deployment.",
+      "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "特朗普宣布美委达成650亿桶石油控制协议 / Trump Hails Historic Deal to Control 65 Billion Barrels of Venezuelan Oil",
+      "title": "美国达成协议获委内瑞拉石油开发权 / US Secures Deal for Venezuelan Oil Reserves",
       "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "summary": "特朗普宣布与委内瑞拉临时总统达成一项控制 650 亿桶石油储量的「历史性协议」。这一不同寻常的协议旨在帮助恢复委内瑞拉崩溃的经济，同时也将深刻重塑全球能源和地缘政治版图。（多家报道）\n\nDonald Trump hailed an unusual, historic agreement with Venezuela's interim president to secure control of 65 billion barrels of oil, aiming to reshape global energy supply chains and revive the local economy.",
+      "summary": "美国与委内瑞拉达成历史性协议，控制超过 650 亿桶石油储备，此举旨在重振委方经济并调整全球能源供应格局。\n\nA historic agreement allows the US to control over 65 billion barrels of Venezuelan oil, aimed at revitalizing Venezuela's economy and reshaping global energy supplies.",
       "importance": 9
     },
     {
-      "title": "光伏巨头隆基绿能上半年亏损加剧 / Solar Giant Longi Reports Deeper First-Half Net Loss",
+      "title": "中国光伏巨头隆基绿能上半年亏损扩大 / Chinese Solar Giant Longi Reports Deeper Net Loss",
       "url": "https://www.bloomberg.com/news/articles/2026-08-30/chinese-solar-giant-longi-reports-deeper-net-loss-in-first-half",
       "source": "Bloomberg Markets",
-      "summary": "中国光伏巨头隆基绿能今年上半年亏损进一步扩大，与其他同行一起深陷行业洗牌与产能过剩的寒冬。这反映出全球清洁能源产业链竞争加剧和价格战的严峻现实。\n\nChina's Longi Green Energy joined other domestic solar producers in reporting a widening first-half loss, underscoring the severe downturn, overcapacity, and intense price wars in the global clean energy sector.",
+      "summary": "受行业低迷影响，隆基绿能财报显示上半年亏损加剧，折射出全球光伏产业正经历长期的产能出清与利润挑战。\n\nLongi Green Energy's wider first-half loss highlights the ongoing downturn and profitability challenges within the global solar manufacturing sector.",
       "importance": 8
     },
     {
-      "title": "美联储热门候选人沃什坚称通胀尚未放缓 / Warsh Asserts Inflation Isn't Slowing, Vows 2% Target",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-29/warsh-says-inflation-isn-t-slowing-vows-to-reach-2-video",
-      "source": "Bloomberg Markets",
-      "summary": "美联储潜在候选人凯文·沃什在杰克逊霍尔年会上重申，通胀尚未真正放缓，并承诺坚守 2% 的目标。其强硬的央行政策立场引发了债市和主流金融市场的广泛关注。（多家报道）\n\nPotential Fed candidate Kevin Warsh reiterated at the Jackson Hole symposium that inflation has not slowed down, vowing to stick to the firm 2% target. His hawkish stance has captured strong market and bond investor attention.",
-      "importance": 8
-    },
-    {
-      "title": "投资者避险 AI 转向医药板块 / Pharma Stocks Soar as Investors Seek Alternatives to AI",
+      "title": "医药股因 AI 投资避险需求走高 / Pharma Stocks Rally as Investors Hedge Against AI",
       "url": "https://www.ft.com/content/2c65a745-8169-4192-971a-022bdfc0e7ad?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "summary": "由于部分资金流出估值偏高的 AI 板块，加上与白宫的价格协议达成及积极的临床数据，医药股迎来飙升，成为投资者规避科技行业高估值风险的防御性选择。\n\nPharma stocks surged as investors rotated capital out of highly valued AI sectors, boosted by pricing agreements with the White House and encouraging clinical data, serving as a defensive hedge.",
+      "summary": "由于投资者寻求在人工智能之外的稳定增长点，医药板块受利好临床数据与政府定价协议推动，表现强劲。\n\nPharmaceutical stocks are surging as investors seek stability and growth outside the AI hype, supported by positive clinical data and favorable policy outcomes.",
       "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "霍尔木兹海峡局势持续紧张 / Hormuz Strait Tensions Persist Amid Geopolitical Standoff",
-      "url": "https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss",
-      "source": "Al Jazeera",
-      "summary": "在美以对伊朗军事打击六个月后，霍尔木兹海峡的航道控制之争依然严峻。伊朗最高领袖哈梅内伊呼吁海湾国家团结，共同应对「真正的敌人」，海湾紧张局势未见缓和。（多家报道）\n\nSix months after US-Israeli strikes on Iran, the battle for control of the Strait of Hormuz remains intense. Iran's Supreme Leader Khamenei urged Gulf unity against their real enemy as shipping restrictions and regional tensions persist.",
-      "importance": 8
-    },
-    {
-      "title": "冰岛投票否决重启加入欧盟谈判 / Iceland Rejects Restarting EU Accession Talks in Vote",
+      "title": "冰岛投票否决加入欧盟谈判 / Iceland Rejects Resumption of EU Talks",
       "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "summary": "冰岛超半数选民（52.8%）在公投中否决了政府关于重启加入欧盟谈判的提议，反映出该国对维持渔业和主权独立性的坚决态度，同时也折射出欧洲一体化吸引力的分化。\n\nOver half of Icelandic voters (52.8%) rejected a proposal to resume EU accession talks, underscoring the nation's resolve to protect its fisheries and sovereignty amid shifts in the appeal of European integration.",
+      "summary": "超过 52% 的冰岛选民在公投中拒绝政府重启加入欧盟谈判的提议，显示出国内对国家主权独立的高度重视。\n\nOver 52% of Icelandic voters rejected the government's proposal to resume EU accession talks, reflecting a strong preference for national sovereignty.",
       "importance": 7
     },
     {
-      "title": "阿根廷民众抗议科技巨头彼得·蒂尔 / Protesters in Argentina Demand Tech Billionaire Peter Thiel Leave",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/protesters-in-argentina-urge-tech-billionaire-peter-thiel-to-leave?traffic_source=rss",
-      "source": "Al Jazeera",
-      "summary": "数十名抗议者在 Palantir 联合创始人彼得·蒂尔新建的阿根廷豪宅前举行示威，要求其离开。这凸显了拉美社会对硅谷资本与本国政治绑定、数据隐私垄断的担忧。\n\nProtesters demonstrated outside Palantir co-founder Peter Thiel's new mansion in Argentina, demanding his departure and reflecting local concerns over Silicon Valley's political influence and data privacy issues.",
-      "importance": 7
+      "title": "基辅武器仓库遭袭击，造成惨重伤亡 / Kyiv Weapons Depot Strike Causes Casualties",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "summary": "基辅一处武器仓库发生袭击导致至少 37 人死亡，引发了关于城市居民区存储军事设施的安全调查。\n\nA strike on a weapons depot in Kyiv has resulted in at least 37 deaths, sparking investigations into the safety of storing military equipment near residential areas.",
+      "importance": 8
     }
   ],
-  "editor_note": "",
-  "keywords": [],
-  "career_advice": [],
+  "editor_note": "AI 正在从「生产力工具」进化为「科研与工程主体」。在技术颠覆与全球政治震荡并行下，唯有保持核心技能的不可替代性，才能在动态世界中立足。",
+  "keywords": [
+    "AI 自进化",
+    "能源地缘政治",
+    "软件自动化",
+    "光伏产业",
+    "资产避险",
+    "端侧部署"
+  ],
+  "career_advice": [
+    "拒绝低阶重复工作，拥抱 Agent 开发：与其纠结于如何写代码，不如学习如何指挥 AI Agent 构建工作流，这是未来五年工程师的核心竞争力。",
+    "关注周期性行业外溢机会：在 AI 高溢价时期，关注被市场暂时低估的传统制造或医药行业，那里可能藏着估值修复的结构性机会。",
+    "提升复杂决策能力：随着 AI 对执行层的全面接管，人类价值将向「定义问题」与「处理高风险决策」转移，请着重培养解决模糊问题的深度思考力。"
+  ],
   "trading": {
-    "market_overview": "今日市场整体呈现分化态势。美股大盘略有震荡，SPY 微跌 0.23% 报 769.35，但科技巨头表现亮眼。在加密市场方面，目前总市值为 2.63 万亿美元（24小时下跌 2.7%），其中比特币占绝对主导地位，占比达 59.5%，而以太坊为 11.2%，加密恐慌贪婪指数录得 69，显示出市场的「贪婪」情绪。对于普通人来说，这带来了两点启示：第一，美元兑人民币汇率回落至 6.72 附近，RSI 触及 23.4 的超卖极值，这意味着海淘、海外旅游的性价比正在显著提升，有刚需的朋友可以考虑分批锁定汇率；第二，美债收益率依然维持在 4.72% 的高位，理财上可以多关注一些定存或低风险货币基金。面对市场的诱惑，请捂紧钱包，控制定投节奏，切忌盲目追高。",
+    "market_overview": "当前市场呈现出复杂的情绪波动，加密市场虽然受贪婪情绪（69点）驱动，但整体总市值小幅下行，显示出获利盘的回吐迹象。对于咱们普通人而言，现在的理财逻辑可以归纳为三点：第一，美元兑人民币汇率处于低位，如果你近期有海淘计划或出国旅游的打算，现在的汇率窗口期非常友好，换汇成本相对较低；第二，黄金期货近期有1.73%的单日回调，对于刚需备货或长线定投的朋友来说，趁波动适当分批吸筹比高位抢购更理智；第三，美股科技龙头波动加大，建议避开RSI超买区域的追高风险，回归稳健的定投策略，不要被市场的『贪婪指数』带着节奏盲目冲进加密货币市场，务必保留好现金流储备。",
     "watchlist": [
       {
         "symbol": "USDCNY=X",
-        "display_name": "美元 / 人民币 (USDCNY=X)",
+        "display_name": "美元 / 人民币",
         "stance": "偏下行",
-        "rationale": "目前汇率降至 6.72，日跌幅 0.03%，RSI 指标低至 23.4 处于严重超卖区间，整体呈现下行通道。这对于海淘党和计划出国旅游的朋友是个极大的省钱红包，购买海外商品、兑换美元或缴纳留学学费的实际人民币成本变便宜了。"
+        "rationale": "当前汇率处于相对低位（6.72），且处于RSI超卖区间，显示人民币汇率韧性较强。对于普通消费者，这意味着近期无论是海淘海外商品，还是准备出境旅游兑换外币，成本都处于近一年的极佳点位。建议有刚需者可提前小额购汇，不必过度焦虑短期波动。"
+      },
+      {
+        "symbol": "BTC-USD",
+        "display_name": "比特币",
+        "stance": "偏上行",
+        "rationale": "尽管市场贪婪指数处于69的高位且RSI指标显示超买（72.2），资产价格短期表现活跃。但由于其近期距离52周高点仍有明显空间，属于高波动品种。普通投资者若未持有，不宜此时盲目加仓，建议观察回调机会，切忌在贪婪情绪高涨时进行高杠杆投机。"
+      },
+      {
+        "symbol": "GC=F",
+        "display_name": "黄金期货",
+        "stance": "中性",
+        "rationale": "黄金期货单日跌幅达1.73%，价格波动有所加大。虽然金价依然维持在长期均线之上，但短期技术性回调为长线配置提供了空间。建议将黄金作为家庭资产防守的『压舱石』，不要试图短期炒作，应关注长期的对冲价值，趁回调分批购入实物金或低费率理财更为稳妥。"
       },
       {
         "symbol": "AAPL",
         "display_name": "苹果 (AAPL)",
         "stance": "偏上行",
-        "rationale": "股价报 319.7 美元，单日上涨 1.63%，5日累计涨幅达 3.35%。技术面出现 MACD 金叉且均线呈多头排列，RSI14 为 57.4 处于健康区间。苹果走势偏上行，定投美股科技基金的朋友可以继续稳步持有，但无需急于大笔追高。"
-      },
-      {
-        "symbol": "BTC-USD",
-        "display_name": "比特币 (BTC-USD)",
-        "stance": "中性",
-        "rationale": "目前价格在 78127.58 美元，RSI 指标达 71.4，显示出超买信号，短期有回调压力。结合加密市场 69 的贪婪情绪，目前市场偏向狂热。普通投资者建议保持中性观望，此时不建议盲目满仓杀入，避免在高位被套，以守住钱包为主。"
+        "rationale": "苹果股价近期出现MACD金叉，且处于多头排列趋势，显示出较强的抗跌和反弹力度。作为普通投资者关注的权重股，其稳健的现金流和基本面支撑较强。如果你是该公司的长期支持者，目前的趋势信号偏向积极，可作为资产组合中稳健成长的关注标的。"
       }
     ],
-    "risk_caveat": "本报告基于公开行情数据及技术指标分析，旨在提供生活化的理财启示。市场有风险，投资需谨慎，相关内容仅供交流参考，不构成实质投资建议。请根据个人风险承受能力理性消费与投资。",
+    "risk_caveat": "本报告提供的信息基于实时市场数据，仅供交流参考，不构成实质投资建议。金融市场波动剧烈，任何资产买卖行为均存在亏损风险，请务必根据个人财务状况和风险承受能力独立决策，谨慎操作。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -342,18 +338,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 78127.58,
-        "pct1Day": 0.38197331794729483,
-        "pct5Day": -1.0598490975076391,
-        "pct52WeekHigh": -38.09130361502359,
-        "pct52WeekLow": 35.29108641189686,
-        "sma20": 71025.8849609375,
-        "sma50": 67001.7621875,
-        "sma200": 69309.7868359375,
-        "rsi14": 71.4370072409736,
-        "macd": 4012.9380731257406,
-        "macdSignal": 3278.9791329701657,
-        "macdHistogram": 733.958940155575,
+        "currentPrice": 78604.27,
+        "pct1Day": 0.9944469522379323,
+        "pct5Day": -0.4561726424874106,
+        "pct52WeekHigh": -37.71357200629138,
+        "pct52WeekLow": 36.11655557376886,
+        "sma20": 71049.7197265625,
+        "sma50": 67011.29609375,
+        "sma200": 69312.1703125,
+        "rsi14": 72.23510404730848,
+        "macd": 4050.96504962146,
+        "macdSignal": 3286.5845282693094,
+        "macdHistogram": 764.3805213521505,
         "trend": "neutral",
         "rsiState": "overbought",
         "signals": [
@@ -369,18 +365,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 2458.09,
-        "pct1Day": 0.6368017518294345,
-        "pct5Day": -0.9566040544067221,
-        "pct52WeekHigh": -48.39589105255721,
-        "pct52WeekLow": 63.164965821576544,
-        "sma20": 2190.121057128906,
-        "sma50": 2004.76638671875,
-        "sma200": 2020.2732934570313,
-        "rsi14": 70.95129997987125,
-        "macd": 161.67369931253506,
-        "macdSignal": 139.534416825987,
-        "macdHistogram": 22.13928248654807,
+        "currentPrice": 2463.61,
+        "pct1Day": 0.8627963841130761,
+        "pct5Day": -0.7341876475136982,
+        "pct52WeekHigh": -48.28000649121492,
+        "pct52WeekLow": 63.5313765759977,
+        "sma20": 2190.3970581054687,
+        "sma50": 2004.876787109375,
+        "sma200": 2020.3008935546875,
+        "rsi14": 71.18849289963764,
+        "macd": 162.1140427509249,
+        "macdSignal": 139.62248551366497,
+        "macdHistogram": 22.49155723725994,
         "trend": "neutral",
         "rsiState": "overbought",
         "signals": [
@@ -396,18 +392,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 105.02,
-        "pct1Day": 0.8576519798173015,
-        "pct5Day": 6.552579424747503,
-        "pct52WeekHigh": -58.52452846432941,
-        "pct52WeekLow": 73.83180787728553,
-        "sma20": 87.68323020935058,
-        "sma50": 80.14989654541016,
-        "sma200": 81.67707000732422,
-        "rsi14": 75.51130517834605,
-        "macd": 7.800718979059653,
-        "macdSignal": 5.681258811891501,
-        "macdHistogram": 2.1194601671681514,
+        "currentPrice": 105.47,
+        "pct1Day": 1.2898167426331277,
+        "pct5Day": 7.0091463714351505,
+        "pct52WeekHigh": -58.346810294542195,
+        "pct52WeekLow": 74.5766594631242,
+        "sma20": 87.70573043823242,
+        "sma50": 80.1588966369629,
+        "sma200": 81.67932003021241,
+        "rsi14": 75.82249729654228,
+        "macd": 7.836616780124686,
+        "macdSignal": 5.688438372104509,
+        "macdHistogram": 2.1481784080201773,
         "trend": "neutral",
         "rsiState": "overbought",
         "signals": [
@@ -703,13 +699,13 @@
       "timestamp": "2026-08-30T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2629920937555.041,
-      "total24hVolumeUsd": 40396341889.091705,
-      "marketCapChangePct24h": -2.7013451204892904,
-      "btcDominance": 59.48078654996439,
-      "ethDominance": 11.24775131926904,
+      "totalMarketCapUsd": 2641453569479.086,
+      "total24hVolumeUsd": 41681527162.65241,
+      "marketCapChangePct24h": -2.2437282559241916,
+      "btcDominance": 59.56119124024182,
+      "ethDominance": 11.218612682409056,
       "activeCryptocurrencies": 19415
     },
-    "generated_at": "2026-08-30T11:55:20.737Z"
+    "generated_at": "2026-08-30T12:51:01.767Z"
   }
 }
