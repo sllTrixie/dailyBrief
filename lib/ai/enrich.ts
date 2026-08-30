@@ -278,6 +278,7 @@ async function runEnrichment(
         console.error(`[enrich] ${scope} summaries failed after ${MAX_RETRIES} attempts: ${e instanceof Error ? e.message : e}`);
         return result;
       }
+      await new Promise((r) => setTimeout(r, 10000));
       console.warn(`[enrich] ${scope} summaries attempt ${attempt} failed, retrying... (${e instanceof Error ? e.message : e})`);
     }
   }

@@ -233,8 +233,9 @@ export async function generateDailyReport(
       if (attempt >= MAX_RETRIES) {
         throw new Error(`[pipeline] failed after ${MAX_RETRIES} attempts: ${err instanceof Error ? err.message : String(err)}`);
       }
+      await new Promise((r) => setTimeout(r, 10000));
       console.warn(
-        `[pipeline] claude CLI call attempt ${attempt} failed, retrying: ${
+        `[pipeline] LLM call attempt ${attempt} failed, retrying: ${
           err instanceof Error ? err.message : String(err)
         }`,
       );

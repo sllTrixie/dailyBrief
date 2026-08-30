@@ -219,6 +219,7 @@ export async function generateTradingCommentary(
     } catch (err) {
       const msg = err instanceof Error ? err.message : String(err);
       if (attempt < MAX_ATTEMPTS) {
+        await new Promise((r) => setTimeout(r, 10000));
         console.warn(
           `[trading-commentary] attempt ${attempt}/${MAX_ATTEMPTS} failed, retrying: ${msg}`,
         );
