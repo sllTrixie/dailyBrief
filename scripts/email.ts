@@ -55,7 +55,7 @@ async function main() {
 
     <div style="text-align: center; margin-top: 30px;">
       <a href="${repoUrl}" style="background-color: #1a73e8; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-        👉 猛戳这里在手机上阅读今日完整简报
+        👉 戳这里阅读今日完整日报
       </a>
       <p style="font-size: 12px; color: #999; margin-top: 15px;">直接点击即可在手机浏览器中获得最佳的无缝阅读体验</p>
     </div>
