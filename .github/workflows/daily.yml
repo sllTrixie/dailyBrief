@@ -62,8 +62,8 @@ jobs:
       - name: Check schedule
         id: check
         env:
-          REPORT_TZ: ${{ vars.REPORT_TZ }}
-          REPORT_HOUR: ${{ vars.REPORT_HOUR }}
+          REPORT_TZ: ${{ vars.REPORT_TZ || 'Asia/Shanghai' }}
+          REPORT_HOUR: ${{ vars.REPORT_HOUR || '8' }}
           REPORT_DAYS: ${{ vars.REPORT_DAYS }}
           EVENT_NAME: ${{ github.event_name }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -236,7 +236,7 @@ jobs:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
           REPORT_LOCALE: ${{ vars.REPORT_LOCALE || 'zh' }}
-          REPORT_TZ: ${{ vars.REPORT_TZ }}
+          REPORT_TZ: ${{ vars.REPORT_TZ || 'Asia/Shanghai' }}
           # Sources to skip in CI (comma-separated ids). linux.do's WAF blocks
           # datacenter egress from Actions runners (and Cloudflare Workers too —
           # no free proxy gets through), so fetching it here always fails. It
