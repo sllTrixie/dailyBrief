@@ -80,6 +80,17 @@ child.on("close", (code) => {
       );
     }
 
+    // Send email (no-op if SMTP config not set)
+    fs.appendFileSync(logFile, `[${now()}] sending email…\n`);
+    const emailResult = spawnSyncShim("npm", ["run", "email"], {
+      cwd: projectRoot,
+    });
+    if (emailResult.status === 0) {
+      fs.appendFileSync(logFile, `[${now()}] email OK\n`);
+    } else {
+      fs.appendFileSync(logFile, `[${now()}] email FAILED (exit ${emailResult.status})\n`);
+    }
+
     // Detached so we don't block on Chrome's lifetime. Errors here are
     // cosmetic — the report exists on disk regardless.
     const opener = spawn("npm", ["run", "open"], {

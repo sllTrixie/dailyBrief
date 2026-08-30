@@ -6,10 +6,11 @@ name: Daily Brief
 #   1. Settings → Actions → General → enable workflows (forked repos start disabled)
 #   2. Settings → Pages → Build & deployment → Source: "Deploy from a branch" → gh-pages / root
 #   3. Settings → Secrets and variables → Actions:
-#        - Secrets: DEEPSEEK_API_KEY (or ANTHROPIC / OPENAI / MINIMAX / ZHIPU as you prefer)
+#        - Secrets: DEEPSEEK_API_KEY (or GEMINI / ANTHROPIC / OPENAI / MINIMAX / ZHIPU as you prefer)
+#                   SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASS, EMAIL_TO (for email notifications)
 #        - Variables (all optional, sensible defaults provided):
-#            LLM_BACKEND     deepseek | anthropic | openai | minimax | zhipu    (default: deepseek)
-#            LLM_MODEL       e.g. deepseek-v4-flash / claude-sonnet-4-6  (backend default if unset)
+#            LLM_BACKEND     gemini | deepseek | anthropic | openai | minimax | zhipu    (default: gemini)
+#            LLM_MODEL       e.g. gemini-3.5-flash / claude-sonnet-4-6  (backend default if unset)
 #            REPORT_LOCALE   zh | en                                    (default: zh)
 #            REPORT_TZ       IANA tz, e.g. Asia/Shanghai / UTC          (default: UTC in CI)
 #            REPORT_HOUR     trigger hour(s) in REPORT_TZ, comma-list   (default: 8 — 08:00)
@@ -211,13 +212,14 @@ jobs:
 
       - name: Generate today's report
         env:
-          LLM_BACKEND: ${{ vars.LLM_BACKEND || 'deepseek' }}
+          LLM_BACKEND: ${{ vars.LLM_BACKEND || 'gemini' }}
           LLM_MODEL: ${{ vars.LLM_MODEL }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
           ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           # Optional proxy / self-hosted endpoints — forward whatever the
           # forker set in Settings → Variables. Empty values are a no-op
           # (backends fall back to the official URL in code).
@@ -226,6 +228,7 @@ jobs:
           DEEPSEEK_BASE_URL: ${{ vars.DEEPSEEK_BASE_URL }}
           MINIMAX_BASE_URL: ${{ vars.MINIMAX_BASE_URL }}
           ZHIPU_BASE_URL: ${{ vars.ZHIPU_BASE_URL }}
+          GEMINI_BASE_URL: ${{ vars.GEMINI_BASE_URL }}
           # Generic aliases — handy when pointing at an OpenAI/Anthropic
           # compatible service that isn't one of the named presets (Moonshot,
           # SiliconFlow, OpenRouter, self-hosted, ...). Provider-specific
@@ -246,6 +249,16 @@ jobs:
 
       - name: Build static site (index + archive)
         run: npm run build-site
+
+      - name: Send Email
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST || 'smtp.qq.com' }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT || '465' }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        continue-on-error: true
+        run: npm run email
 
       - name: Publish to gh-pages
         uses: peaceiris/actions-gh-pages@v4

@@ -1198,6 +1198,21 @@ export function renderHtml(
     ${process.env.WEB_MODE === "true" ? `<a class="archive-link" href="../archive.html">${STR.archiveLink}</a>` : ""}
   </header>
 
+  ${report.hero_headline ? `
+  <section class="hero-card" style="margin-bottom: 1.5rem;">
+    <span class="hero-eyebrow">今日概览 · AI Digest</span>
+    <h2 class="hero-headline">${escapeHtml(report.hero_headline)}</h2>
+    ${report.daily_overview ? `<div class="overview-card" style="margin-top: 1rem;"><p class="overview-text">${escapeHtml(report.daily_overview).replace(/\n/g, '<br>')}</p></div>` : ""}
+    ${report.career_advice && report.career_advice.length > 0 ? `
+    <div class="editor-card" style="margin-top: 1rem;">
+      <span class="eyebrow">💡 行业趋势与人生建议</span>
+      <ul style="margin: 0; padding-left: 1.2rem; font-size: 0.95rem; color: var(--fg); line-height: 1.6;">
+        ${report.career_advice.map((advice: string) => `<li style="margin-bottom: 0.5rem;">${escapeHtml(advice)}</li>`).join('')}
+      </ul>
+    </div>
+    ` : ""}
+  </section>` : ""}
+
   <nav class="tabs" role="tablist">
     <button class="tab active" data-tab="tech">${CATEGORY_LABELS.tech}<span class="count">${counts.tech}</span></button>
     ${trading ? `<button class="tab" data-tab="trading">${STR.catTrading}<span class="count">${trading.tickers.length}</span></button>` : ""}

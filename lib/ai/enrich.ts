@@ -247,24 +247,40 @@ async function runEnrichment(
 
   const result = new Map<string, string>();
 
-  try {
-    const { text } = await runLlm({
-      systemPrompt,
-      userPrompt,
-      timeoutMs: 240_000,
-    });
-    const cleaned = extractJson(text);
-
-    let parsed: { summaries?: Array<{ url?: string; summary?: string }> };
+  let attempt = 0;
+  const MAX_RETRIES = 2;
+  
+  while (attempt < MAX_RETRIES) {
+    attempt++;
     try {
-      parsed = JSON.parse(cleaned);
-    } catch {
-      parsed = JSON.parse(jsonrepair(cleaned));
-    }
+      const { text } = await runLlm({
+        systemPrompt,
+        userPrompt,
+        timeoutMs: 240_000,
+      });
+      const cleaned = extractJson(text);
 
-    for (const s of parsed.summaries ?? []) {
-      if (s.url && s.summary) result.set(s.url, s.summary.trim());
+      let parsed: { summaries?: Array<{ url?: string; summary?: string }> };
+      try {
+        parsed = JSON.parse(cleaned);
+      } catch {
+        parsed = JSON.parse(jsonrepair(cleaned));
+      }
+
+      for (const s of parsed.summaries ?? []) {
+        if (s.url && s.summary) result.set(s.url, s.summary.trim());
+      }
+      
+      // If we succeed, break out of the retry loop
+      break;
+    } catch (e) {
+      if (attempt >= MAX_RETRIES) {
+        console.error(`[enrich] ${scope} summaries failed after ${MAX_RETRIES} attempts: ${e instanceof Error ? e.message : e}`);
+        return result;
+      }
+      console.warn(`[enrich] ${scope} summaries attempt ${attempt} failed, retrying... (${e instanceof Error ? e.message : e})`);
     }
+  }
 
     // Diagnostic: if we got back substantially fewer entries than asked for,
     // dump the raw LLM output so the cause is visible without re-running.
@@ -289,10 +305,7 @@ async function runEnrichment(
         // Can't write log (read-only fs?) — non-fatal, just skip.
       }
     }
-  } catch (e) {
-    const msg = e instanceof Error ? e.message : String(e);
-    console.warn(`[enrich] ${scope} failed: ${msg}`);
-  }
+
 
   return result;
 }

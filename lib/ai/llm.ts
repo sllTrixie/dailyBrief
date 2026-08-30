@@ -45,7 +45,8 @@ export type LlmBackendId =
   | "openai"
   | "deepseek"
   | "minimax"
-  | "zhipu";
+  | "zhipu"
+  | "gemini";
 
 const VALID_BACKENDS: ReadonlySet<LlmBackendId> = new Set([
   "claude-cli",
@@ -54,6 +55,7 @@ const VALID_BACKENDS: ReadonlySet<LlmBackendId> = new Set([
   "deepseek",
   "minimax",
   "zhipu",
+  "gemini",
 ]);
 
 export function getBackend(): LlmBackendId {
@@ -80,6 +82,7 @@ function getActiveModel(backend: LlmBackendId): string {
     case "openai":
     case "deepseek":
     case "minimax":
+    case "gemini":
       return openaiCompatModel(OPENAI_PRESETS[backend]);
   }
 }
@@ -100,6 +103,7 @@ export async function runLlm(opts: LlmRunOptions): Promise<LlmRunResult> {
     case "openai":
     case "deepseek":
     case "minimax":
+    case "gemini":
       return runOpenAICompat(opts, OPENAI_PRESETS[backend]);
   }
 }
@@ -124,6 +128,7 @@ export function validateBackendCredentials(): void {
     deepseek: "DEEPSEEK_API_KEY",
     minimax: "MINIMAX_API_KEY",
     zhipu: "ZHIPU_API_KEY",
+    gemini: "GEMINI_API_KEY",
   };
   const requiredVar = required[backend];
 

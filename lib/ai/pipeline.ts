@@ -24,6 +24,7 @@ export interface DailyReport {
   politics_briefs: BriefItem[];
   editor_note: string;
   keywords: string[];
+  career_advice?: string[];
   /** Optional trading-signals section, present when scripts/daily.ts ran successfully. */
   trading?: TradingSection;
 }
@@ -190,6 +191,7 @@ async function callOnce(userPayloadJson: string): Promise<DailyReport> {
     politics_briefs: parsed.politics_briefs ?? [],
     editor_note: parsed.editor_note ?? "",
     keywords: parsed.keywords ?? [],
+    career_advice: parsed.career_advice ?? [],
   };
 }
 
@@ -218,18 +220,29 @@ export async function generateDailyReport(
   }));
   const userPayloadJson = JSON.stringify(userPayload);
 
-  let report: DailyReport;
-  try {
-    report = await callOnce(userPayloadJson);
-  } catch (firstErr) {
-    // One retry — claude CLI occasionally wraps in narration on the first
-    // pass but obeys when the same prompt is repeated.
-    console.warn(
-      `[pipeline] first claude CLI call failed, retrying: ${
-        firstErr instanceof Error ? firstErr.message : String(firstErr)
-      }`,
-    );
-    report = await callOnce(userPayloadJson);
+  let report: DailyReport | undefined;
+  let attempt = 0;
+  const MAX_RETRIES = 3;
+  
+  while (attempt < MAX_RETRIES) {
+    attempt++;
+    try {
+      report = await callOnce(userPayloadJson);
+      break;
+    } catch (err) {
+      if (attempt >= MAX_RETRIES) {
+        throw new Error(`[pipeline] failed after ${MAX_RETRIES} attempts: ${err instanceof Error ? err.message : String(err)}`);
+      }
+      console.warn(
+        `[pipeline] claude CLI call attempt ${attempt} failed, retrying: ${
+          err instanceof Error ? err.message : String(err)
+        }`,
+      );
+    }
+  }
+  
+  if (!report) {
+    throw new Error("Failed to generate report");
   }
 
   // Max subscription has no per-call token meter — we expose 0 for schema

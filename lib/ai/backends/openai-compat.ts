@@ -9,7 +9,7 @@ import type { LlmRunOptions, LlmRunResult } from "../llm";
  */
 export interface OpenAICompatConfig {
   /** Stable backend id, used in logs and error messages */
-  backend: "openai" | "deepseek" | "minimax";
+  backend: "openai" | "deepseek" | "minimax" | "gemini";
   defaultBaseUrl: string;
   defaultModel: string;
   apiKeyEnv: string;
@@ -39,6 +39,13 @@ export const PRESETS: Record<OpenAICompatConfig["backend"], OpenAICompatConfig> 
     defaultModel: "MiniMax-M2.7",
     apiKeyEnv: "MINIMAX_API_KEY",
     baseUrlEnv: "MINIMAX_BASE_URL",
+  },
+  gemini: {
+    backend: "gemini",
+    defaultBaseUrl: "https://generativelanguage.googleapis.com/v1beta/openai/",
+    defaultModel: "gemini-3.5-flash",
+    apiKeyEnv: "GEMINI_API_KEY",
+    baseUrlEnv: "GEMINI_BASE_URL",
   },
 };
 
