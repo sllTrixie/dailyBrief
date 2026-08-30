@@ -9,15 +9,15 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6.svg)](https://www.typescriptlang.org/)
 [![LLM: pluggable](https://img.shields.io/badge/LLM-pluggable%20(6%20backends)-orange.svg)](#-llm-后端配置)
 [![Deploy: GH Actions](https://img.shields.io/badge/deploy-GitHub%20Actions-2088ff.svg)](#a-github-actions--pages零基础设施推荐)
-[![Demo: live](https://img.shields.io/badge/demo-leiting--eric.github.io%2FDailyBrief-brightgreen.svg)](https://leiting-eric.github.io/DailyBrief)
-[![Stars](https://img.shields.io/github/stars/leiting-eric/DailyBrief?style=social)](https://github.com/leiting-eric/DailyBrief)
+[![Demo: live](https://img.shields.io/badge/demo-sllTrixie.github.io%2FdailyBrief-brightgreen.svg)](https://sllTrixie.github.io/dailyBrief)
+[![Stars](https://img.shields.io/github/stars/sllTrixie/dailyBrief?style=social)](https://github.com/sllTrixie/dailyBrief)
 
 > **你的私人 AI 每日简报，跑在你自己掌控的基础设施上。** 默认启用 26 个数据源 · LLM 摘要 · 21 个股票/加密标的**技术指标 + AI 交易点评** · 中英双语 · 6 个 LLM 后端可选。
 >
 > **三种部署任选**：[**🚀 5 分钟 Fork 到 GitHub Actions**](#a-github-actions--pages零基础设施推荐) · [**💻 本地一键装**](#b-本地一键装) · [**🤖 一句话让 AI Agent 帮你装**](#c-给-ai-agent-一句话装)。
 
 **🌐 Live demos** —
-[📰 leiting-eric.github.io/DailyBrief](https://leiting-eric.github.io/DailyBrief)（A 方式 · GitHub Actions + Pages）
+[📰 sllTrixie.github.io/dailyBrief](https://sllTrixie.github.io/dailyBrief)（A 方式 · GitHub Actions + Pages）
 ·
 [📰 daily.leiting.tech](https://daily.leiting.tech)（B 方式 · 本地服务器部署）
 
@@ -158,10 +158,10 @@
 
 ```bash
 # Linux / macOS
-curl -sSL https://raw.githubusercontent.com/leiting-eric/DailyBrief/main/bootstrap.mjs | node
+curl -sSL https://raw.githubusercontent.com/sllTrixie/dailyBrief/main/bootstrap.mjs | node
 
 # Windows PowerShell
-irm https://raw.githubusercontent.com/leiting-eric/DailyBrief/main/bootstrap.mjs | node -
+irm https://raw.githubusercontent.com/sllTrixie/dailyBrief/main/bootstrap.mjs | node -
 ```
 
 这条命令会自动：
@@ -194,7 +194,7 @@ node bootstrap.mjs --target /custom/path --at 07:30
 无论你用哪个 AI Agent（Claude Code / Cursor / Codex / Continue.dev / OpenClaw 等），把下面这段发给它：
 
 > 帮我装这个开源项目，按 README 的"本地一键装"流程跑 bootstrap，完成后告诉我下次自动触发的时间：
-> https://github.com/leiting-eric/DailyBrief
+> https://github.com/sllTrixie/dailyBrief
 
 项目里有 [`AGENTS.md`](AGENTS.md)（通用 agent 协议）+ [`.claude/skills/daily-brief/SKILL.md`](.claude/skills/daily-brief/SKILL.md)（Claude Code 专属，更详细），Agent 装完后能直接帮你诊断"今天报告没出来"、"加个新数据源"这类问题。
 
@@ -212,7 +212,7 @@ node bootstrap.mjs --target /custom/path --at 07:30
 
 ```bash
 # 1. clone + 依赖
-git clone https://github.com/leiting-eric/DailyBrief.git
+git clone https://github.com/sllTrixie/DailyBrief.git
 cd DailyBrief
 npm install
 
@@ -520,7 +520,9 @@ node scripts/uninstall.mjs
 
 ## 🙏 致谢
 
-本项目在 [LINUX DO](https://linux.do) 开源社区分享推广，感谢佬友们的反馈与建议。
+本项目是基于 [leiting-eric/DailyBrief](https://github.com/leiting-eric/DailyBrief) 的二次开发定制版本。感谢原作者出色的开源工作！
+
+原项目在 [LINUX DO](https://linux.do) 开源社区分享推广，感谢佬友们的反馈与建议。
 
 ## 📝 License
 
@@ -541,15 +543,15 @@ MIT
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6.svg)](https://www.typescriptlang.org/)
 [![LLM: pluggable](https://img.shields.io/badge/LLM-pluggable%20(6%20backends)-orange.svg)](#-llm-backend-configuration)
 [![Deploy: GH Actions](https://img.shields.io/badge/deploy-GitHub%20Actions-2088ff.svg)](#a-github-actions--pages-zero-infra-recommended)
-[![Demo: live](https://img.shields.io/badge/demo-leiting--eric.github.io%2FDailyBrief-brightgreen.svg)](https://leiting-eric.github.io/DailyBrief)
-[![Stars](https://img.shields.io/github/stars/leiting-eric/DailyBrief?style=social)](https://github.com/leiting-eric/DailyBrief)
+[![Demo: live](https://img.shields.io/badge/demo-sllTrixie.github.io%2FdailyBrief-brightgreen.svg)](https://sllTrixie.github.io/dailyBrief)
+[![Stars](https://img.shields.io/github/stars/sllTrixie/dailyBrief?style=social)](https://github.com/sllTrixie/dailyBrief)
 
 > **Your own AI-curated daily news brief, on infrastructure you control.** 26 sources enabled by default · LLM summaries · 21-ticker market panel with SMA/RSI/MACD signals + AI commentary · bilingual (zh/en) · 6 swappable LLM backends.
 >
 > **Three deployment paths, pick one:** [**🚀 5-min GitHub Actions fork**](#a-github-actions--pages-zero-infra-recommended) · [**💻 local one-liner install**](#b-local-one-liner-install) · [**🤖 have an AI agent install it for you**](#c-have-an-ai-agent-install-it-for-you).
 
 **🌐 Live demos** —
-[📰 leiting-eric.github.io/DailyBrief](https://leiting-eric.github.io/DailyBrief) (path A · GitHub Actions + Pages)
+[📰 sllTrixie.github.io/dailyBrief](https://sllTrixie.github.io/dailyBrief) (path A · GitHub Actions + Pages)
 ·
 [📰 daily.leiting.tech](https://daily.leiting.tech) (path B · self-hosted server)
 
@@ -690,10 +692,10 @@ If you just want the default (08:00 local daily), **set only `REPORT_TZ`** (e.g.
 
 ```bash
 # Linux / macOS
-curl -sSL https://raw.githubusercontent.com/leiting-eric/DailyBrief/main/bootstrap.mjs | node
+curl -sSL https://raw.githubusercontent.com/sllTrixie/dailyBrief/main/bootstrap.mjs | node
 
 # Windows PowerShell
-irm https://raw.githubusercontent.com/leiting-eric/DailyBrief/main/bootstrap.mjs | node -
+irm https://raw.githubusercontent.com/sllTrixie/dailyBrief/main/bootstrap.mjs | node -
 ```
 
 This script will:
@@ -726,7 +728,7 @@ node bootstrap.mjs --target /custom/path --at 07:30
 Whichever AI agent you use (Claude Code / Cursor / Codex / Continue.dev / OpenClaw / etc.), send it this prompt:
 
 > Please install this open-source project following the README's "local one-liner" path with bootstrap, and tell me when the next auto-trigger will fire:
-> https://github.com/leiting-eric/DailyBrief
+> https://github.com/sllTrixie/dailyBrief
 
 The repo includes [`AGENTS.md`](AGENTS.md) (universal agent protocol) and [`.claude/skills/daily-brief/SKILL.md`](.claude/skills/daily-brief/SKILL.md) (Claude Code-specific, more detailed). After install, the agent can help diagnose things like "today's report didn't come out" or "add a new source".
 
@@ -744,7 +746,7 @@ The repo includes [`AGENTS.md`](AGENTS.md) (universal agent protocol) and [`.cla
 
 ```bash
 # 1. Clone + dependencies
-git clone https://github.com/leiting-eric/DailyBrief.git
+git clone https://github.com/sllTrixie/DailyBrief.git
 cd DailyBrief
 npm install
 
@@ -1052,7 +1054,9 @@ Change sources, schedule, layout, add new panels — see [FORKING.md](FORKING.md
 
 ## 🙏 Acknowledgments
 
-This project is shared on the [LINUX DO](https://linux.do) open-source community. Thanks to the community members for feedback and suggestions.
+This project is a customized version based on the excellent open-source work by [leiting-eric/DailyBrief](https://github.com/leiting-eric/DailyBrief). Huge thanks to the original author!
+
+The original project was shared on the [LINUX DO](https://linux.do) open-source community. Thanks to the community members for feedback and suggestions.
 
 ## 📝 License
 
