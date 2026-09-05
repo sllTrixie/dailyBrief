@@ -1,0 +1,2912 @@
+{
+  "date": "2026-09-05",
+  "articles": [
+    {
+      "sourceId": "github-trending",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "excerpt": "Skills for Real Engineers. Straight from my .agents directory.",
+      "meta": "Shell · ★ 250,355 · 🍴 21,156 · 📈 2,758 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "这是由 Matt Pocock 分享的工程实践技能库。项目直接提取自作者的 .agents 目录，为开发者提供了一系列旨在提升 AI Agent 编码能力的实用工具与指令，帮助工程师更高效地利用 AI 自动化处理日常开发任务。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "excerpt": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "meta": "JavaScript · ★ 125,966 · 🍴 6,762 · 📈 1,679 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "Ponytail 是一个旨在模拟“最懒资深开发者”思维模式的 AI Agent 工具。其核心理念是“不写代码就是最好的代码”，通过优化决策逻辑，减少不必要的编码工作，帮助开发者以极简思维解决工程问题。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "excerpt": "A modern formatting library",
+      "meta": "C++ · ★ 25,464 · 🍴 3,035 · 📈 688 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "fmt 是一个现代化的 C++ 格式化库，旨在替代传统的 C 语言 printf 系列函数。它提供了类型安全、性能优异的字符串格式化方案，支持更简洁的语法和强大的自定义功能，广泛应用于高性能 C++ 项目中。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "meta": "JavaScript · ★ 248,497 · 🍴 37,457 · 📈 1,135 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "ECC 是一套用于 Agent 的性能优化框架，集成了技能、直觉、记忆、安全及研究导向开发模块。它兼容 Claude Code、Codex、Cursor 等主流工具，旨在提升 AI 编码助手的任务表现与执行稳定性。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "excerpt": "Public repository for Agent Skills",
+      "meta": "Python · ★ 174,124 · 🍴 20,640 · 📈 511 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "这是 Anthropic 官方推出的 Agent 技能开源仓库，用于标准化 AI Agent 的能力集合。开发者可以通过此库学习和集成官方推荐的 Agent 行为模式，从而增强 AI 在处理特定任务时的准确性与实用性。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "excerpt": "Agent skill that removes signs of AI-generated writing from text",
+      "meta": "Python · ★ 42,695 · 🍴 3,607 · 📈 1,130 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "Humanizer 是一个专门用于去除 AI 生成痕迹的 Agent 技能插件。通过对文本进行润色与重构，该工具能使 AI 生成的内容更符合人类书写习惯，适用于需要降低 AI 机器感、提升内容自然度的各类写作场景。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "excerpt": "The agent that grows with you",
+      "meta": "Python · ★ 241,483 · 🍴 49,556 · 📈 720 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "Hermes-agent 是一个具备持续进化能力的开源智能体。它能够随着用户的互动不断成长与优化，通过更个性化的反馈和任务处理机制，为用户提供更符合需求、随时间不断智能化的辅助体验。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "excerpt": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "meta": "Go · ★ 103,568 · 🍴 6,007 · 📈 501 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "Caveman 是一个为 Claude Code 设计的优化插件，通过强迫 AI 使用类似“原始人”的极简语言进行交互，能有效节省 65% 的 Token 消耗。适合对成本敏感、需要极致降低 Token 占用场景的开发者。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "excerpt": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "meta": "TypeScript · ★ 2,457 · 🍴 176 · 📈 391 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "Magnitude 是一个开源推理服务器，专门用于在本地硬件上运行高性能模型。它支持与 Pi、OpenCode、Claude Code 等多种 Agent 框架无缝对接，让用户能够便捷地将本地模型部署到现有的 AI 工作流中。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "bikini/exploitarium",
+      "url": "https://github.com/bikini/exploitarium",
+      "excerpt": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always f",
+      "meta": "Python · ★ 4,506 · 🍴 1,241 · 📈 74 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "Exploitarium 是一个漏洞利用 PoC 及安全研究报告的归档库。该项目收集了大量未经报告的安全漏洞研究成果，旨在为安全研究人员提供交流与验证平台，通过社区化协作推动漏洞挖掘与安全加固。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "bannedbook/fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "excerpt": "翻墙-科学上网",
+      "meta": "Kotlin · ★ 52,763 · 🍴 8,522 · 📈 730 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "该项目提供了一系列关于科学上网与网络绕过技术的指南及工具信息，旨在帮助用户克服网络访问限制，获取互联网自由访问权限，是相关领域内较为知名的开源资源合集。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "excerpt": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "meta": "Python · ★ 17,958 · 🍴 2,357 · 📈 1,345 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "VoiceStudio 是 ElevenLabs 的本地化开源替代方案。它功能全面，涵盖语音克隆、配音设计、视频自动配音、听写、转录及有声书制作，支持 646 种语言，无需依赖云端即可实现高质量的语音合成处理。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "excerpt": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "meta": "Python · ★ 31,044 · 🍴 2,956 · 📈 342 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "TimesFM 是由 Google Research 开发的时间序列基础模型。它通过在大规模预训练数据上训练，具备极强的时间序列预测能力，可广泛应用于金融、气象、物流等领域的趋势分析与预测任务。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "radixark/miles",
+      "url": "https://github.com/radixark/miles",
+      "excerpt": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+      "meta": "Python · ★ 2,549 · 🍴 443 · 📈 64 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "Miles 是一个面向企业的强化学习框架，专注于 LLM 和 VLM 的后训练（Post-training）。该项目由 Slime 衍生并持续演进，通过引入强化学习技术，帮助企业对大型多模态模型进行针对性的微调与对齐优化。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "excerpt": "The open source coding agent.",
+      "meta": "TypeScript · ★ 204,113 · 🍴 26,632 · 📈 345 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "OpenCode 是一个开源的编码智能体项目。它旨在为开发者提供一个可自动化完成代码编写、调试及工程任务的 AI 助手，通过透明的开源架构，让用户能够掌控编码逻辑并根据项目需求进行定制化扩展。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "clshortfuse/renodx",
+      "url": "https://github.com/clshortfuse/renodx",
+      "excerpt": "Renovation Engine for DirectX Games",
+      "meta": "HLSL · ★ 3,523 · 🍴 138 · 📈 261 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "Renodx 是一个 DirectX 游戏的重构引擎工具。通过该框架，玩家和开发者可以为较老或视觉效果受限的游戏注入现代化的渲染技术（如 HDR），从而显著提升经典游戏在现代显示设备上的视觉表现。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "excerpt": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "meta": "HTML · ★ 30,912 · 🍴 1,982 · 📈 437 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "此项目提供了一套包含 38 种类型的高质量编辑图表模板，专为 Claude Code、Codex 等 AI 工具设计。所有资源均为纯 HTML+SVG 格式，摒弃了冗余的视觉特效与框架依赖，确保图表简洁且易于集成。"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "看到 AI 让 Linux 变得真正可用了帖子，想问下现在最推荐的是 Linux 发行版是哪个呢",
+      "url": "https://www.v2ex.com/t/1233928",
+      "excerpt": "110 回复 · Linux 节点",
+      "publishedAt": "2026-08-12T12:27:12.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "求助：有没有无影响检查 /etc/fstab 的可靠方法？",
+      "url": "https://www.v2ex.com/t/1237351",
+      "excerpt": "82 回复 · Linux 节点",
+      "publishedAt": "2026-08-26T06:32:58.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "旧的安卓手机变服务器",
+      "url": "https://www.v2ex.com/t/1238894",
+      "excerpt": "49 回复 · Linux 节点",
+      "publishedAt": "2026-09-02T04:25:12.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "电子产品大涨价，大家还会正常更新数码设备吗？",
+      "url": "https://www.v2ex.com/t/1239196",
+      "excerpt": "48 回复 · Apple 节点",
+      "publishedAt": "2026-09-03T05:59:16.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "MAC Studio M5 Ultra 被延期发货",
+      "url": "https://www.v2ex.com/t/1239084",
+      "excerpt": "30 回复 · Apple 节点",
+      "publishedAt": "2026-09-03T01:08:11.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "怎么搞定纯 Python 代码解码 jpg 图片，要求无外部依赖",
+      "url": "https://www.v2ex.com/t/1224588",
+      "excerpt": "29 回复 · Python 节点",
+      "publishedAt": "2026-07-02T10:48:24.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "求教贴， MBP 和 Mini 哪个更好一些",
+      "url": "https://www.v2ex.com/t/1239476",
+      "excerpt": "22 回复 · Apple 节点",
+      "publishedAt": "2026-09-04T06:13:13.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "借助语音大模型，实现 Linux 下的语音输入，邀请 Linux 桌面用户试试",
+      "url": "https://www.v2ex.com/t/1235328",
+      "excerpt": "21 回复 · Linux 节点",
+      "publishedAt": "2026-08-18T07:58:19.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "AI 让 Linux 变得真正可用了",
+      "url": "https://www.v2ex.com/t/1233912",
+      "excerpt": "20 回复 · Linux 节点",
+      "publishedAt": "2026-08-12T10:35:43.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "想入一台 美版有锁 iPhone air",
+      "url": "https://www.v2ex.com/t/1239363",
+      "excerpt": "20 回复 · Apple 节点",
+      "publishedAt": "2026-09-04T00:12:45.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "没人觉得 cursor 的模型思考很慢嘛，经常思考卡死要手动停止再继续",
+      "url": "https://www.v2ex.com/t/1236767",
+      "excerpt": "18 回复 · Python 节点",
+      "publishedAt": "2026-08-24T04:35:21.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "TG api 我用 google Voice 老申请失败",
+      "url": "https://www.v2ex.com/t/1229505",
+      "excerpt": "17 回复 · Python 节点",
+      "publishedAt": "2026-07-24T03:18:27.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "Scout 是不是一个常用语",
+      "url": "https://www.v2ex.com/t/1239571",
+      "excerpt": "16 回复 · 程序员 节点",
+      "publishedAt": "2026-09-04T11:03:50.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "有人用过 OCLP 给老电脑强制升级 macos 吗",
+      "url": "https://www.v2ex.com/t/1239038",
+      "excerpt": "15 回复 · Apple 节点",
+      "publishedAt": "2026-09-02T14:10:46.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "RUST 语法极其丑陋",
+      "url": "https://www.v2ex.com/t/1221723",
+      "excerpt": "14 回复 · Rust 节点",
+      "publishedAt": "2026-06-21T03:58:46.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "哪位朋友帮忙用 mac 测试下我的 Python 脚本",
+      "url": "https://www.v2ex.com/t/1226427",
+      "excerpt": "12 回复 · Python 节点",
+      "publishedAt": "2026-07-10T08:51:48.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "想入一台港版或者澳版台版的 iPhone1 卡槽+esim",
+      "url": "https://www.v2ex.com/t/1239370",
+      "excerpt": "11 回复 · Apple 节点",
+      "publishedAt": "2026-09-04T00:54:13.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "《财经》8 月刊自己买了国内外主流 Token 套餐，用 OpenCode 把一周额度跑干，发现国内模型比国外还要贵得多（对于个人来说）",
+      "url": "https://www.v2ex.com/t/1239593",
+      "excerpt": "9 回复 · 程序员 节点",
+      "publishedAt": "2026-09-04T14:29:41.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "为什么这段 cuda 的并行前缀算法不会数据竞争",
+      "url": "https://www.v2ex.com/t/1225136",
+      "excerpt": "6 回复 · Python 节点",
+      "publishedAt": "2026-07-05T15:28:48.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "RustDesk 现已支持 Wayland 无人值守远程访问",
+      "url": "https://www.v2ex.com/t/1234773",
+      "excerpt": "6 回复 · Linux 节点",
+      "publishedAt": "2026-08-16T09:56:33.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "[开源自推]我用 Rust 做了一个约 30 MiB 内存的多入口 AI Agent，已经在线跑了半年",
+      "url": "https://www.v2ex.com/t/1231826",
+      "excerpt": "6 回复 · Rust 节点",
+      "publishedAt": "2026-08-03T11:22:03.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "Rust 真是非常适合 AI vibe coding 的语言",
+      "url": "https://www.v2ex.com/t/1193799",
+      "excerpt": "6 回复 · Rust 节点",
+      "publishedAt": "2026-02-24T09:26:47.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "更新了一下自己给 ChatGPT 使用的 MCP Server",
+      "url": "https://www.v2ex.com/t/1239576",
+      "excerpt": "5 回复 · 程序员 节点",
+      "publishedAt": "2026-09-04T12:11:23.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "RustScript: 给你的 Rust 项目带来脚本化功能",
+      "url": "https://www.v2ex.com/t/1226459",
+      "excerpt": "5 回复 · Rust 节点",
+      "publishedAt": "2026-07-10T10:39:53.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "如何理解 rust 闭包的借用值机制? 被借用的值在闭包内到底是什么类型?",
+      "url": "https://www.v2ex.com/t/1212706",
+      "excerpt": "5 回复 · Rust 节点",
+      "publishedAt": "2026-05-14T07:18:22.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "qbitai",
+      "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+      "url": "https://www.qbitai.com/2026/09/484547.html",
+      "excerpt": "国产卡跑出高品质 AI Token 生产级性能",
+      "publishedAt": "2026-09-04T09:23:24.000Z",
+      "category": "tech",
+      "source": "量子位"
+    },
+    {
+      "sourceId": "qbitai",
+      "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+      "url": "https://www.qbitai.com/2026/09/484437.html",
+      "excerpt": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
+      "publishedAt": "2026-09-04T09:19:29.000Z",
+      "category": "tech",
+      "source": "量子位"
+    },
+    {
+      "sourceId": "qbitai",
+      "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
+      "url": "https://www.qbitai.com/2026/09/484293.html",
+      "excerpt": "不训练模型、不调参数",
+      "publishedAt": "2026-09-04T08:57:14.000Z",
+      "category": "tech",
+      "source": "量子位"
+    },
+    {
+      "sourceId": "qbitai",
+      "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
+      "url": "https://www.qbitai.com/2026/09/484203.html",
+      "excerpt": "5000支队伍同台做题，写尽行业四年变化",
+      "publishedAt": "2026-09-04T07:09:43.000Z",
+      "category": "tech",
+      "source": "量子位"
+    },
+    {
+      "sourceId": "qbitai",
+      "title": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
+      "url": "https://www.qbitai.com/2026/09/484163.html",
+      "excerpt": "智能不只是模式识别，更是对世界的建模",
+      "publishedAt": "2026-09-04T06:54:12.000Z",
+      "category": "tech",
+      "source": "量子位"
+    },
+    {
+      "sourceId": "qbitai",
+      "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
+      "url": "https://www.qbitai.com/2026/09/484159.html",
+      "excerpt": "雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。",
+      "publishedAt": "2026-09-04T05:53:09.000Z",
+      "category": "tech",
+      "source": "量子位"
+    },
+    {
+      "sourceId": "qbitai",
+      "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
+      "url": "https://www.qbitai.com/2026/09/484155.html",
+      "excerpt": "",
+      "publishedAt": "2026-09-04T05:48:53.000Z",
+      "category": "tech",
+      "source": "量子位"
+    },
+    {
+      "sourceId": "qbitai",
+      "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
+      "url": "https://www.qbitai.com/2026/09/483984.html",
+      "excerpt": "比新业务更考验一家公司的，可能是怎么对待年轻人。",
+      "publishedAt": "2026-09-04T04:03:04.000Z",
+      "category": "tech",
+      "source": "量子位"
+    },
+    {
+      "sourceId": "qbitai",
+      "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+      "url": "https://www.qbitai.com/2026/09/483598.html",
+      "excerpt": "吃下90%市场",
+      "publishedAt": "2026-09-04T01:40:42.000Z",
+      "category": "tech",
+      "source": "量子位"
+    },
+    {
+      "sourceId": "qbitai",
+      "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
+      "url": "https://www.qbitai.com/2026/09/483948.html",
+      "excerpt": "改进GPT Image 2的噪点问题",
+      "publishedAt": "2026-09-03T21:57:08.000Z",
+      "category": "tech",
+      "source": "量子位"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+      "url": "https://huggingface.co/papers/2609.04148",
+      "excerpt": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent post-training actually requires: each can be re-queried into many verifiable tasks and provides execution feedbac",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "meta": "👍 213",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "针对代码代理训练中可执行环境匮乏的问题，Terminal-Universe 将海量代理轨迹转化为可执行的终端环境。该方法通过复用轨迹数据，将其转换为可验证的任务并提供执行反馈，从而满足代理后训练对大规模高质量环境的需求。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Post-Training",
+      "url": "https://huggingface.co/papers/2608.26730",
+      "excerpt": "Large language models offer broad capabilities, but adapting them to evolving domains, tools, and requirements often entails repeated post-training. Autonomous systems automate parts of this process by proposing updates, training candidates, and using evaluation feedback to select subsequent proposa",
+      "publishedAt": "2026-08-27T00:00:00.000Z",
+      "meta": "👍 139",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "为解决大模型后训练中重复训练的冗余问题，本文提出条件化经验迁移（Conditional Experience Transfer）。通过自动评估反馈机制，判断模型更新是否需要完全重训练，从而优化自主系统在演进领域和工具适配过程中的训练效率。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning",
+      "url": "https://huggingface.co/papers/2609.03430",
+      "excerpt": "Large language models achieve superior performance on tasks that require extended reasoning, but long chains of thought make the KV cache a severe memory bottleneck. Existing KV cache compression methods share one paradigm: score each cached token by some estimate of how much it will matter later, a",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "meta": "👍 123",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "为缓解长思维链导致的 KV Cache 内存瓶颈，本文提出 Random Attention 策略。不同于传统基于重要性评分的剔除法，该方法通过随机采样处理 Cache，旨在高效平衡长文本推理性能与内存开销，改进了大模型推理效率。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
+      "url": "https://huggingface.co/papers/2609.04098",
+      "excerpt": "Hybrid LLMs pair softmax attention with linear-attention layers such as Gated DeltaNet (GDN), whose recurrent state summarizes the context in fixed size. Early community 4-bit quantizations of Qwen3.8-27B (48 GDN layers, 16 attention layers) left the GDN block in 8- or 16-bit precision -- especially",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "meta": "👍 66",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "针对混合架构 LLM，本文研究了 Gated DeltaNet (GDN) 在 4-bit 量化下的鲁棒性。实验表明，GDN 层即便在 4-bit 量化下仍能保持高精度，通过采用 NVFP4 W4A4 量化策略，显著降低了 27B 大模型的显存消耗。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+      "url": "https://huggingface.co/papers/2609.04172",
+      "excerpt": "On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of training data unclear. We examine this role at the data-minimal limit by training on a single query. One-",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "meta": "👍 65",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "本文从数据极简视角重新审视大模型在线策略蒸馏（OPD）。研究发现，即便仅使用单一查询示例进行训练，也能有效完成知识迁移，揭示了数据量与监督信号在模型训练中的本质作用，为高效蒸馏提供了新见解。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+      "url": "https://huggingface.co/papers/2609.04201",
+      "excerpt": "Online 3D reconstruction models perform poorly on long videos. This happens because regressing poses relative to a fixed first-frame anchor forces extrapolation far beyond the training distribution. Small drifts accumulate and amplify into significant geometric collapse. However, we observe that per",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "meta": "👍 34",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "针对在线 3D 重建在长视频中的几何漂移问题，提出 Scal3R。该模型引入高效多相对姿态查询机制，避免了传统固定锚点回归导致的误差累积，有效提升了大规模在线 3D 重建的精度与稳定性。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Editable Visual Design",
+      "url": "https://huggingface.co/papers/2609.04034",
+      "excerpt": "While diffusion base models such as GPT-Image-2 and Nano-Banana exhibit remarkable visual expressiveness, their end-to-end generation inherently yields flattened bitmaps with error-prone text, precluding layer-wise post-editing. Conversely, code-based visual generation via Coding Agents provides pre",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "meta": "👍 32",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "为解决现有扩散模型生成位图难以后期编辑的问题，本文提出 Editable Visual Design。该方法结合代码生成代理，将视觉设计转化为可编辑的代码逻辑，实现了图层级的精确控制与 post-editing 能力。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "WHALE: A Simple Recipe for Joint Harness-Weight Optimization",
+      "url": "https://huggingface.co/papers/2609.00196",
+      "excerpt": "Agent performance depends jointly on the model parameters and the executable harness code that manages context and control flow. Optimizing either component in isolation can leave the system bottlenecked by its frozen counterpart: weight updates can change which harness is effective, while harness u",
+      "publishedAt": "2026-08-31T00:00:00.000Z",
+      "meta": "👍 29",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "针对智能代理表现受限于模型参数与控制代码（harness）的协同问题，提出 WHALE 方法。通过联合优化模型权重与可执行代码，解决两者在孤立优化时的性能瓶颈，实现了更高效的代理任务执行。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Beyond Visual Similarity: Entity-Aligned Retrieval for Knowledge-Based Visual Question Answering",
+      "url": "https://huggingface.co/papers/2608.21450",
+      "excerpt": "Knowledge-Based Visual Question Answering (KB-VQA) relies on retrieving external information to answer queries involving long-tail entities. However, existing retrieval pipelines predominantly employ CLIP-style dual encoders, which prioritize surface-level visual similarity over entity-level semanti",
+      "publishedAt": "2026-08-19T00:00:00.000Z",
+      "meta": "👍 26",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "针对知识库视觉问答（KB-VQA）中长尾实体检索困难的问题，本文提出实体对齐检索框架。该方法超越了传统的 CLIP 式视觉相似度匹配，通过引入实体级语义对齐，显著增强了复杂查询下的知识检索准确性。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "ZipTok3D: High-Fidelity 3D Tokenization with Compact Token Prefixes",
+      "url": "https://huggingface.co/papers/2609.01740",
+      "excerpt": "Compact token sequences are essential for efficient 3D generation. However, existing 3D tokenizers typically organize latent representations either over spatial regions or as fixed-size sets of global tokens, both suffering sharp reconstruction degradation when compressed to extremely low token budg",
+      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "meta": "👍 23",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "为提升 3D 生成效率，提出 ZipTok3D 模型。通过使用紧凑的 Token 前缀替代传统的空间或全局 Token 表示，在极低 Token 预算下依然保持了高保真度的 3D 重建效果，解决了压缩带来的严重退化问题。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding",
+      "url": "https://huggingface.co/papers/2609.04131",
+      "excerpt": "Streaming video understanding requires multimodal large language models (MLLMs) to process continuous visual inputs and respond to user queries under strict causality and bounded memory. Existing approaches typically compress historical observations into an external memory bank and retrieve query-re",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "meta": "👍 22",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "针对流式视频理解，提出渐进式潜在记忆进化方法。通过在多模态大模型中动态更新记忆库，取代传统的检索式记忆，在严格因果约束和内存限制下，实现了对长时视频的高效理解与实时响应。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation",
+      "url": "https://huggingface.co/papers/2609.04083",
+      "excerpt": "MLLM-based embedding models remain limited in compositional retrieval, often failing to distinguish scenes containing the same concepts but different attribute-object bindings. Yet the same backbone can resolve such distinctions when used as a cross-attentive reranker, motivating us to distill its c",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "meta": "👍 18",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "针对多模态大模型嵌入式检索在组合推理上的不足，本文提出重排序蒸馏方法。利用跨注意力重排序器的能力提升编码器性能，使模型能够精确区分属性与对象的组合关系，增强了场景检索的辨析力。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training",
+      "url": "https://huggingface.co/papers/2609.04094",
+      "excerpt": "Reinforcement Learning from Verifiable Rewards works well when a task has a programmatic checker, but most long-horizon agent domains have none. We work in the outcome-blind setting, where ground-truth success signals are not available. Multi-criteria rubrics are a popular way to supply such a rewar",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "meta": "👍 17",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "针对长程代理训练中缺乏可验证奖励的问题，提出 DRACO。该方法引入动态量规（Dynamic Rubrics）进行细粒度信用分配，在无真值奖励的环境中，通过多准则评估引导代理学习复杂任务。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "PACE: Towards Surfacing Hidden Conflicts in User Requests",
+      "url": "https://huggingface.co/papers/2609.03293",
+      "excerpt": "Personalized assistants should not only comply with user requests but also assess whether those requests are appropriate given the user's current circumstances. However, prior work has primarily focused on accurately executing requests, overlooking the need for assistants to account for context and ",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "meta": "👍 16",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "针对个性化助手在执行用户请求时忽视环境冲突的问题，提出 PACE 框架。该方法旨在识别并提示用户请求中的潜在矛盾，使助手不仅能执行指令，还能基于上下文评估请求的合理性与适当性。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests",
+      "url": "https://huggingface.co/papers/2608.27831",
+      "excerpt": "Coding agents are now commonly evaluated on the SWE-bench family of benchmarks, whose tasks are built from curated GitHub issues: long, structured, and information-rich. Real user requests, however, are typically far shorter and less structured. To characterize this gap, we define a six-category inf",
+      "publishedAt": "2026-08-31T00:00:00.000Z",
+      "meta": "👍 16",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "为弥合现有基准测试与真实用户需求的差距，本文定义了 RealSWE 评估集。该方法将编码代理的任务来源从结构化 GitHub Issue 转向更短、更碎片化的真实请求，更全面地评估了编码代理的实际应用能力。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "WorldReward: Reward Modeling for Camera-Conditioned World Models",
+      "url": "https://huggingface.co/papers/2609.03952",
+      "excerpt": "Camera-conditioned world models generate interactive videos in which commanded actions should induce the expected scene changes while appearance, geometry, and temporal dynamics remain coherent. Existing rewards assess these requirements separately: geometry-based rewards estimate trajectory executi",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "meta": "👍 15",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "针对交互式视频生成，提出 WorldReward 奖励建模方法。该方法不再单一衡量几何指标，而是综合外观、几何与时序动态的一致性，有效优化了相机条件下的世界模型表现，增强了生成视频的物理与交互真实感。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "VibeVoice-ASR-Streaming Technical Report",
+      "url": "https://huggingface.co/papers/2609.02812",
+      "excerpt": "Traditional speaker-attributed ASR systems treated ASR and speaker diarization as two separate tasks. Recently, end-to-end models such as VibeVoice-ASR have unified the two tasks within a single model. However, existing unified models still mainly support offline recognition, making it difficult to ",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "meta": "👍 14",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "针对语音识别与说话人日志分离的问题，发布 VibeVoice-ASR-Streaming 技术报告。该模型实现了流式端到端的统一架构，将 ASR 与说话人属性关联整合，解决了传统模型难以进行实时流式处理的技术难题。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Using Grounded Theory for Agent Behavior Analysis at Scale",
+      "url": "https://huggingface.co/papers/2608.30391",
+      "excerpt": "Understanding agent behavior requires methods that scale to thousands of trajectories and surface new patterns in long, often unfamiliar tasks where pre-built classifiers fall short. We propose to bring grounded theory into agent trajectory analysis: a six-decade-old qualitative method from the soci",
+      "publishedAt": "2026-08-31T00:00:00.000Z",
+      "meta": "👍 12",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "为分析大规模代理行为，提出基于扎根理论（Grounded Theory）的定性分析法。该方法从社会学领域引入，能够有效处理数千条代理轨迹，在无需预定义分类器的情况下发现复杂任务中的隐藏行为模式。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Environment Evolution for Terminal Agents",
+      "url": "https://huggingface.co/papers/2609.04128",
+      "excerpt": "Scaling interactive and verifiable environments is critical for training terminal agents. As frontier models become more capable, environments synthesized from scratch become less challenging and thus provide limited learning signals. Recent co-evolution methods iteratively synthesize environments n",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "meta": "👍 10",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "针对终端代理训练中环境合成挑战不足的问题，提出环境演进策略。该方法通过迭代合成难度递增的验证性任务，确保持续为模型提供高质量学习信号，有效推动了终端交互智能体的规模化训练。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Principia: Relational Physics Tests for Video Models",
+      "url": "https://huggingface.co/papers/2609.04200",
+      "excerpt": "Evaluating physical reasoning in video models is difficult because absolute motion measurements depend on frame rate, object scale, and camera calibration, all of which are often ambiguous or unavailable in generated video. We propose a different approach. When two objects in the same scene obey the",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "meta": "👍 10",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "针对视频模型物理推理评估难的问题，提出 Principia 框架。通过测量同一场景中不同对象间的关系运动，规避了绝对运动度量因帧率和相机参数导致的偏差，为衡量视频生成的物理一致性提供了可靠指标。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Select, Compress, Reinvest: A Controlled Study of Visual-Token Allocation in Long-Video MLLMs",
+      "url": "https://huggingface.co/papers/2609.03820",
+      "excerpt": "Long-video language models cannot look at every frame: an hour sampled once per second is 3,600 images, and a system keeps only a small fixed slice of that pool. Which frames survive that slice is usually treated as a preprocessing detail; we test whether it should be. Published selectors make the c",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "meta": "👍 9",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "CRISP: Cliff-awaRe Input-adaptive Sparse Prefilling with Structural-Mass-Motivated Routing",
+      "url": "https://huggingface.co/papers/2609.01925",
+      "excerpt": "The attention prefilling phase of long-context LLM inference scales quadratically, making self-attention a severe computational bottleneck. Traditional sparse attention methods mitigate this through fixed patterns or offline profiling, but lack the flexibility to adapt to input-dependent attention s",
+      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "meta": "👍 8",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "QCell: Recombining and Aligning Cell Queries for Overlapping Instance Segmentation",
+      "url": "https://huggingface.co/papers/2608.29253",
+      "excerpt": "Instance segmentation of overlapping cells in microscopy remains challenging due to semi-transparent structures that produce weak boundaries and mixed visual evidence in overlap regions. Existing methods address this through local regions of interest or shape priors but lack global reasoning across ",
+      "publishedAt": "2026-08-29T00:00:00.000Z",
+      "meta": "👍 7",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Exploring Collaboration between a language and a non-language agent",
+      "url": "https://huggingface.co/papers/2609.00474",
+      "excerpt": "LLMs are increasingly deployed as orchestrators that coordinate specialized subagents to solve complex tasks through natural language. However, in many important domains like game playing and robotics, the strongest available agents are not language models. Integrating non-language agents with LLMs ",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "meta": "👍 5",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "SnapBench: Benchmarking Snap-and-Ask Multimodal Retrieval for Mobile Interactions",
+      "url": "https://huggingface.co/papers/2608.29607",
+      "excerpt": "Mobile AI acts as a visual oracle, empowering users to snap a picture of something and ask for information. Snap-and-ask retrieval is now one of the most common entry points for mobile AI, yet photos are often blurry, while text questions may be short or mistyped. Existing benchmarks only test on cl",
+      "publishedAt": "2026-08-30T00:00:00.000Z",
+      "meta": "👍 5",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Ignorance or Incompetence? Constructing Knowledge-Gated, Verifiable Tasks for LLM Agents",
+      "url": "https://huggingface.co/papers/2608.30322",
+      "excerpt": "Professional agent tasks often depend on conventions that are absent from public corpora, yet benchmarks rarely control whether an agent has access to those conventions. We introduce a knowledge-gated task-construction protocol that separates a task instruction from a compact artefact containing pri",
+      "publishedAt": "2026-08-31T00:00:00.000Z",
+      "meta": "👍 4",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "FoldingAgent: Inferring Parametric Origami Procedures from Demonstration Videos",
+      "url": "https://huggingface.co/papers/2609.00377",
+      "excerpt": "We present FoldingAgent, an agentic framework for inferring explicit parametric folding programs directly from origami demonstration videos. Our framework leverages the reasoning power of a pre-trained Vision-Language Model (VLM) equipped with a suite of specialized tools that enable the agent to si",
+      "publishedAt": "2026-08-31T00:00:00.000Z",
+      "meta": "👍 3",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Autoregressive Mosaics: Probing 2D Spatial Reasoning in Text-Only Language Models",
+      "url": "https://huggingface.co/papers/2608.30751",
+      "excerpt": "Large language models (LLMs) trained only on text and code can sometimes generate programs that draw recognizable images. However, it is unclear whether this reflects an internal representation of 2D spatial layout or simply the ability to translate spatial descriptions into code. We introduce Autor",
+      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "meta": "👍 3",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement",
+      "url": "https://huggingface.co/papers/2609.03153",
+      "excerpt": "Visual fluency in generated video does not imply physical reliability, and a scalar quality score alone is incapable of indicating the obligation a clip violates or the moment it fails. We present VeriPhy, an auditable physical-verification system in which a text-only planner compiles the prompt int",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "meta": "👍 2",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Locked at the Entrance, Open Inside: Where RLVR Narrows the Solution Space",
+      "url": "https://huggingface.co/papers/2608.29188",
+      "excerpt": "Reinforcement learning with verifiable rewards (RLVR) substantially improves single-sample accuracy (pass@1) but causes the policy's solution space to contract, diminishing the returns of test-time scaling. In this work, we investigate where inside a reasoning trajectory this breadth is lost: does t",
+      "publishedAt": "2026-08-29T00:00:00.000Z",
+      "meta": "👍 2",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
+      "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "excerpt": "new SOTA computer use and coding, 2.5x pricier per token, but WAY cheaper per task, less monitorable. overall, a very successful launch of OpenAI’s new frontier model class.",
+      "publishedAt": "2026-09-04T05:18:11.000Z",
+      "category": "tech",
+      "source": "Latent Space",
+      "summary": "OpenAI 发布 GPT-6 Astra，该模型在计算机使用及编程能力上达到行业领先水平。尽管其单 Token 价格较以往上涨 2.5 倍，但得益于更高的执行效率，单位任务成本显著降低。该发布标志着 OpenAI 前沿模型类别的重大升级。"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "GPT-6 Astra: an automated AI Engineer you can hire for <$6 an hour",
+      "url": "https://www.latent.space/p/astra",
+      "excerpt": "We spent 20B+ tokens of GPT-6 Astra to explore everything. Here’s our learnings.",
+      "publishedAt": "2026-09-03T21:09:41.000Z",
+      "category": "tech",
+      "source": "Latent Space",
+      "summary": "GPT-6 Astra 被定位为自动化 AI 工程师，使用成本低于每小时 6 美元。研究者通过消耗超过 200 亿 Token 进行深度测试，旨在全面探索该模型的工程落地能力，验证其在自动化开发任务中的实际效能。"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "[AINews] Muse Spark 1.3 matches GPT-5.6-Sol, confirming Meta Superintelligence as the newest Frontier Lab, >90% discount for training",
+      "url": "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
+      "excerpt": "an epic comeback story for Meta",
+      "publishedAt": "2026-09-03T04:38:33.000Z",
+      "category": "tech",
+      "source": "Latent Space",
+      "summary": "Meta 发布 Muse Spark 1.3 模型，性能已匹配 GPT-5.6-Sol，确立了 Meta 作为前沿人工智能实验室的地位。该模型在训练成本上实现了超过 90% 的降幅，标志着 Meta 在大模型研发领域的强劲回归。"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "[AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
+      "url": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
+      "excerpt": "Queue the usual rush of model launches...",
+      "publishedAt": "2026-09-02T07:46:08.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors",
+      "url": "https://www.latent.space/p/pr-not-welcome",
+      "excerpt": "Vercel’s AI SDK, Astro, Flue and tldraw are replacing drive-by community PRs with software factories, where teams of agents apply fixes and features.",
+      "publishedAt": "2026-09-01T16:17:15.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "[AINews] Fal’s H3 Max Live breaks the infinite videogen barrier",
+      "url": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
+      "excerpt": "You can now create decent video faster than you watch it. This is the start of... something. We’re not sure what.",
+      "publishedAt": "2026-09-01T04:36:54.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "[AINews] OpenAI shuts off Cursor",
+      "url": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
+      "excerpt": "Elon v Altman has a real consequence.",
+      "publishedAt": "2026-08-29T05:11:52.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "[AINews] OpenAI to reach AGI bar by end-2026",
+      "url": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
+      "excerpt": "It’s Time. We’re in the Endgame now.",
+      "publishedAt": "2026-08-28T07:12:10.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "[AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro",
+      "url": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
+      "excerpt": "Open Source wins!",
+      "publishedAt": "2026-08-27T01:50:54.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "[AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6",
+      "url": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
+      "excerpt": "The conference with hot chips and even hotter companies",
+      "publishedAt": "2026-08-27T01:31:22.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "Lovable CTO: The Future of SaaS Is Apps That Agents Can Use",
+      "url": "https://www.latent.space/p/lovable-future-of-saas",
+      "excerpt": "Lovable is branching out from AI-powered web app creation and into MCP-powered ‘capabilities’. We talk to CTO Fabian Hedin.",
+      "publishedAt": "2026-08-26T16:16:25.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "🔬“We have foundation models for language, not for physics” — Anima Anandkumar, Bren Professor of Computing",
+      "url": "https://www.latent.space/p/anima",
+      "excerpt": "Anima Anandkumar has spent two decades in AI, from classical math to deep learning and back. Now she's using it to model the physical world, from weather to fusion reactors.",
+      "publishedAt": "2026-08-26T15:15:39.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "[AINews] Andrew Ng gets into AI Engineering",
+      "url": "https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering",
+      "excerpt": "An industry legend starts covering the inevitable!",
+      "publishedAt": "2026-08-25T02:50:57.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
+      "url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+      "excerpt": "Did you think RSI stopped at model training?",
+      "publishedAt": "2026-08-22T07:36:00.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "The Evolution of the Agent Harness",
+      "url": "https://www.latent.space/p/attention-interface",
+      "excerpt": "Models keep absorbing the harness into their weights — soon, it will be a harness for human attention rather than for the model.",
+      "publishedAt": "2026-08-22T07:30:52.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
+      "url": "https://www.latent.space/p/simile",
+      "excerpt": "Simile’s CEO about his journey from the viral Generative Agents to creating 8 Billion Digital Twins of every living human... and why it’s gone from fun exploration to very serious business.",
+      "publishedAt": "2026-08-21T23:37:38.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
+      "url": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
+      "excerpt": "Yes, we’re confused too.",
+      "publishedAt": "2026-08-21T05:45:21.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "The /wayfinder Skill: Navigating the “Fog of War” of Planning",
+      "url": "https://www.latent.space/p/wayfinder-skill",
+      "excerpt": "Matt Pocock tells us about his /wayfinder skill, for greenfield projects or for when the way forward is unclear.",
+      "publishedAt": "2026-08-20T20:59:09.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "[AINews] Death of Params: Z.ai CEO Jie Tang on GLM 5.3 and the new Post-training Scaling Law",
+      "url": "https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie",
+      "excerpt": "Every lab CEO is on X now",
+      "publishedAt": "2026-08-20T05:17:12.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "[AINews] Memory prices up 500% in 12 months",
+      "url": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
+      "excerpt": "the Memory crunch continues - Moore’s Law reversed to 2007 levels",
+      "publishedAt": "2026-08-19T08:44:52.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "mit-tech-review-ai",
+      "title": "Architecting memory and storage in the AI era",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "excerpt": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced inf",
+      "publishedAt": "2026-09-04T18:39:19.000Z",
+      "category": "tech",
+      "source": "MIT Tech Review AI",
+      "summary": "随着人工智能推理时代的到来，高效处理海量实时数据成为关键。医疗研究和智能服务等领域对数据分析能力提出了极高要求。MIT 技术评论指出，构建适配 AI 时代需求的内存与存储架构，已成为支撑复杂智能应用的核心技术挑战。"
+    },
+    {
+      "sourceId": "mit-tech-review-ai",
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "excerpt": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight,",
+      "publishedAt": "2026-09-04T09:25:19.000Z",
+      "category": "tech",
+      "source": "MIT Tech Review AI",
+      "summary": "乌克兰战场上的无人机不仅是关键武器，其产生的海量数据正演变为国防领域的新型「金矿」。尽管战场设施受损，但无人机采集的高价值数据具有极强的生命力，正在催生一个全新的数据市场，吸引国防部门争相布局。"
+    },
+    {
+      "sourceId": "mit-tech-review-ai",
+      "title": "Facilitating AI integration with simplicity at scale",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "excerpt": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make dec",
+      "publishedAt": "2026-09-02T14:00:00.000Z",
+      "category": "tech",
+      "source": "MIT Tech Review AI"
+    },
+    {
+      "sourceId": "mit-tech-review-ai",
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging F",
+      "publishedAt": "2026-08-31T18:00:00.000Z",
+      "category": "tech",
+      "source": "MIT Tech Review AI"
+    },
+    {
+      "sourceId": "mit-tech-review-ai",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "excerpt": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were",
+      "publishedAt": "2026-08-26T19:00:00.000Z",
+      "category": "tech",
+      "source": "MIT Tech Review AI"
+    },
+    {
+      "sourceId": "mit-tech-review-ai",
+      "title": "Raised on AI",
+      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "excerpt": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet. Fast-fo",
+      "publishedAt": "2026-08-26T09:00:00.000Z",
+      "category": "tech",
+      "source": "MIT Tech Review AI"
+    },
+    {
+      "sourceId": "mit-tech-review-ai",
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "excerpt": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IB",
+      "publishedAt": "2026-08-26T09:00:00.000Z",
+      "category": "tech",
+      "source": "MIT Tech Review AI"
+    },
+    {
+      "sourceId": "mit-tech-review-ai",
+      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "excerpt": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla ",
+      "publishedAt": "2026-08-26T07:01:00.000Z",
+      "category": "tech",
+      "source": "MIT Tech Review AI"
+    },
+    {
+      "sourceId": "mit-tech-review-ai",
+      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "excerpt": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are a",
+      "publishedAt": "2026-08-25T09:00:00.000Z",
+      "category": "tech",
+      "source": "MIT Tech Review AI"
+    },
+    {
+      "sourceId": "mit-tech-review-ai",
+      "title": "How to encourage smarter AI use in the classroom",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "excerpt": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones t",
+      "publishedAt": "2026-08-24T14:20:19.000Z",
+      "category": "tech",
+      "source": "MIT Tech Review AI"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "The Cognitive Revolution (When Machines Do The Thinking)",
+      "url": "https://x.com/Konstantine/status/2095166660223397963",
+      "excerpt": "We externalized our muscles and built the modern world. Now we are externalizing our minds. Most mornings I ride to work in a Waymo. The car is doing physical work: five thousand pounds of metal and",
+      "publishedAt": "2026-09-02T15:07:12.000Z",
+      "category": "tech",
+      "meta": "@Konstantine · 17.6K 粉丝 · 256.2K 阅 · 529 赞 · 100 转",
+      "source": "X 推文 (AttentionVC)",
+      "summary": "探讨人类认知外化的趋势。作者以乘坐 Waymo 为例，指出继工业时代实现体力外化后，AI 时代正在实现思维外化，这种转变正深刻重构人类社会的运行方式。"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "CarryGo, here we go!",
+      "url": "https://x.com/CarryGo_AI/status/2095822810119602382",
+      "excerpt": "Inside CarryGo lies a world model—helping organizations see, simulate, act and learn as a system. At the product level, CarryGo is a world model, built first for business. At the system level, it is",
+      "publishedAt": "2026-09-04T10:34:31.000Z",
+      "category": "tech",
+      "meta": "@CarryGo_AI · 9 粉丝 · 192.8K 阅 · 1.0K 赞 · 2 转",
+      "source": "X 推文 (AttentionVC)",
+      "summary": "介绍面向企业的「世界模型」产品 CarryGo。该系统旨在帮助企业实现业务的感知、模拟、执行与持续学习，将复杂的组织行为转化为系统化的智能协作。"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Prediction: AI will collapse",
+      "url": "https://x.com/wordgrammer/status/2095263188153401712",
+      "excerpt": "The dot com bubble got some things right. It noticed that the internet was going to be big. It noticed that the value generated by the internet would roughly scale in proportion with the amount of",
+      "publishedAt": "2026-09-02T21:30:46.000Z",
+      "category": "tech",
+      "meta": "@wordgrammer · 26.1K 粉丝 · 120.8K 阅 · 602 赞 · 33 转",
+      "source": "X 推文 (AttentionVC)",
+      "summary": "以互联网泡沫类比 AI 行业，认为 AI 领域存在泡沫。预测 AI 价值的增长与行业规模扩张并不匹配，暗示未来可能经历一次去伪存真的行业大崩盘。"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "How to design a Brand System from 1 reference image",
+      "url": "https://x.com/AmirMushich/status/2095182776249049456",
+      "excerpt": "For 10+ years, I've been creating branding & ads for Warner Music, PepsiCo, and others. Now I combine that experience with AI to build hi-end visual systems faster. This article shows my complete",
+      "publishedAt": "2026-09-02T16:11:15.000Z",
+      "category": "tech",
+      "meta": "@AmirMushich · 80.6K 粉丝 · 102.2K 阅 · 501 赞 · 42 转",
+      "source": "X 推文 (AttentionVC)",
+      "summary": "拥有 10 年行业经验的设计师分享如何利用 AI 从单张参考图快速构建高端品牌视觉系统。该教程结合了传统品牌策略与 AI 生成技术，旨在缩短设计周期。"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "AI Engineering Skills Map: Using coding agents",
+      "url": "https://x.com/AndrewYNg/status/2095890279865721217",
+      "excerpt": "A key AI engineering skill is using coding agents. Your skill at steering them both to write code and to carry out non-code tasks, such as analyzing data or managing system operations, allows you to",
+      "publishedAt": "2026-09-04T15:02:37.000Z",
+      "category": "tech",
+      "meta": "@AndrewYNg · 1.9M 粉丝 · 48.9K 阅 · 918 赞 · 136 转",
+      "source": "X 推文 (AttentionVC)",
+      "summary": "吴恩达强调「编码智能体」（coding agents）是 AI 工程师的核心技能。重点不在于生成代码，而在于如何引导智能体执行数据分析和系统管理等复杂任务。"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Grok Bot for Work",
+      "url": "https://x.com/joshkim/status/2095633918611636627",
+      "excerpt": "I can't do my job without Grok Bot. It happened really quickly. A few weeks ago, I wasn’t leveraging agents like the AI-pilled experts you see on X and LinkedIn. I was still a human in the loop:",
+      "publishedAt": "2026-09-03T22:03:55.000Z",
+      "category": "tech",
+      "meta": "@joshkim · 8.3K 粉丝 · 42.4K 阅 · 525 赞 · 41 转",
+      "source": "X 推文 (AttentionVC)",
+      "summary": "分享 Grok Bot 在工作流程中的实战应用。作者从 AI 观望者转变为重度依赖者，指出通过智能体协作，能显著摆脱传统「人在环路」的低效操作模式。"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Codex has changed my life as a solopreneur",
+      "url": "https://x.com/jonnym1ller/status/2095646368165769285",
+      "excerpt": "It's difficult to exaggerate how absurdly life-changing Codex has been for me as a solopreneur in recent months. And yet people have been saying 'but what do you actually use it for' (so I decided to",
+      "publishedAt": "2026-09-03T22:53:24.000Z",
+      "category": "tech",
+      "meta": "@jonnym1ller · 20.7K 粉丝 · 36.0K 阅 · 510 赞 · 23 转",
+      "source": "X 推文 (AttentionVC)",
+      "summary": "独立创业者分享 Codex 如何重塑其工作流。文中详细拆解了在实际业务场景中利用 Codex 提升效率的具体方法，证明了智能编码工具对个人事业的颠覆性价值。"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://x.com/GoogleAIStudio/status/2095192162514211244",
+      "excerpt": "Our newest Gemini models deliver next-generation intelligence for agentic workflows and cybersecurity. Building on the momentum of 3.7 Flash from three weeks ago and marking our third Flash release in",
+      "publishedAt": "2026-09-02T16:48:32.000Z",
+      "category": "tech",
+      "meta": "@GoogleAIStudio · 198.5K 粉丝 · 26.2K 阅 · 507 赞 · 59 转",
+      "source": "X 推文 (AttentionVC)",
+      "summary": "Google 发布 Gemini 3.8 Flash 及 Flash Cyber 模型。该系列针对智能体工作流与网络安全领域进行了深度优化，旨在提升大模型在高频、复杂场景下的任务处理能力。"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "From rg to zg: Local Search Beyond Keywords",
+      "url": "https://x.com/QwenDevs/status/2095157452904018263",
+      "excerpt": "Summary: The information humans and agents need is often scattered across large numbers of local files, making it difficult to locate accurately and efficiently. zg (zvec-grep) is local-first search",
+      "publishedAt": "2026-09-02T14:30:37.000Z",
+      "category": "tech",
+      "meta": "@QwenDevs · 10.9K 粉丝 · 21.4K 阅 · 509 赞 · 55 转",
+      "source": "X 推文 (AttentionVC)",
+      "summary": "Qwen 团队推出本地搜索工具「zg」（zvec-grep），旨在解决智能体和人类在海量本地文件中信息检索难的问题，通过超越关键词搜索提升定位效率。"
+    },
+    {
+      "sourceId": "ruanyf-blog",
+      "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
+      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
+      "excerpt": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 宁夏西夏陵使用金属网，将残片还原成石像生。（via） OpenClaw 2.0 是一个缩影 本周，OpenClaw 发布了2.0版。 是不是很久没听到这个名字了？现在很少有人提到它，不过就是半年。 回想今年春节，它一夜走红，引发了全民热议。一时间，上门安装龙虾成了热门服务，还真有不少人付费。 仅仅过了半年，它就成了昨日黄花，已经被遗忘了。AI 时代就是这样，新事物层出不穷，再大的热门也就走红几天。 用了半年，它终于从",
+      "publishedAt": "2026-09-03T23:59:05.000Z",
+      "category": "tech",
+      "source": "阮一峰的网络日志"
+    },
+    {
+      "sourceId": "ruanyf-blog",
+      "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
+      "excerpt": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 宁夏沙坡头景区的巨型蒙眼雕塑。（via） 你需要知道的 AI 三种机制 这是\"AI 小知识系列\"的第三篇，前两篇分别是《大模型需要多少内存》和《AI 缓存是什么》。 我分享一些自己的学习笔记，用来理清对于 AI 技术的理解。我尽量写得通俗，希望对大家有用。 今天谈一个基本问题：AI 为什么能够回答我们的提问，它怎么会知道答案？ 你可以找到很多这方面的论文和书籍，详细解释大模型的运作，通常非常难懂。但是，对于非专业人士",
+      "publishedAt": "2026-08-27T23:56:43.000Z",
+      "category": "tech",
+      "source": "阮一峰的网络日志"
+    },
+    {
+      "sourceId": "ruanyf-blog",
+      "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
+      "excerpt": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 宁波的杭州湾海月剧场，原址是江边的废弃码头，被改建为古典园林。（via） 程序员的职业未来 程序员这个职业，将来会怎样？现在有很多说法。 一些人认为，将来的代码都是 AI 生成，市场不需要那么多程序员。极端情况下，程序员职业可能会消失。 另一些人认为，不必杞人忧天，AI 不过替代一部分手工编码，替代不了人类的判断。AI 让世界需要更多的代码，程序员职业不仅不会萎缩，反而继续兴旺下去。 我最近看到一个老外对程序员职业的",
+      "publishedAt": "2026-08-20T23:53:54.000Z",
+      "category": "tech",
+      "source": "阮一峰的网络日志"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 125 期",
+      "url": "https://hellogithub.com/periodical/volume/125",
+      "excerpt": "本期共有 40 个项目，包含 C 项目 (1)，C# 项目 (3)，C++ 项目 (2)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (4)，Kotlin 项目 (1)，Python 项目 (4)，Rust 项目 (3)，Skills (4)，Swift 项目 (2)，人工智能 (5)，其它 (5)",
+      "publishedAt": "2026-08-28T00:14:02.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 124 期",
+      "url": "https://hellogithub.com/periodical/volume/124",
+      "excerpt": "本期共有 40 个项目，包含 C 项目 (2)，C# 项目 (2)，C++ 项目 (1)，Go 项目 (4)，Java 项目 (1)，JavaScript 项目 (5)，Python 项目 (5)，Rust 项目 (2)，Skills (3)，Swift 项目 (3)，人工智能 (5)，其它 (5)，开源书籍 (2)",
+      "publishedAt": "2026-07-28T00:10:05.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 123 期",
+      "url": "https://hellogithub.com/periodical/volume/123",
+      "excerpt": "本期共有 38 个项目，包含 C 项目 (2)，C# 项目 (1)，C++ 项目 (2)，Go 项目 (4)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Skills (4)，Swift 项目 (2)，人工智能 (5)，其它 (4)",
+      "publishedAt": "2026-06-29T00:10:22.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 122 期",
+      "url": "https://hellogithub.com/periodical/volume/122",
+      "excerpt": "本期共有 39 个项目，包含 C 项目 (2)，C# 项目 (3)，C++ 项目 (2)，Go 项目 (4)，JavaScript 项目 (5)，Python 项目 (4)，Rust 项目 (3)，Skills (3)，Swift 项目 (3)，人工智能 (5)，其它 (5)",
+      "publishedAt": "2026-05-28T00:07:51.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 121 期",
+      "url": "https://hellogithub.com/periodical/volume/121",
+      "excerpt": "本期共有 40 个项目，包含 C 项目 (1)，C# 项目 (2)，C++ 项目 (2)，Go 项目 (4)，JavaScript 项目 (4)，Kotlin 项目 (1)，Python 项目 (3)，Rust 项目 (4)，Skills (4)，Swift 项目 (3)，人工智能 (5)，其它 (5)，开源书籍 (2)",
+      "publishedAt": "2026-04-28T00:05:57.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 120 期",
+      "url": "https://hellogithub.com/periodical/volume/120",
+      "excerpt": "本期共有 39 个项目，包含 C 项目 (1)，C# 项目 (4)，C++ 项目 (2)，Go 项目 (4)，Java 项目 (3)，JavaScript 项目 (5)，Kotlin 项目 (2)，Python 项目 (4)，Rust 项目 (2)，Swift 项目 (2)，人工智能 (5)，其它 (5)",
+      "publishedAt": "2026-03-27T00:08:31.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 119 期",
+      "url": "https://hellogithub.com/periodical/volume/119",
+      "excerpt": "本期共有 41 个项目，包含 C 项目 (2)，C# 项目 (2)，C++ 项目 (2)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (2)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (3)，人工智能 (6)，其它 (5)",
+      "publishedAt": "2026-02-28T00:10:09.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 118 期",
+      "url": "https://hellogithub.com/periodical/volume/118",
+      "excerpt": "本期共有 41 个项目，包含 C 项目 (1)，C# 项目 (3)，C++ 项目 (3)，Go 项目 (5)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (2)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (3)，人工智能 (5)，其它 (5)",
+      "publishedAt": "2026-01-28T00:10:57.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 117 期",
+      "url": "https://hellogithub.com/periodical/volume/117",
+      "excerpt": "本期共有 39 个项目，包含 C 项目 (2)，C# 项目 (3)，C++ 项目 (1)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (2)，PHP 项目 (1)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (1)，人工智能 (5)，其它 (6)",
+      "publishedAt": "2025-12-26T00:03:43.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 116 期",
+      "url": "https://hellogithub.com/periodical/volume/116",
+      "excerpt": "本期共有 40 个项目，包含 C 项目 (1)，C# 项目 (2)，C++ 项目 (4)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (2)，PHP 项目 (1)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (2)，人工智能 (5)，其它 (5)",
+      "publishedAt": "2025-11-28T00:02:57.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 115 期",
+      "url": "https://hellogithub.com/periodical/volume/115",
+      "excerpt": "本期共有 41 个项目，包含 C 项目 (2)，C# 项目 (3)，C++ 项目 (3)，Go 项目 (3)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (2)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (2)，人工智能 (5)，其它 (6)，开源书籍 (1)",
+      "publishedAt": "2025-10-28T00:04:46.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 114 期",
+      "url": "https://hellogithub.com/periodical/volume/114",
+      "excerpt": "本期共有 39 个项目，包含 C 项目 (2)，C# 项目 (2)，C++ 项目 (3)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (2)，人工智能 (4)，其它 (5)，开源书籍 (1)",
+      "publishedAt": "2025-09-27T23:49:05.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 113 期",
+      "url": "https://hellogithub.com/periodical/volume/113",
+      "excerpt": "本期共有 40 个项目，包含 C 项目 (3)，C# 项目 (2)，C++ 项目 (3)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (2)，人工智能 (5)，其它 (5)，开源书籍 (1)",
+      "publishedAt": "2025-08-28T00:09:53.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 112 期",
+      "url": "https://hellogithub.com/periodical/volume/112",
+      "excerpt": "本期共有 42 个项目，包含 C 项目 (2)，C# 项目 (2)，C++ 项目 (3)，Go 项目 (4)，Java 项目 (3)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (2)，人工智能 (5)，其它 (6)，开源书籍 (2)",
+      "publishedAt": "2025-07-28T00:05:17.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 111 期",
+      "url": "https://hellogithub.com/periodical/volume/111",
+      "excerpt": "本期共有 41 个项目，包含 C 项目 (1)，C# 项目 (2)，C++ 项目 (3)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (2)，Objective-C 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (2)，人工智能 (5)，其它 (6)",
+      "publishedAt": "2025-06-26T23:56:20.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 110 期",
+      "url": "https://hellogithub.com/periodical/volume/110",
+      "excerpt": "本期共有 41 个项目，包含 C 项目 (1)，C# 项目 (3)，C++ 项目 (3)，CSS 项目 (1)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (1)，人工智能 (5)，其它 (6)，开源书籍 (2)",
+      "publishedAt": "2025-05-28T00:05:12.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 109 期",
+      "url": "https://hellogithub.com/periodical/volume/109",
+      "excerpt": "本期共有 43 个项目，包含 C 项目 (2)，C# 项目 (3)，C++ 项目 (2)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (1)，PHP 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (2)，人工智能 (5)，其它 (5)，开源书籍 (3)",
+      "publishedAt": "2025-04-28T00:00:16.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 108 期",
+      "url": "https://hellogithub.com/periodical/volume/108",
+      "excerpt": "本期共有 38 个项目，包含 C 项目 (3)，C# 项目 (1)，C++ 项目 (3)，CSS 项目 (1)，Go 项目 (2)，Java 项目 (1)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (1)，人工智能 (5)，其它 (5)，开源书籍 (3)",
+      "publishedAt": "2025-03-27T23:52:53.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 107 期",
+      "url": "https://hellogithub.com/periodical/volume/107",
+      "excerpt": "本期共有 43 个项目，包含 C 项目 (2)，C# 项目 (3)，C++ 项目 (3)，Go 项目 (5)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (2)，人工智能 (5)，其它 (6)，开源书籍 (1)",
+      "publishedAt": "2025-02-28T00:00:24.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 106 期",
+      "url": "https://hellogithub.com/periodical/volume/106",
+      "excerpt": "本期共有 42 个项目，包含 C 项目 (1)，C# 项目 (2)，C++ 项目 (4)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (2)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (2)，人工智能 (4)，其它 (6)，开源书籍 (2)",
+      "publishedAt": "2025-01-27T00:07:40.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 105 期",
+      "url": "https://hellogithub.com/periodical/volume/105",
+      "excerpt": "本期共有 40 个项目，包含 C 项目 (2)，C# 项目 (2)，C++ 项目 (2)，CSS 项目 (1)，Go 项目 (5)，Java 项目 (3)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (2)，人工智能 (5)，其它 (5)",
+      "publishedAt": "2024-12-27T00:03:55.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 104 期",
+      "url": "https://hellogithub.com/periodical/volume/104",
+      "excerpt": "本期共有 41 个项目，包含 C 项目 (3)，C# 项目 (2)，C++ 项目 (3)，Go 项目 (5)，JavaScript 项目 (5)，Kotlin 项目 (2)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (1)，人工智能 (4)，其它 (6)，开源书籍 (2)",
+      "publishedAt": "2024-11-28T00:15:37.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 103 期",
+      "url": "https://hellogithub.com/periodical/volume/103",
+      "excerpt": "本期共有 43 个项目，包含 C 项目 (2)，C# 项目 (2)，C++ 项目 (3)，Go 项目 (5)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (2)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (2)，人工智能 (4)，其它 (7)，开源书籍 (1)",
+      "publishedAt": "2024-10-28T00:04:36.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 102 期",
+      "url": "https://hellogithub.com/periodical/volume/102",
+      "excerpt": "本期共有 41 个项目，包含 C 项目 (3)，C# 项目 (2)，C++ 项目 (2)，Go 项目 (5)，Java 项目 (3)，JavaScript 项目 (5)，Kotlin 项目 (2)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (2)，人工智能 (2)，其它 (6)，开源书籍 (2)",
+      "publishedAt": "2024-09-26T23:55:17.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 101 期",
+      "url": "https://hellogithub.com/periodical/volume/101",
+      "excerpt": "本期共有 44 个项目，包含 C 项目 (3)，C# 项目 (2)，C++ 项目 (2)，Go 项目 (5)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (2)，PHP 项目 (2)，Python 项目 (5)，Rust 项目 (4)，Swift 项目 (1)，人工智能 (4)，其它 (6)，开源书籍 (1)",
+      "publishedAt": "2024-08-28T00:03:47.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 100 期",
+      "url": "https://hellogithub.com/periodical/volume/100",
+      "excerpt": "本期共有 41 个项目，包含 C 项目 (2)，C# 项目 (4)，C++ 项目 (1)，Go 项目 (4)，Java 项目 (3)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (2)，人工智能 (3)，其它 (6)，开源书籍 (2)",
+      "publishedAt": "2024-07-26T00:04:22.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 99 期",
+      "url": "https://hellogithub.com/periodical/volume/99",
+      "excerpt": "本期共有 42 个项目，包含 C 项目 (1)，C# 项目 (2)，C++ 项目 (3)，Go 项目 (5)，Java 项目 (2)，JavaScript 项目 (5)，PHP 项目 (1)，Python 项目 (5)，Ruby 项目 (1)，Rust 项目 (3)，Swift 项目 (2)，人工智能 (4)，其它 (6)，开源书籍 (2)",
+      "publishedAt": "2024-06-28T00:11:44.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 98 期",
+      "url": "https://hellogithub.com/periodical/volume/98",
+      "excerpt": "本期共有 40 个项目，包含 C 项目 (2)，C# 项目 (1)，C++ 项目 (3)，Go 项目 (5)，Java 项目 (4)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (1)，人工智能 (3)，其它 (5)，开源书籍 (2)",
+      "publishedAt": "2024-05-28T00:12:43.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 97 期",
+      "url": "https://hellogithub.com/periodical/volume/97",
+      "excerpt": "本期共有 40 个项目，包含 C 项目 (3)，C# 项目 (2)，C++ 项目 (3)，Go 项目 (3)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (2)，人工智能 (4)，其它 (5)，开源书籍 (2)",
+      "publishedAt": "2024-04-28T00:09:55.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "hellogithub",
+      "title": "HelloGitHub 第 96 期",
+      "url": "https://hellogithub.com/periodical/volume/96",
+      "excerpt": "本期共有 41 个项目，包含 C 项目 (3)，C# 项目 (2)，C++ 项目 (4)，CSS 项目 (1)，Go 项目 (5)，Java 项目 (2)，JavaScript 项目 (5)，Python 项目 (5)，Rust 项目 (2)，Swift 项目 (2)，人工智能 (4)，其它 (5)，开源书籍 (1)",
+      "publishedAt": "2024-03-28T00:09:14.000Z",
+      "category": "tech",
+      "source": "HelloGitHub 月刊"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Bloom Energy, Illumina, Everpure to Join S&P 500 This Month",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/bloom-energy-illumina-everpure-to-join-s-p-500-in-september",
+      "excerpt": "Bloom Energy Corp., Illumina Inc. and Everpure Inc. will join the S&P 500 in the latest quarterly rebalance, S&P Dow Jones Indices said Friday.",
+      "publishedAt": "2026-09-04T21:43:05.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "标普道琼斯指数公司周五宣布，Bloom Energy Corp.、Illumina Inc.及Everpure Inc.将在本季度的指数重组中被纳入标普500指数成分股。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Emerging Currencies Cap Longest Winning Streak Since 2007",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/emerging-market-stocks-currencies-rise-as-fed-hike-bets-ease",
+      "excerpt": "An index for emerging-market currencies rose for a 10th successive week, its longest winning streak since 2007, even as a blowout US jobs report briefly jolted global markets on Friday.",
+      "publishedAt": "2026-09-04T04:11:05.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Wall Street Risk Complex Defies Rate Threat After Jobs Data",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/wall-street-risk-complex-defies-rate-threat-after-jobs-blowout",
+      "excerpt": "The global bond selloff is proving no wrecking ball for Wall Street, repricing the cost of money without setting off the usual scramble out of risk assets.",
+      "publishedAt": "2026-09-04T20:14:30.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "尽管全球债券遭到抛售并重定价了资金成本，但华尔街风险资产并未出现大规模出逃，市场表现依然具有韧性。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Acuerdo de Trump con Venezuela inquieta a petroleras de EE.UU.",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/acuerdo-de-trump-en-venezuela-inquieta-a-ejecutivos-petroleros-de-ee-uu",
+      "excerpt": "El presidente Donald Trump se ha jactado de que su amplio acuerdo petrolero con Venezuela, que en la práctica da a Estados Unidos control sobre gran parte de la riqueza petrolera del país, es posiblemente “el mejor acuerdo jamás firmado”.",
+      "publishedAt": "2026-09-04T20:52:08.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "美国总统特朗普声称与委内瑞拉达成了一项石油协议，赋予美国对委方大部分石油财富的控制权。该协议引发了美国石油行业高管的忧虑与不安。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "S&P Downgrades Senegal After Government Unveils Debt Rework",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/s-p-downgrades-senegal-after-government-unveils-debt-rework",
+      "excerpt": "S&P Global Ratings cut Senegal’s credit score further into junk territory, saying a distressed debt exchange or default on the country’s foreign-currency commercial debt is “extremely likely” after the government launched a plan to restructure its obligations.",
+      "publishedAt": "2026-09-04T20:51:01.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "由于塞内加尔政府启动债务重组计划，标普全球评级进一步下调了该国信用评级。标普警告称，塞内加尔发生外币商业债务违约或陷入债务困境的可能性「极高」。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "S&P 500 Ends Week Flat as Strong Jobs Growth Fuels Fed-Hike Bets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-stock-futures-steady-ahead-of-key-august-jobs-data",
+      "excerpt": "US stocks finished lower on Friday as the American economy ​added more jobs than expected in August, raising expectations that the Federal Reserve may hike interest rates soon.",
+      "publishedAt": "2026-09-04T11:50:13.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Hedge Funds Hike Bullish Oil Bets to May High as Iran War Flares",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/hedge-funds-hike-bullish-oil-bets-to-may-high-as-iran-war-flares",
+      "excerpt": "Hedge funds turned the most bullish on Brent crude since May as a fresh spate of fighting between the US and Iran heightened concerns about prolonged disruptions to energy flows through the Strait of Hormuz.",
+      "publishedAt": "2026-09-04T20:38:47.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "受美伊冲突升级引发霍尔木兹海峡能源供应中断担忧影响，对冲基金对布伦特原油的看涨押注升至5月以来的最高水平。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Lutnick to Review Pentagon Deals Involving Cerberus Companies",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/lutnick-to-review-pentagon-deals-involving-cerberus-companies",
+      "excerpt": "Commerce Secretary Howard Lutnick has been chosen by the Department of Defense to review any transactions between the Pentagon and companies associated with Cerberus Capital Management, according to a US official.",
+      "publishedAt": "2026-09-04T20:27:13.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "据美国官员透露，商务部长霍华德·卢特尼克已被国防部选定，负责审查五角大楼与Cerberus资本管理公司关联企业之间的所有交易。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Dollar Posts Weekly Loss as Yen Jumps Amid Shifting Rate Bets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-dollar-slumps-to-start-september-as-yen-surges-on-rate-bets",
+      "excerpt": "The dollar slid to start September as mixed signals on the Federal Reserve’s next move kept traders on edge ahead of a pivotal inflation report, while a surging yen reverberated across global currency markets.",
+      "publishedAt": "2026-09-04T00:29:47.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Algorithm Research CEO on Interest Rates Expectations",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-04/algorithm-research-ceo-on-interest-rates-expectations-video",
+      "excerpt": "Ketaki Sharma, founder and CEO of Algorithm Research, says the inflation is the main factor to watch in assessing the the bond market and the Federal Reserve’s next move. She speaks on \"Horizons: Middle East and Africa.\" (Source: Bloomberg)",
+      "publishedAt": "2026-09-04T20:14:00.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "Algorithm Research创始人兼CEO凯塔基·沙尔马表示，通胀是评估债券市场走势及美联储未来决策的核心考量因素。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Honey Deuces, Tickets, Merch: US Open Spending",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-04/honey-deuces-tickets-merch-us-open-spending-video",
+      "excerpt": "Bloomberg's Lisa Mateo joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss how people are spending their money at the US Open. (Source: Bloomberg)",
+      "publishedAt": "2026-09-04T20:10:22.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "彭博社分析讨论了美国网球公开赛期间的消费趋势，包括入场门票、特许商品及现场饮品销售等经济活动情况。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Stocks Fall as Jobs Fuel Bets Fed Will Raise Rates: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-03/stock-market-today-dow-s-p-live-updates",
+      "excerpt": "A stronger-than-anticipated increase in US jobs drove stocks and short-dated notes lower, with traders boosting their bets the Federal Reserve will raise rates this month.",
+      "publishedAt": "2026-09-03T22:14:26.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Parents Push Teens to Start Investing Earlier Than They Did",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-04/parents-push-teens-to-start-investing-early-video",
+      "excerpt": "Bloomberg's Josyana Joshua joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" Many parents are opening accounts that let teens learn the basics of investing with their supervision, in hopes of teaching them about investing early. As a result, financial firms have noticed and are rolling out produc",
+      "publishedAt": "2026-09-04T20:03:45.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "许多家长正为青少年开设监管账户，以期通过早期投资实践帮助子女学习基础金融知识，这一趋势已受到金融机构的关注。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Heinekin Highlights Nonalcoholic Beer, Serena Williams in US Open Partnership",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-04/heinekin-highlights-nonalcoholic-beer-during-us-open-video",
+      "excerpt": "Maggie Timoney, CEO of Heinekin USA, said Heinekin's 0.0 nonalcoholic beer has seen success because consumers are looking to moderate their alcohol consumption, even if they're not looking to cut it out entirely. Timoney said that the beverage company wanted to honor the history of the US Open and t",
+      "publishedAt": "2026-09-04T20:03:03.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "喜力美国CEO玛吉·蒂莫尼表示，受消费者追求适度饮酒的需求驱动，喜力0.0无酒精啤酒市场表现良好。公司正通过与美网合作进一步推广该产品。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Pulte’s Rewewed Attack on Credit Bureaus Sends FICO Plunging",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/fico-plunges-21-credit-bureaus-fall-as-pulte-renews-criticism",
+      "excerpt": "Shares of Fair Isaac Corp., Equifax Inc. and TransUnion tumbled on Friday after Federal Housing Finance Agency Director Bill Pulte renewed his long-standing criticism of the costs of consumer credit scores.",
+      "publishedAt": "2026-09-04T14:17:14.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "US Open Players Make Fashion Statements, Drive Retail",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-04/us-open-players-make-fashion-statements-drive-retail-video",
+      "excerpt": "Dana Telsey, CEO & chief research officer at Telsey Advisory Group, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss the fashion statements being made by players at the US Open and how that translates to consumers. (Source: Bloomberg)",
+      "publishedAt": "2026-09-04T19:48:26.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "Telsey咨询集团CEO达娜·泰尔西指出，美网参赛选手的着装风格正对零售市场产生显著影响，带动了相关时尚消费热潮。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Retail Stores More Relevant Than Ever: Telsey",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-04/retail-stores-more-relevant-than-ever-telsey-video",
+      "excerpt": "Dana Telsey, CEO & chief research officer at Telsey Advisory Group, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss the aspirational consumer, US Open fashion, and the premium shopper. (Source: Bloomberg)",
+      "publishedAt": "2026-09-04T19:32:03.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Bond Traders Boost Fed-Hike Odds After Jobs, Await Inflation",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/treasuries-slide-after-strong-jobs-data-lift-fed-hike-wagers",
+      "excerpt": "Treasuries capped a choppy week of trading with higher short-term yields after a stronger-than-expected employment report on Friday nudged up expectations for a Federal Reserve interest-rate hike this month. Next week, key inflation data looms.",
+      "publishedAt": "2026-09-04T12:43:21.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Gold Falls as Strong US Payrolls Power Bets on Fed Rate Hikes",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/gold-to-end-volatile-week-higher-as-fedspeak-trims-rate-hike-bet",
+      "excerpt": "Gold fell as a stronger-than-anticipated increase in US payrolls drove bets that the Federal Reserve will be forced to raise interest rates this year.",
+      "publishedAt": "2026-09-04T00:27:29.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Latest Oil Market News and Analysis for Sept. 4",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-03/latest-oil-market-news-and-analysis-for-sept-4",
+      "excerpt": "Oil swung in thin holiday trading as renewed fighting between the US and Iran heightened supply concerns, while rare signs of progress toward ending the Russia-Ukraine war chipped away at the geopolitical risk premium.",
+      "publishedAt": "2026-09-03T22:12:01.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO",
+      "url": "https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba?syn-25a6b1a6=1",
+      "excerpt": "AI giant on track to unveil paperwork underpinning its blockbuster Wall Street debut as soon as next week",
+      "publishedAt": "2026-09-04T19:46:21.000Z",
+      "category": "finance",
+      "source": "Financial Times",
+      "summary": "人工智能巨头Anthropic计划最早于下周披露其IPO文件。据悉，公司正接近敲定摩根士丹利和高盛作为其规模达2万亿美元上市计划的主要承销商。"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Prosecutors seize €65mn from McKinsey in French tax fraud probe",
+      "url": "https://www.ft.com/content/f8d6ef71-5c26-49c6-8b9b-dbe3eef85c2f?syn-25a6b1a6=1",
+      "excerpt": "Fine remains provisional as investigation continues into the consultancy’s tax practices",
+      "publishedAt": "2026-09-04T18:14:57.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "‘Clear’ breaches of rules by Reform UK pollster, says industry body",
+      "url": "https://www.ft.com/content/89d8bb57-0e59-437e-a25d-d6556dcb42b0?syn-25a6b1a6=1",
+      "excerpt": "British Polling Council seeking further information from JL Partners following Channel Four News investigation",
+      "publishedAt": "2026-09-04T17:35:35.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Maybe Northampton *is* an emerging market",
+      "url": "https://www.ft.com/content/be1cecbc-099a-4ab4-ac48-01f966b4c159",
+      "excerpt": "NuCobblers — now with added Gemcorp",
+      "publishedAt": "2026-09-04T17:32:50.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "John Ternus, Apple’s new ‘wicked calm’ CEO",
+      "url": "https://www.ft.com/content/7347b9fc-ba63-48fb-b06d-b9fe5e9b046a?syn-25a6b1a6=1",
+      "excerpt": "Tim Cook’s successor is a product engineer who has spent 25 years at the company and belongs to the generation mentored by Steve Jobs",
+      "publishedAt": "2026-09-04T17:00:09.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Why Berkshire Hathaway might be an active hedge",
+      "url": "https://www.ft.com/content/af5b1fd3-194d-4aed-b1ef-0bf662170952",
+      "excerpt": "The financial citadel is well positioned if there are market dislocations",
+      "publishedAt": "2026-09-04T17:00:09.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Directors’ Deals: Lloyds’ CFO banks £10mn through share sales",
+      "url": "https://www.ft.com/content/5fa0b726-e45a-4dbd-86e6-397fdec9d5ca",
+      "excerpt": "Group’s share price has climbed by 40 per cent in the past year",
+      "publishedAt": "2026-09-04T17:00:09.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "How VW’s boss secured a shock victory in battle to reshape carmaker",
+      "url": "https://www.ft.com/content/6662ffd4-13f6-453c-8e5a-365c4948b585?syn-25a6b1a6=1",
+      "excerpt": "Carmaker’s slimdown deal is a coup for its boss but governance issues have been kicked down the road",
+      "publishedAt": "2026-09-04T15:45:35.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Are credit rating agencies getting fed up with hyperscalers?",
+      "url": "https://www.ft.com/content/623c286b-c973-4488-83f3-97e9016e85f6",
+      "excerpt": "A change in tone",
+      "publishedAt": "2026-09-04T15:06:15.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Venezuela’s jumbo oil deal does little to appease its creditors",
+      "url": "https://www.ft.com/content/f84c4053-3e14-4666-9543-7e958a1dadb2?syn-25a6b1a6=1",
+      "excerpt": "Ordinary bondholders will want evidence that Caracas can produce and sell enough oil, in dollars, to repay what is left of their debt",
+      "publishedAt": "2026-09-04T14:13:26.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Andrew Bailey warns of populist threat to central bank independence",
+      "url": "https://www.ft.com/content/a6be8465-63ea-4c5f-8a3e-b46cd5475c7e?syn-25a6b1a6=1",
+      "excerpt": "Bank of England governor says claims by some political leaders that rate-setters are ‘an unrepresentative elite’ pose ‘serious challenge’",
+      "publishedAt": "2026-09-04T13:15:03.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Trump’s Iran war sends US diesel prices to record high",
+      "url": "https://www.ft.com/content/aa71ca9a-b64f-41b6-8e6f-00ce03a47553?syn-25a6b1a6=1",
+      "excerpt": "Cost of fuel crucial to American industry rises above 2022 peak, threatening new inflationary burst ahead of November elections",
+      "publishedAt": "2026-09-04T11:08:59.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "EQT strikes $2bn deal for insurance broker McGill",
+      "url": "https://www.ft.com/content/29655cf5-bf44-4e99-8f26-208f4c44af84?syn-25a6b1a6=1",
+      "excerpt": "Acquisition is latest example of private equity investing in insurance sector",
+      "publishedAt": "2026-09-04T11:05:53.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "UK set to approve Jackdaw gasfield within weeks",
+      "url": "https://www.ft.com/content/27f62928-927e-4ac3-94e1-4f25310b6ae4?syn-25a6b1a6=1",
+      "excerpt": "Green light for North Sea facility likely to be fiercely opposed by climate scientists and environmental campaigners",
+      "publishedAt": "2026-09-04T11:00:32.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Lord Somerleyton: ‘I’m offering a £10mn stake in my family’s historic estate’",
+      "url": "https://www.ft.com/content/9610992d-c70d-4eb8-934a-1ca97d8f78b1?syn-25a6b1a6=1",
+      "excerpt": "A part-timeshare, part-investment proposal promises a slice of the ‘Downton Abbey’ life to would-be investors — and a lifeline for a stately home. Reckless risk or inspiring innovation?",
+      "publishedAt": "2026-09-04T11:00:11.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "FirstFT: Markets await US jobs update",
+      "url": "https://www.ft.com/content/3f4183c5-72cd-49fb-b4dc-ca3a12287763?syn-25a6b1a6=1",
+      "excerpt": "Also in today’s newsletter: Maria Bartiromo leaves Fox News and OpenAI releases new model",
+      "publishedAt": "2026-09-04T10:00:52.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Will the ‘glassholes’ finally win?",
+      "url": "https://www.ft.com/content/ec738381-d364-4da3-8173-471d7f3b57b4?syn-25a6b1a6=1",
+      "excerpt": "A revolt against smart glasses may not succeed — but that doesn’t mean we shouldn’t try",
+      "publishedAt": "2026-09-04T10:00:09.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Fox News presenter and Trump ally Maria Bartiromo departs after 12 years",
+      "url": "https://www.ft.com/content/c3e515b8-2207-4bf2-8a85-d5bce0d6f9df?syn-25a6b1a6=1",
+      "excerpt": "President calls news anchor a ‘true warrior’ and says her fans ‘will not be happy’",
+      "publishedAt": "2026-09-04T09:04:01.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Volkswagen to slash up to 50,000 jobs in historic restructuring",
+      "url": "https://www.ft.com/content/77641f53-8dcb-4adf-9295-9ce44b8d49d6?syn-25a6b1a6=1",
+      "excerpt": "German carmaker’s shares rise 6 per cent on overhaul that could also lead to plant closures",
+      "publishedAt": "2026-09-04T09:03:21.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Air India set for $1bn cash boost amid Singapore opposition over capital calls",
+      "url": "https://www.ft.com/content/1099d3ef-1369-4555-ab1b-dc3cef2f0e49?syn-25a6b1a6=1",
+      "excerpt": "Singaporean MP criticises further support for lossmaking carrier via Temasek’s Singapore Airlines",
+      "publishedAt": "2026-09-04T08:18:48.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Europe struggling to re-arm by 2030 as capitals squander arms spending surge",
+      "url": "https://www.ft.com/content/1686eba7-7b27-44a7-a376-0e9e04105777?syn-25a6b1a6=1",
+      "excerpt": "Also in this newsletter: The beef between Brazil and Brussels",
+      "publishedAt": "2026-09-04T05:00:07.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Luckin Coffee killed our lunch spot. Here’s what that says about geopolitics",
+      "url": "https://www.ft.com/content/0ace3335-e3c9-4b75-ae02-0d4655885990",
+      "excerpt": "Half a decade on from a fraud scandal, the Chinese chain is thriving in New York City — and pushing out the locals",
+      "publishedAt": "2026-09-04T04:30:06.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "The $275mn question from Guggenheim’s auditor",
+      "url": "https://www.ft.com/content/212311c7-948a-4ee9-b57e-e303eb0eb4f4?syn-25a6b1a6=1",
+      "excerpt": "KPMG warned the asset manager about weak controls within its business last year",
+      "publishedAt": "2026-09-04T04:00:27.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Deutsche Bank led $1bn of troubled lending to Hollywood studio landlord",
+      "url": "https://www.ft.com/content/dd3bc3fe-bda9-40b0-82c2-dcb54e1439f4?syn-25a6b1a6=1",
+      "excerpt": "German lender enabled debt-fuelled expansion of Hackman Capital Partners’ property empire",
+      "publishedAt": "2026-09-04T04:00:27.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Spain pushes for EU oil and gas tax to pay for climate change response",
+      "url": "https://www.ft.com/content/86da564e-aec7-4d53-b7b8-93bbdd240061?syn-25a6b1a6=1",
+      "excerpt": "Rising extreme weather costs fuel campaign ahead of new resilience strategy",
+      "publishedAt": "2026-09-04T04:00:27.000Z",
+      "category": "finance",
+      "source": "Financial Times"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Stock up on food to prepare for extreme weather, minister says",
+      "url": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
+      "publishedAt": "2026-09-04T10:40:23.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
+      "publishedAt": "2026-09-04T17:23:13.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+      "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+      "publishedAt": "2026-09-04T05:59:10.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
+      "publishedAt": "2026-09-04T07:19:06.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "UK petrol prices hit highest level since Iran war began",
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
+      "publishedAt": "2026-09-04T13:05:52.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "From 'dog fruit' to darling: India's avocado boom",
+      "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
+      "publishedAt": "2026-09-04T05:09:02.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030.",
+      "publishedAt": "2026-09-04T07:00:10.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
+      "url": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
+      "publishedAt": "2026-09-04T11:48:24.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "'I lost my savings after a job interview scam'",
+      "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
+      "publishedAt": "2026-09-03T23:41:49.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "US diesel prices hit an all-time-high",
+      "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
+      "publishedAt": "2026-09-04T10:52:56.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
+      "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
+      "publishedAt": "2026-09-04T06:52:29.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Is India's internet boom running into an undersea problem?",
+      "url": "https://www.bbc.co.uk/news/articles/cx2r2mzelxko?at_medium=RSS&at_campaign=rss",
+      "excerpt": "At least 13 of India's 18 intercontinental cables come ashore within six kilometres of Mumbai's Versova beach.",
+      "publishedAt": "2026-09-03T23:40:08.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+      "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
+      "publishedAt": "2026-09-03T16:32:05.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Households warned gas price spike could pile fresh pressure on energy bills",
+      "url": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Experts warn low storage levels could push up gas prices further, leaving households with higher bills.",
+      "publishedAt": "2026-09-03T13:26:54.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
+      "url": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "More than 600 companies underpaid staff, with £4m returned to workers, according to the government.",
+      "publishedAt": "2026-09-03T12:50:14.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Almost half of households do not see benefits of economic growth, report says",
+      "url": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Analysis has found a \"stark\" gap in the spending power of households in the north and south of England on average.",
+      "publishedAt": "2026-09-03T05:47:11.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Stingy bosses and spare change: How much should you give to the office whip-round?",
+      "url": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Office whip-rounds are a staple of working life but they can raise a lot of awkward questions.",
+      "publishedAt": "2026-09-02T23:25:50.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "How Victoria Beckham turned her fashion firm around and made it profitable",
+      "url": "https://www.bbc.co.uk/articles/cj647xd596xo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The pop star formerly known as Posh Spice has taken nearly two decades to turn a profit.",
+      "publishedAt": "2026-09-02T23:24:06.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Trump $1 coin makes him first living president on US currency in a century",
+      "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
+      "publishedAt": "2026-09-03T15:35:47.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Hundreds of North Sea workers too heavy for new helicopter rules",
+      "url": "https://www.bbc.co.uk/news/articles/c4gk2zlv0e6o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Workers should weigh no more than 19.5st fully clothed so that they can be winched to safety in an emergency.",
+      "publishedAt": "2026-09-03T05:06:55.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
+      "url": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.",
+      "publishedAt": "2026-09-02T23:36:49.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Heathrow expansion an 'outdated' risk, mayor says",
+      "url": "https://www.bbc.co.uk/news/articles/c7v4zj2262vo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Sir Sadiq Khan is repeating his opposition to a third runway in response to a government consultation.",
+      "publishedAt": "2026-09-03T04:54:14.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
+      "url": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The 46-year-old figure of international intrigue has an apparent knack for being in the right place at the right time.",
+      "publishedAt": "2026-09-02T23:53:28.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
+      "url": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Huge AI spending plans and the ongoing war in Iran are driving up borrowing costs around the world.",
+      "publishedAt": "2026-09-02T13:20:11.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Uber to cut over 3,000 jobs in major global restructuring",
+      "url": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The company says cutting roles would make its operations \"simpler and faster\".",
+      "publishedAt": "2026-09-02T16:51:49.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Why wait? Business grads buying firms to install themselves as CEO",
+      "url": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Impatient to be the boss of an established company they are borrowing money to fund their purchases.",
+      "publishedAt": "2026-09-02T23:13:44.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+      "url": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+      "excerpt": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
+      "publishedAt": "2026-08-30T23:22:24.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Overcooked? Why robotic pizza makers are failing",
+      "url": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
+      "publishedAt": "2026-08-27T23:16:02.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
+      "url": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "While country music and films brought her fame, her entrepreneurial zeal brought her fortune.",
+      "publishedAt": "2026-08-26T23:03:46.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Firms scramble for battery power in Spain and Portugal",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
+      "publishedAt": "2026-08-25T23:09:31.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "excerpt": "Initial effects of the technology on employment look positive",
+      "publishedAt": "2026-09-04T18:05:02.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Mexico is struggling to win over bond markets",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/03/mexico-is-struggling-to-win-over-bond-markets",
+      "excerpt": "Investors are unconvinced by Claudia Sheinbaum’s policies",
+      "publishedAt": "2026-09-03T09:35:43.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "China tries to look past the property slump",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/03/china-tries-to-look-past-the-property-slump",
+      "excerpt": "But its new policies could hurt construction and employment",
+      "publishedAt": "2026-09-03T09:35:32.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Indian regulators’ attempts to protect retail traders are backfiring",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/03/indian-regulators-attempts-to-protect-retail-traders-are-backfiring",
+      "excerpt": "The unintended consequences of curbs on options trading",
+      "publishedAt": "2026-09-03T09:34:25.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Central banking has a forbidding future",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/02/central-banking-has-a-forbidding-future",
+      "excerpt": "But Kevin Warsh has bought himself time",
+      "publishedAt": "2026-09-02T19:47:06.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Europe’s bond markets are suffering a post-holiday shock",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/01/europes-bond-markets-are-suffering-a-post-holiday-shock",
+      "excerpt": "Reasons for rising yields differ somewhat from those in America, but are no less problematic",
+      "publishedAt": "2026-09-01T21:58:14.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "IPO booms can spell trouble for the markets",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/01/ipo-booms-can-spell-trouble-for-the-markets",
+      "excerpt": "Companies go public in good times that may not last",
+      "publishedAt": "2026-09-01T19:03:06.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "The extraordinary rise of Miami’s economy",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/31/the-extraordinary-rise-of-miamis-economy",
+      "excerpt": "Thanks to a combination of capital and politics, the city is booming. Can its success be sustained?",
+      "publishedAt": "2026-08-31T17:01:41.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Kevin Warsh tries being a normal central banker",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/28/kevin-warsh-tries-being-a-normal-central-banker",
+      "excerpt": "And markets like it",
+      "publishedAt": "2026-08-28T17:02:18.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "The economic costs of Donald Trump’s immigration crackdown",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/27/the-economic-costs-of-donald-trumps-immigration-crackdown",
+      "excerpt": "A smaller workforce and slower growth",
+      "publishedAt": "2026-08-27T09:49:05.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Scott Bessent takes on the bond market",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/27/scott-bessent-takes-on-the-bond-market",
+      "excerpt": "And makes trouble for the Fed",
+      "publishedAt": "2026-08-27T09:13:40.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "China should be loosening budgetary policy. It’s doing the opposite",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/27/china-should-be-loosening-budgetary-policy-its-doing-the-opposite",
+      "excerpt": "Its belt-tightening is good micro, but bad macro",
+      "publishedAt": "2026-08-27T08:57:32.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "How India’s central bank subsidised the diaspora",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/27/how-indias-central-bank-subsidised-the-diaspora",
+      "excerpt": "The scheme has helped to stabilise the rupee",
+      "publishedAt": "2026-08-27T08:57:29.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Tax breaks for charity donations should be scrapped",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/27/tax-breaks-for-charity-donations-should-be-scrapped",
+      "excerpt": "They are a poor way to do good",
+      "publishedAt": "2026-08-27T08:57:00.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Why is Russia deliberately weakening its currency?",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/26/why-is-russia-deliberately-weakening-its-currency",
+      "excerpt": "A strong rouble was hurting the budget",
+      "publishedAt": "2026-08-26T18:28:55.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "What makes a great investor?",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/25/what-makes-a-great-investor",
+      "excerpt": "A big dose of luck, and a distinctly odd character",
+      "publishedAt": "2026-08-25T17:15:09.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Is Scott Bessent the Fed chair Donald Trump always wanted?",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/23/is-scott-bessent-the-fed-chair-donald-trump-always-wanted",
+      "excerpt": "Perhaps. But his effort to talk bond yields lower is likely to fail",
+      "publishedAt": "2026-08-23T13:38:58.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Tracking the cost of Donald Trump’s tariffs",
+      "url": "https://www.economist.com/interactive/trump-tariff-costs-tracker",
+      "excerpt": "America’s global effective tariff stands at 10.0%",
+      "publishedAt": "2026-08-21T17:00:33.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "The high cost of phantom tollbooths",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/20/the-high-cost-of-phantom-tollbooths",
+      "excerpt": "Freedom of navigation is worth preserving",
+      "publishedAt": "2026-08-20T09:21:32.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "However you measure it, China’s job market is weak",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/20/however-you-measure-it-chinas-job-market-is-weak",
+      "excerpt": "Some workers are going back to the farm",
+      "publishedAt": "2026-08-20T09:21:25.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Why bond markets are unnerving rich-world politicians",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/19/why-bond-markets-are-unnerving-rich-world-politicians",
+      "excerpt": "As stocks rise ever higher, yields have been climbing ominously",
+      "publishedAt": "2026-08-19T18:02:58.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Stock indices no longer reflect equity reality",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/18/stock-indices-no-longer-reflect-equity-reality",
+      "excerpt": "Lies, damned lies and stock markets",
+      "publishedAt": "2026-08-18T17:50:12.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "The White House’s absurd claim of a Chinese transshipment “scam”",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam",
+      "excerpt": "High tariffs on Chinese goods have had predictable effects",
+      "publishedAt": "2026-08-18T15:42:49.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "The world’s most influential economist is oddly unconvincing",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/17/the-worlds-most-influential-economist-is-oddly-unconvincing",
+      "excerpt": "Daron Acemoglu is revered. Why?",
+      "publishedAt": "2026-08-17T17:34:22.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "When Japan buys yen, it unwinds a dangerous trade",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/13/when-japan-buys-yen-it-unwinds-a-dangerous-trade",
+      "excerpt": "The world’s biggest carry trader begins to exit its position",
+      "publishedAt": "2026-08-13T08:49:36.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Is China’s debt-bomb squad about to blow up?",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/13/is-chinas-debt-bomb-squad-about-to-blow-up",
+      "excerpt": "Firms tasked with defusing credit crises are getting into trouble",
+      "publishedAt": "2026-08-13T08:37:46.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Can Singapore ever build a proper stock market?",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/13/can-singapore-ever-build-a-proper-stock-market",
+      "excerpt": "The city-state wants to fill a hole in its financial portfolio",
+      "publishedAt": "2026-08-13T08:37:16.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Kevin Warsh is struggling to escape his predecessor’s problems",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/12/kevin-warsh-is-struggling-to-escape-his-predecessors-problems",
+      "excerpt": "High inflation, weak jobs numbers and presidential interference trouble the Federal Reserve",
+      "publishedAt": "2026-08-12T17:33:32.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Hooray for index funds—just don’t call them passive",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/11/hooray-for-index-funds-just-dont-call-them-passive",
+      "excerpt": "Jack Bogle’s creation has transformed markets, and involves plenty of choices",
+      "publishedAt": "2026-08-11T19:25:38.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "China is now the world’s great oil power",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/09/china-is-now-the-worlds-great-oil-power",
+      "excerpt": "Forget OPEC. The Chinese Communist Party calls the shots",
+      "publishedAt": "2026-08-09T16:22:40.000Z",
+      "category": "finance",
+      "source": "The Economist Finance"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+      "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+      "publishedAt": "2026-09-04T22:48:38.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "由于陪审团意见不一致，林赛·克兰西（Lindsay Clancy）谋杀案被宣布审判无效。被告是否需为其三个孩子的死亡承担刑事责任目前处于悬而未决的状态。"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+      "publishedAt": "2026-09-04T16:49:15.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+      "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.",
+      "publishedAt": "2026-09-04T14:40:00.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
+      "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
+      "publishedAt": "2026-09-04T23:07:23.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "德国极右翼政党德国选择党（AfD）正在萨克森-安哈尔特州竞选。若能赢得多数席位，这将是二战以来极右翼政党首次在德国获得州级政权。"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
+      "publishedAt": "2026-09-04T16:02:32.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+      "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
+      "publishedAt": "2026-09-04T11:54:51.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+      "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
+      "publishedAt": "2026-09-04T20:03:52.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Argentine couple to return Nazi-looted painting to rightful owner",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The late-baroque Portrait of a Lady was lost for 80 years until it was spotted in photographs of a house for sale near Buenos Aires.",
+      "publishedAt": "2026-09-04T17:14:21.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "UN votes to adopt new world map to reflect Africa's true size",
+      "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.",
+      "publishedAt": "2026-09-04T19:44:40.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+      "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
+      "publishedAt": "2026-09-04T04:06:41.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "US diesel prices hit an all-time-high",
+      "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
+      "publishedAt": "2026-09-04T10:52:56.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
+      "url": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "King Oyo died in the US last week aged 34 after receiving treatment for an aggressive form of cancer.",
+      "publishedAt": "2026-09-04T13:00:44.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The behaviour of influencers and content creators has become a major talking point at this year's US Open amid incidents of matches being disrupted.",
+      "publishedAt": "2026-09-04T07:16:07.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Transplanted pig kidney works in US man's body for record 271 days",
+      "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
+      "publishedAt": "2026-09-03T22:31:23.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030.",
+      "publishedAt": "2026-09-04T07:00:10.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
+      "excerpt": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods.",
+      "publishedAt": "2026-09-04T22:02:52.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "尼泊尔高度依赖水力发电，但上周的严重洪灾导致该国超过10%的能源产能受损，凸显了过度依赖单一能源结构的风险。"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "'Layer upon layer of miracles' to find tunnel survivors, Nepal rescue adviser tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
+      "publishedAt": "2026-09-04T08:23:05.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "How could US-Iran conflict end? Three experts give their views",
+      "url": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "After renewed strikes this week, does either side have an exit strategy?",
+      "publishedAt": "2026-09-04T09:14:57.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "AI data centres are booming in Australia - but at what cost?",
+      "url": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
+      "publishedAt": "2026-09-03T18:32:03.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Kenya's chai lovers are not happy as the nation's cows run dry",
+      "url": "https://www.bbc.co.uk/news/articles/cgqd9ldegjqo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Supermarket shelves are emptying, sellers are rationing supplies and prices are rising.",
+      "publishedAt": "2026-09-04T00:28:56.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Girl group Katseye are missing two members, but their tour still dazzles",
+      "url": "https://www.bbc.co.uk/news/articles/cqxv49z84ppo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Reduced but resilient, girl group Katseye received a hero's welcome in London.",
+      "publishedAt": "2026-09-04T00:19:53.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "How Gloria Steinem changed the lives of generations of women",
+      "url": "https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The trailblazing feminist spoke out for the legalisation of abortion, same-sex marriage and equal pay for women - but her activism was not without backlash.",
+      "publishedAt": "2026-09-03T11:26:07.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
+      "url": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Palestinian teenagers Omar al-Naasan and Khalil Abu Alia were shot dead when Israeli settlers and soldiers entered a village in the occupied West Bank.",
+      "publishedAt": "2026-09-04T12:39:05.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Watch: Moment workers are rescued from Nepal tunnel",
+      "url": "https://www.bbc.co.uk/news/videos/cnvl5e6vy8eo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Rescuers pull two people from a hydropower tunnel more than a week after a massive flash flood devastated the Nepal-China border.",
+      "publishedAt": "2026-09-04T04:45:54.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Nepal says it will need billions in funding to rebuild after flash floods",
+      "url": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "BBC South Asia correspondent Azadeh Moshiri is in Nepal where authorities are trying to begin rebuilding amid the debris.",
+      "publishedAt": "2026-09-04T02:20:37.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
+      "url": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The jury now faces a seventh day of deliberations in the triple-murder trial.",
+      "publishedAt": "2026-09-04T00:55:45.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
+      "excerpt": "US President Donald Trump has repeated an earlier warning that the US may attack Iran's Pickaxe Mountain \"very soon\".",
+      "publishedAt": "2026-09-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "美国总统唐纳德·特朗普再次发出警告，称美国可能「很快」对伊朗的十字镐山（Pickaxe Mountain）进行打击。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "‘Small potatoes’: US President Trump downplays war on Iran",
+      "url": "https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss",
+      "excerpt": "Trump tells reporters the US is 'not fighting right now' despite a recent exchange of fire with Iran.",
+      "publishedAt": "2026-09-04T23:55:50.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "尽管近期与伊朗发生了交火，但美国总统特朗普在回应媒体时淡化了冲突严重性，称双方目前「并未在打仗」。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Tunisia arrests journalist Mohamed Yousfi amid crackdown on critics",
+      "url": "https://www.aljazeera.com/news/2026/9/4/tunisia-arrests-journalist-amid-crackdown-on-government-critics?traffic_source=rss",
+      "excerpt": "Tunisia faces criticism as prosecutions of journalists continue under President Kais Saied's rule.",
+      "publishedAt": "2026-09-04T23:19:43.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "在突尼斯总统凯斯·赛义德执政期间，政府持续打压异见人士，记者穆罕默德·优素菲（Mohamed Yousfi）近期遭到逮捕，引发外界对新闻自由的质疑。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Mock Republican convention website tops Google, redirects to Epstein files",
+      "url": "https://www.aljazeera.com/news/2026/9/4/mock-republican-convention-website-redirects-users-to-epstein-files?traffic_source=rss",
+      "excerpt": "Democratic lawmakers poke fun at prank website, while Republicans slam 'fake news' and redirect users to real one.",
+      "publishedAt": "2026-09-04T22:51:06.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "一个冒充共和党大会的网站近日搜索排名领先，并将用户跳转至爱泼斯坦案卷宗。共和党对此批评其为「假新闻」，民主党则对这一恶作剧表示嘲讽。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
+      "url": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss",
+      "excerpt": "Israeli forces bar Israeli and Palestinian activists from delivering food and medicine to homes besieged by settlers.",
+      "publishedAt": "2026-09-04T21:58:47.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "以色列警方在耶路撒冷打死一名巴勒斯坦人。同时，以军封锁了对库斯拉（Qusra）地区的援助，禁止活动人士向被定居者围困的居民运送食物和药品。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Costa Rican president signals openness to domestic US military operations",
+      "url": "https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss",
+      "excerpt": "President Laura Fernandez notes that Congress would need to approve any US military operations within the country.",
+      "publishedAt": "2026-09-04T21:45:56.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "哥斯达黎加总统劳拉·费尔南德斯表示愿意接受美国在其境内开展军事行动，但明确指出任何此类行动均需经由哥斯达黎加国会批准。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Betis beat Real Madrid as Mbappe misses penalty in first La Liga defeat",
+      "url": "https://www.aljazeera.com/sports/2026/9/4/real-madrid-beaten-by-betis-as-mourinho-suffers-first-defeat-on-return?traffic_source=rss",
+      "excerpt": "Jose Mourinho's winning start to his second spell at Real Madrid ends with a 1-0 La Liga defeat at Real Betis.",
+      "publishedAt": "2026-09-04T21:37:56.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "US regulator opens safety investigation as Tesla launches driverless taxis",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/us-regulator-opens-safety-investigation-as-tesla-launches-driverless-taxis?traffic_source=rss",
+      "excerpt": "The US National Highway Traffic Safety Administration has opened up an investigation into Tesla’s new self-driving car.",
+      "publishedAt": "2026-09-04T21:27:26.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "随着特斯拉推出无人驾驶出租车，美国国家公路交通安全管理局（NHTSA）已针对该车型的安全性正式启动调查。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Witkoff and Kushner will travel to ‘end’ Russia’s war in Ukraine: Trump",
+      "url": "https://www.aljazeera.com/news/2026/9/4/witkoff-and-kushner-will-travel-to-end-russias-war-in-ukraine-trump?traffic_source=rss",
+      "excerpt": "Steve Witkoff and Jared Kushner will travel to Ukraine and Russia this weekend to help restart peace negotiations.",
+      "publishedAt": "2026-09-04T21:19:05.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "美国前总统特朗普宣布，史蒂夫·维特科夫（Steve Witkoff）和贾里德·库什纳（Jared Kushner）将于本周末前往乌克兰和俄罗斯，以推动重启和平谈判。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Sabalenka interrupts US Open match against Rakhimova over cannabis smell",
+      "url": "https://www.aljazeera.com/sports/2026/9/4/sabalenka-interrupts-us-open-match-against-rakhimova-over-cannabis-smell?traffic_source=rss",
+      "excerpt": "World number one Aryna Sabalenka's straight-sets US Open win against Kamilla Rakhimova stopped by smell of cannabis.",
+      "publishedAt": "2026-09-04T21:05:03.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "世界排名第一的网球选手萨巴伦卡在美网对阵拉希莫娃的比赛中，因闻到大麻气味而一度中断比赛，最终她仍直落两盘赢下胜利。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Liverpool beat Ipswich as Isak goals hand Iraola first Premier League win",
+      "url": "https://www.aljazeera.com/sports/2026/9/4/liverpool-beat-ipswich-as-isak-goals-hand-iraola-first-premier-league-win?traffic_source=rss",
+      "excerpt": "Bradley Barcola makes his debut as Alexander Isak scores both Liverpool goals in 2-0 win at Ipswich Town.",
+      "publishedAt": "2026-09-04T20:55:16.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Nigel Farage heckled as he denies Reform UK took illegal funding",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/nigel-farage-heckled-as-he-denies-reform-uk-took-illegal-funding?traffic_source=rss",
+      "excerpt": "Reform UK leader Nigel Farage was heckled by protesters on Friday, as he addressed the party’s conference in Birmingham.",
+      "publishedAt": "2026-09-04T20:53:12.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "英国改革党领袖奈杰尔·法拉奇在伯明翰出席党内会议时遭到示威者质问和嘘声，他在此期间否认该党曾接受非法资金资助。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Will Europe pay the US to provide military aid to Ukraine?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/4/will-europe-pay-the-us-to-provide-military-aid-to-ukraine?traffic_source=rss",
+      "excerpt": "US President Donald Trump laments past financial support for Ukraine's war effort and has vowed to claw the money back.",
+      "publishedAt": "2026-09-04T20:52:55.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "美国总统特朗普对过去支持乌克兰战争的财务支出表示不满，并宣称将设法追回相关资金，引发关于欧洲是否应付费要求美国向乌克兰提供军援的讨论。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Mexico seizes 17 tonnes of meth in $347 million drug bust",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/mexico-seizes-17-tonnes-of-meth-in-347-million-drug-bust?traffic_source=rss",
+      "excerpt": "Mexican authorities seized nearly 17 tonnes of methamphetamine from three clandestine laboratories in Sinaloa",
+      "publishedAt": "2026-09-04T20:28:40.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "墨西哥当局在锡那罗亚州的三个秘密实验室中查获了近17吨甲基苯丙胺（冰毒），该批毒品价值约3.47亿美元。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Watchdog report alleges misconduct by Trump’s former labour secretary",
+      "url": "https://www.aljazeera.com/news/2026/9/4/watchdog-report-alleges-misconduct-by-trumps-former-labour-secretary?traffic_source=rss",
+      "excerpt": "Lori Chavez-DeRemer reportedly used staff for personal tasks, drank at work and violated ethics regulations.",
+      "publishedAt": "2026-09-04T20:27:11.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-trump-iran-war-small-potatoes-clip?traffic_source=rss",
+      "excerpt": "US President Donald Trump called the Iran war small potatoes, saying only 18 Americans had been killed.",
+      "publishedAt": "2026-09-04T20:22:42.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Israeli drones drop bombs on southern Lebanon’s Mansouri",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss",
+      "excerpt": "Several explosions rocked the southern Lebanese town of Mansouri after Israeli military drones dropped explosives in the",
+      "publishedAt": "2026-09-04T20:04:13.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Israeli strike kills two in southern Lebanon amid ongoing escalation",
+      "url": "https://www.aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation?traffic_source=rss",
+      "excerpt": "Israeli attacks against villages and towns in southern Lebanon continue despite truce agreements and diplomacy.",
+      "publishedAt": "2026-09-04T19:48:25.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Andrew Tate indicted in Romania for trafficking minors, money laundering",
+      "url": "https://www.aljazeera.com/news/2026/9/4/andrew-tate-indicted-in-romania-for-trafficking-minors-money-laundering?traffic_source=rss",
+      "excerpt": "The influencer and his brother are in a Miami prison pending potential extradition to the UK on rape charges",
+      "publishedAt": "2026-09-04T19:44:47.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "UN votes to adopt new world map that reflects Africa’s true size",
+      "url": "https://www.aljazeera.com/news/2026/9/4/un-votes-to-adopt-new-world-map-that-reflects-africas-true-size?traffic_source=rss",
+      "excerpt": "The widely-used Mercator map is often criticised for visually exaggerating and centralising Western nations.",
+      "publishedAt": "2026-09-04T19:25:08.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Five EU nations inch towards deal on migrant ‘return hubs’ by 2027",
+      "url": "https://www.aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027?traffic_source=rss",
+      "excerpt": "Germany, Austria, ⁠Greece, Denmark and the Netherlands did not outline where the centres would be located.",
+      "publishedAt": "2026-09-04T18:52:28.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Brazilian Supreme Court roiled by dispute between justices",
+      "url": "https://www.aljazeera.com/news/2026/9/4/brazilian-supreme-court-roiled-by-dispute-between-justices?traffic_source=rss",
+      "excerpt": "The country's highest court is considering investigations into two judges who have accused each other of wrongdoing.",
+      "publishedAt": "2026-09-04T18:46:44.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Villagers vow to rebuild despite devastating mass demolition in West Bank",
+      "url": "https://www.aljazeera.com/news/2026/9/4/villagers-vow-rebuild-despite-devastating-mass-demolition-west-bank?traffic_source=rss",
+      "excerpt": "Israeli forces' demolition of 12 homes in Khirbet al-Tabban leaves villagers determined to stand firm on their land.",
+      "publishedAt": "2026-09-04T18:32:40.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Moment two workers are pulled alive from Nepal tunnel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/moment-two-workers-are-pulled-alive-from-nepal-tunnel?traffic_source=rss",
+      "excerpt": "Rescuers pulled two workers alive from a hydropower tunnel in Nepal",
+      "publishedAt": "2026-09-04T18:02:30.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Indonesia wildfires send toxic haze across Southeast Asia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-indonesia-kalimantan-haze-borneo-wildfires-haze-id?traffic_source=rss",
+      "excerpt": "Indonesia’s Kalimantan province, sending smoke and toxic haze across Southeast Asia.",
+      "publishedAt": "2026-09-04T17:38:48.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    }
+  ]
+}
