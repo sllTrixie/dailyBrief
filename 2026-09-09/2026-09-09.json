@@ -1,111 +1,112 @@
 {
-  "hero_headline": "OpenAI 发布 GPT-6 Astra，全球地缘局势与贸易摩擦加剧 / OpenAI Launches GPT-6 Astra Amid Rising Global Geopolitical Tensions",
-  "daily_overview": "今日科技界聚焦 OpenAI 发布 GPT-6 Astra，该模型在计算机操作与编码能力上取得突破，引发了行业对 AI 代理（Agent）落地应用的密集讨论。财经领域，全球债市抛售潮持续，叠加地缘政治紧张导致中东局势升级，油气市场波动加剧。同时，国际贸易摩擦亦在升温，美加间爆发进口禁令冲突，英以关系因西岸定居点制裁降至冰点，宏观经济不确定性进一步凸显。三者交织预示着 AI 技术红利与复杂的全球宏观风险并存。\n\nToday's tech spotlight shines on the launch of OpenAI's GPT-6 Astra, showcasing breakthroughs in computer use and coding that have ignited discussions on AI agent deployment. Financially, the global bond sell-off continues, while geopolitical tensions in the Middle East have escalated, increasing volatility in energy markets. Simultaneously, trade friction is intensifying, with import bans emerging between the US and Canada, and UK-Israel relations hitting a low due to West Bank settlement sanctions, highlighting an environment where AI technological dividends coincide with complex global macroeconomic risks.",
+  "hero_headline": "地缘冲突加剧与 AI 技术狂飙引发全球市场震荡 / Global Markets Jolted by Escalating Geopolitical Tensions and AI Advances",
+  "daily_overview": "全球视角下，科技界正迎来以 GPT-6 Astra 为代表的模型应用浪潮，推动 AI 算力与基础设施投资激增；财经领域，地缘摩擦引发的中东局势紧张与美加贸易壁垒，直接导致全球债券市场波动及油价风险预期上升；政治层面，伊朗与美国在中东的军事对抗升级，加上欧洲极右翼势力选举胜出引发的抗议，正深刻重塑现有的国际秩序与贸易格局。\n\nOn the global stage, the tech world is witnessing a wave of model applications led by GPT-6 Astra, driving a surge in AI compute and infrastructure investment. In finance, tensions in the Middle East and US-Canada trade barriers are causing volatility in global bond markets and heightening oil price risk. Politically, the escalation of military confrontation between Iran and the US, alongside protests following far-right election victories in Europe, is fundamentally reshaping the international order and trade landscape.",
   "tech_briefs": [
     {
-      "title": "OpenAI 发布最强模型 GPT-6 Astra / OpenAI Launches Its Most Powerful Model, GPT-6 Astra",
+      "title": "OpenAI 发布 GPT-6 Astra / OpenAI Launches GPT-6 Astra",
       "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
       "source": "Latent Space",
-      "summary": "GPT-6 Astra 在计算机使用与编码方面展现 SOTA 水准，尽管单位 Token 价格上涨，但任务处理效率大幅提升，被视为大模型领域的重要里程碑。（多家报道）\n\nGPT-6 Astra achieves SOTA performance in computer use and coding; despite higher per-token costs, its efficiency in task completion marks a significant milestone in large-scale model development.",
-      "importance": 9
+      "summary": "GPT-6 Astra 作为 OpenAI 最新的旗舰模型，在代码与计算机使用能力上表现出色，虽单 token 成本提高但综合执行效率大幅提升。（多家报道）\n\nAs OpenAI's latest flagship, GPT-6 Astra delivers SOTA performance in coding and computer use, offering significantly higher task efficiency despite increased per-token costs.",
+      "importance": 10
     },
     {
-      "title": "深度智控完成数亿元 B+ 轮融资 / DeepCtrls Secures Hundreds of Millions in B+ Round Funding",
+      "title": "深度智控完成数亿元 B+ 轮融资 / DeepCtrls Secures Major B+ Round",
       "url": "https://www.qbitai.com/2026/09/485784.html",
       "source": "量子位",
-      "summary": "物理 AI 企业深度智控获宁德时代、沙特阿美等战略投资，旨在打造支撑物理世界 AI 的算力与能源底座。\n\nPhysical AI firm DeepCtrls has secured strategic investment from CATL and Saudi Aramco to build the computing and energy infrastructure for physical AI.",
+      "summary": "物理 AI 企业深度智控获得宁德时代与沙特阿美投资，旨在构建物理 AI 时代的算力与能源底座。\n\nDeepCtrls has raised millions in its B+ round from CATL and Saudi Aramco to build foundational compute and energy infrastructure for the physical AI era.",
       "importance": 8
     },
     {
-      "title": "AI 与工作职位的未来展望 / AI's Outlook on Future Jobs",
-      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "source": "The Economist Finance",
-      "summary": "研究显示短期内 AI 并未引发大规模失业，反而带动了新的就业增长，技术对劳动市场的影响较预期更为积极。\n\nResearch indicates that AI has not caused widespread job losses in the short term, but rather stimulated new growth, with a more positive impact on labor markets than initially expected.",
-      "importance": 7
+      "title": "AlphaGenome Atlas 正式发布 / Launch of AlphaGenome Atlas",
+      "url": "https://x.com/GoogleAI/status/2097334571637346484",
+      "source": "X 推文 (AttentionVC)",
+      "summary": "Google DeepMind 推出的交互式基因组发现平台，致力于通过高分辨率人类 DNA 图谱加速生物学研究。\n\nGoogle DeepMind introduced an interactive platform for genomics discovery, aiming to accelerate biological research through a high-resolution map of human DNA.",
+      "importance": 8
     }
   ],
   "finance_briefs": [
     {
-      "title": "全球债市遭遇持续抛售 / Global Bond Markets Face Sustained Sell-off",
-      "url": "https://www.economist.com/finance-and-economics/2026/09/08/what-is-causing-the-global-bond-sell-off",
-      "source": "The Economist Finance",
-      "summary": "全球债市面临严峻抛售压力，市场正在寻求通胀与利率政策的新平衡点，投资者风险厌恶情绪抬头。\n\nGlobal bond markets are facing severe sell-off pressure as investors seek a new equilibrium amidst inflation and interest rate policy shifts.",
-      "importance": 8
-    },
-    {
-      "title": "LIV Golf 申请破产保护 / LIV Golf Files for Bankruptcy Protection",
+      "title": "LIV Golf 申请破产保护 / LIV Golf Files for Bankruptcy",
       "url": "https://www.ft.com/content/08da69fa-ee6e-4667-b039-8d9c2d1538a0?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "summary": "受高额负债拖累，LIV Golf 申请破产，正寻求通过融资方案转型「LIV 2.0」。\n\nBurdened by significant liabilities, LIV Golf has filed for bankruptcy and is seeking to transition into 'LIV 2.0' through a new funding deal.",
-      "importance": 7
+      "summary": "沙特支持的 LIV Golf 宣布破产并背负至少 5 亿美元债务，正计划通过重组启动 2.0 版本。（多家报道）\n\nSaudi-backed LIV Golf has filed for bankruptcy with over $500mn in liabilities and is planning a 2.0 relaunch through restructuring.",
+      "importance": 9
     },
     {
-      "title": "美加贸易战升级，实施互惠制裁 / US-Canada Trade War Escalates with Reciprocal Sanctions",
+      "title": "美加爆发贸易战实施进口禁令 / US and Canada Trade War Escalates",
       "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "summary": "美加两国贸易关系持续恶化，双方互设贸易禁令与关税，对跨境供应链造成直接干扰。（多家报道）\n\nUS-Canada trade relations continue to deteriorate as both nations impose reciprocal trade bans and tariffs, causing direct disruption to cross-border supply chains.",
+      "summary": "美国对加拿大酒精及相关产品实施进口禁令，以报复加拿大的报复性关税措施，引发双边贸易摩擦升级。\n\nThe US has imposed import bans on Canadian alcohol and goods in retaliation for Canada's counter-tariffs, escalating trade tensions between the two nations.",
       "importance": 9
+    },
+    {
+      "title": "中国银行业 540 亿美元资本注入不及预期 / China’s $54bn Bank Capital Boost Falls Short",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/08/chinas-54bn-capital-boost-for-banks-falls-far-short",
+      "source": "The Economist Finance",
+      "summary": "分析指出 540 亿美元的银行注资规模对改善资产负债表效果有限，仍难从根本上解决信贷紧缩问题。\n\nAnalysts suggest the $54bn capital injection is insufficient to resolve underlying balance-sheet issues or alleviate credit constraints significantly.",
+      "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "英以关系因西岸制裁降至冰点 / UK-Israel Ties Hit Low Over West Bank Sanctions",
-      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "summary": "英国宣布对西岸定居点实施制裁，引发以色列强烈反制，包括关闭英国在耶路撒冷的领事馆。\n\nThe UK announced sanctions against West Bank settlements, sparking a furious Israeli counter-response, including the closure of the British consulate in Jerusalem.",
-      "importance": 8
+      "title": "美伊军事对抗激化 / US-Iran Military Conflict Intensifies",
+      "url": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base?traffic_source=rss",
+      "source": "Al Jazeera",
+      "summary": "美军摧毁五艘伊朗油轮后，伊朗针对驻约旦美军基地发动袭击，地区局势迅速恶化。（多家报道）\n\nFollowing the US destruction of five Iranian tankers, Iran launched retaliatory attacks on a US base in Jordan, significantly deteriorating regional stability.",
+      "importance": 10
     },
     {
-      "title": "美国加大对伊朗航空业制裁 / US Increases Sanctions on Iran's Aviation Sector",
-      "url": "https://www.aljazeera.com/news/2026/9/8/us-increases-pressure-on-iran-with-sanctions-targeting-aviation-sector?traffic_source=rss",
-      "source": "Al Jazeera",
-      "summary": "美军在中东打击伊朗油轮后，华盛顿进一步对伊朗航空业实施制裁，旨在全方位施压伊朗经济。\n\nFollowing US military strikes on Iranian oil tankers, Washington has imposed further sanctions on Iran's aviation sector, aiming to exert comprehensive pressure on its economy.",
-      "importance": 9
+      "title": "英国制裁定居点引以色列不满 / UK Sanctions on Settlements Spark Israeli Response",
+      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "summary": "英国因约旦河西岸定居点问题实施制裁，导致双边外交关系降至冰点，以色列关闭了英国驻耶路撒冷总领馆。\n\nUK sanctions regarding West Bank settlements have pushed diplomatic ties to a low, with Israel closing the British consulate in East Jerusalem.",
+      "importance": 8
     }
   ],
-  "editor_note": "科技跃迁与宏观混乱共存。GPT-6 的到来预示 AI 代理时代提速，建议关注技术对职业的重构；同时全球贸易与地缘风险频发，现金流管理与风险对冲愈发关键。\n\nTechnological leaps and macro chaos coexist. The arrival of GPT-6 signals an accelerated AI agent era; focus on how tech reshapes jobs. Meanwhile, frequent global trade and geopolitical risks make cash flow management and risk hedging crucial.",
+  "editor_note": "技术奇点与地缘危机并存，投资与职业规划需避开盲目乐观，关注AI工具的实操效率及全球供应端的稳定性。\n\nTechnological singularity meets geopolitical crisis; investment and career planning should avoid blind optimism and focus on practical AI efficiency and global supply chain stability.",
   "keywords": [
     "GPT-6 Astra",
-    "AI Agent",
-    "债市抛售",
-    "贸易摩擦",
+    "美伊冲突",
     "物理AI",
+    "贸易摩擦",
+    "债券波动",
+    "LIV Golf",
     "地缘政治"
   ],
   "career_advice": [
-    "关注 AI 代理（Agent）在工作中的协同应用，而非仅仅将 AI 作为搜索工具，熟练掌握 Prompt 调优与指令链构建是未来核心竞争力。",
-    "在全球宏观动荡加剧的背景下，普通人应更加重视财务安全与流动性管理，避免过度杠杆，保留足够的「防御性资产」。",
-    "职业发展中应提升对跨领域知识的敏锐度，特别是在物理AI与算力能源等硬科技领域，理解技术底座如何通过资本驱动影响实体经济。"
+    "AI时代个人价值不在于使用工具的多寡，而在于能否将模型能力整合进解决实际问题的完整闭环中。",
+    "在地缘政治波动期，职场选择应优先考虑具备全球供应韧性或能源自主权的行业，避免过度依赖单一地缘市场。",
+    "关注「物理AI」与制造业结合的领域，未来五年这类结合实体经济的深度算力应用将释放巨大的人才需求。"
   ],
   "trading": {
-    "market_overview": "当前市场情绪受加密货币领域「贪婪」指数影响，66 的数值显示散户入场意愿强烈，但加密总市值 24 小时微跌 1.97%，说明高位波动风险已现。对于普通投资者，目前的市场有两点启示：首先，汇率方面，人民币对美元汇率表现坚挺（USD/CNY 下行），近期有留学或海淘计划的朋友可以关注现在的购汇窗口期，成本相对划算；其次，原油期货近期大涨 10.34%，这往往是通胀预期的前哨，建议大家关注后续加油成本和物流运输带来的生活消费品涨价压力。股市方面，目前属于高位震荡，建议别被短期的贪婪冲昏头脑，定投优于一把梭，特别是对于中概股及高位科技股，应控制好仓位节奏。",
+    "market_overview": "当前市场情绪显得有些矛盾，一方面加密货币领域的「恐慌贪婪指数」高达 66，处于贪婪区间，但加密货币整体市值却在 24 小时内回调了 2%，显示出短期获利回吐的压力。对于普通投资者，这提醒我们即使在大牛市氛围下，也不要盲目追高，加密资产波动剧烈，建议做好资金管理。近期股市方面，以 NVDA 为代表的科技股依旧表现强劲，但部分传统消费电子个股（如 AAPL、MSFT）出现小幅回调，这提醒大家关注消费市场的疲软迹象。对于理财，建议关注原油价格的走势，CL=F 原油期货近期大涨 10.35%，这意味着未来的燃油成本和物流支出可能上升，对有出行需求或经营运输业务的朋友来说，需要预留更多的预算。最后，人民币汇率波动较小，汇率走势平稳，近期有海外旅游或海淘需求的朋友可以多关注一下跨境平台的优惠活动，不必过于担忧汇率大起大落带来的额外支出。",
     "watchlist": [
       {
-        "symbol": "USDCNY=X",
-        "display_name": "美元 / 人民币",
-        "stance": "偏下行",
-        "rationale": "美元/人民币现报 6.7，RSI 指标仅 16.1，处于极度的「超卖」状态，且呈现空头排列。这对普通人最大的影响是出国旅游、留学缴纳学费或海淘的成本在近期显著降低。如果你近期有美元刚需，现在的汇率区间非常友好，可以考虑分批换汇，不必一次性买入，享受汇率升值的红利。"
+        "symbol": "NVDA",
+        "display_name": "英伟达 (NVDA)",
+        "stance": "偏上行",
+        "rationale": "英伟达近期表现亮眼，虽然单日下跌 1.19%，但 5 日涨幅达到 3.76%，且 MACD 出现金叉，多头趋势明确。作为 AI 算力的领头羊，其股价对科技板块风向标作用显著。对于普通投资者，如果不希望错过科技成长红利，这种强势标的可以作为定投组合的一部分，但需注意其 RSI 高达 60.4，短期可能存在震荡调整，切忌一把梭哈。"
       },
       {
         "symbol": "CL=F",
         "display_name": "WTI 原油期货",
         "stance": "偏上行",
-        "rationale": "原油价格 5 日内大涨 10.34%，且 MACD 出现金叉，多头趋势非常明显。原油是工业的血液，它的上涨会直接推高成品油价格以及交通运输成本。对于普通家庭，这意味着未来一段时间的燃油开支可能会增加，建议近期如有长途自驾计划，可提前做好油费预算，同时留意连锁反应带来的物价微涨。"
+        "rationale": "原油期货价格近期表现强势，5 日涨幅高达 10.35%，且 MACD 呈现金叉信号，多头排列迹象明显。这不仅是一个投资标的，更是普通人钱包的「警报器」。油价持续走高往往意味着成品油价格上涨，直接增加日常驾车出行及物流成本。若你持有这类商品相关的投资，可以关注；若没有，建议近期适当控制出行开支预算，因为能源输入型通胀的影响正在显现。"
       },
       {
-        "symbol": "BTC-USD",
-        "display_name": "比特币",
+        "symbol": "USDCNY=X",
+        "display_name": "美元 / 人民币",
+        "rationale": "目前美元兑人民币汇率为 6.7，RSI 指标仅为 16.1，处于严重的超卖状态，且 MACD 出现死叉，显示出明显的下行趋势。这对于近期有计划海淘、海外旅游或需要兑换美元的人群来说是个好消息，意味着以人民币计价的海外商品成本在降低。但由于处于 RSI 超卖区间，汇率可能在短期内出现技术性反弹，建议有刚需者分批购汇，不必追求极端的最低点。",
+        "stance": "偏下行"
+      },
+      {
+        "symbol": "PDD",
+        "display_name": "拼多多 (PDD)",
         "stance": "中性",
-        "rationale": "当前比特币价格在 78607 美元附近，虽然长周期趋势良好，但 MACD 已出现死叉，显示短期回调压力增加。结合目前 66 的「贪婪」指数，市场情绪过热。对于非专业投资者，现在不是盲目跟风入场的好时机，若手中已有筹码，可适当审视止盈，避免在市场情绪亢奋时盲目加杠杆。"
-      },
-      {
-        "symbol": "AAPL",
-        "display_name": "苹果 (AAPL)",
-        "stance": "偏下行",
-        "rationale": "苹果近期单日跌幅达 3.65%，股价回落至 316.22 美元。虽然长趋势仍为多头，但短期的波动显示其在高位遇到了压力。对于消费者而言，如果不急于更换新机，可以持币观望，近期股价的松动有时会伴随渠道商的促销活动，等一等说不定能以更低的价格买到心仪的数码产品。"
+        "rationale": "拼多多当前股价面临一定的压力，5 日跌幅达到 6.93%，且呈现明显的空头排列，MACD 指标仍处于弱势区域。这反映了当前消费市场复苏的复杂性以及投资人对电商竞争环境的担忧。对于普通消费者而言，这或许意味着商家为了抢占份额，促销力度可能会持续加大，短期内反而是消费者「薅羊毛」的好时机。但在投资层面，需观察其是否能在当前点位获得有效支撑。"
       }
     ],
-    "risk_caveat": "本报告基于公开市场数据分析，仅供交流参考，不构成实质投资建议。金融市场波动剧烈，投资理财需谨慎，请根据个人风险承受能力进行决策，盈亏自负。",
+    "risk_caveat": "本报告提供的信息基于当前公开市场数据，旨在分享市场动态与理财逻辑，仅供交流参考，不构成实质投资建议。投资有风险，入市需谨慎，请结合自身财务状况与风险承受能力做出独立决策。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -328,18 +329,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 78607.37,
-        "pct1Day": -0.6427050362951778,
-        "pct5Day": -3.278350033832299,
-        "pct52WeekHigh": -37.711115550340836,
-        "pct52WeekLow": 36.121923746799126,
-        "sma20": 78442.91484375,
-        "sma50": 69961.86921875,
-        "sma200": 69867.418203125,
-        "rsi14": 60.73490333029783,
-        "macd": 2857.4988050504326,
-        "macdSignal": 3242.9815932577994,
-        "macdHistogram": -385.48278820736687,
+        "currentPrice": 78594.11,
+        "pct1Day": -0.6594652679530771,
+        "pct5Day": -3.294665667831386,
+        "pct52WeekHigh": -37.72162284256804,
+        "pct52WeekLow": 36.0989618195793,
+        "sma20": 78442.251953125,
+        "sma50": 69961.6040625,
+        "sma200": 69867.3519140625,
+        "rsi14": 60.68350363988094,
+        "macd": 2856.4412017740688,
+        "macdSignal": 3242.7700726025264,
+        "macdHistogram": -386.32887082845764,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -365,18 +366,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 2491.48,
-        "pct1Day": 0.020955479211727832,
-        "pct5Day": -0.6595141583355658,
-        "pct52WeekHigh": -47.69491871212876,
-        "pct52WeekLow": 65.38138554669924,
-        "sma20": 2460.37705078125,
-        "sma50": 2127.1837158203125,
-        "sma200": 2044.2036328125,
-        "rsi14": 63.562919607199326,
-        "macd": 108.0265040223403,
-        "macdSignal": 122.50736212280219,
-        "macdHistogram": -14.480858100461887,
+        "currentPrice": 2489.62,
+        "pct1Day": -0.053714587251316843,
+        "pct5Day": -0.7336762241219693,
+        "pct52WeekHigh": -47.73396676838265,
+        "pct52WeekLow": 65.2579210287754,
+        "sma20": 2460.2840576171875,
+        "sma50": 2127.1465185546876,
+        "sma200": 2044.1943334960938,
+        "rsi14": 63.39064487835935,
+        "macd": 107.87813886030335,
+        "macdSignal": 122.4776890903948,
+        "macdHistogram": -14.599550230091452,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -397,18 +398,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 103.67,
-        "pct1Day": -0.18892937430746448,
-        "pct5Day": -0.29655730416752013,
-        "pct52WeekHigh": -59.057682973690994,
-        "pct52WeekLow": 71.59725311976948,
-        "sma20": 100.76553001403809,
-        "sma50": 85.45989440917968,
-        "sma200": 82.64039295196534,
-        "rsi14": 62.72089159961116,
-        "macd": 5.594956502670328,
-        "macdSignal": 6.1495489674525095,
-        "macdHistogram": -0.5545924647821812,
+        "currentPrice": 103.58,
+        "pct1Day": -0.27557928610752885,
+        "pct5Day": -0.3831137799331733,
+        "pct52WeekHigh": -59.09322660764844,
+        "pct52WeekLow": 71.44828280260174,
+        "sma20": 100.76103019714355,
+        "sma50": 85.45809448242187,
+        "sma200": 82.63994297027588,
+        "rsi14": 62.544731146581356,
+        "macd": 5.587777307624918,
+        "macdSignal": 6.148113128443428,
+        "macdHistogram": -0.5603358208185094,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -543,18 +544,18 @@
         "group": "commodity-fx",
         "currency": "USD",
         "exchangeName": "CMX",
-        "currentPrice": 4393.2,
-        "pct1Day": -0.8262180301866286,
-        "pct5Day": -0.8553202776054811,
-        "pct52WeekHigh": -21.356199205184204,
-        "pct52WeekLow": 21.41277912889674,
-        "sma20": 4468.725,
-        "sma50": 4245.2740087890625,
-        "sma200": 4522.122993164063,
-        "rsi14": 49.822886181805785,
-        "macd": 46.880920094440626,
-        "macdSignal": 73.08945674022317,
-        "macdHistogram": -26.208536645782544,
+        "currentPrice": 4390.8,
+        "pct1Day": -0.88039655079291,
+        "pct5Day": -0.9094828996881795,
+        "pct52WeekHigh": -21.39916222118792,
+        "pct52WeekLow": 21.3464514702631,
+        "sma20": 4468.60498046875,
+        "sma50": 4245.226000976562,
+        "sma200": 4522.110991210938,
+        "rsi14": 49.66648333240999,
+        "macd": 46.68943594201846,
+        "macdSignal": 73.05115990973874,
+        "macdHistogram": -26.36172396772028,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -565,18 +566,18 @@
         "group": "commodity-fx",
         "currency": "USD",
         "exchangeName": "NYM",
-        "currentPrice": 94.63,
-        "pct1Day": 3.443371805284977,
-        "pct5Day": 10.34281441560538,
-        "pct52WeekHigh": -20.798459993304323,
-        "pct52WeekLow": 72.11713350309203,
-        "sma20": 86.06050071716308,
-        "sma50": 81.46480026245118,
-        "sma200": 78.98439992904663,
-        "rsi14": 69.7848963040399,
-        "macd": 2.6710117493149994,
-        "macdSignal": 1.74889927587848,
-        "macdHistogram": 0.9221124734365194,
+        "currentPrice": 94.64,
+        "pct1Day": 3.4543031559988453,
+        "pct5Day": 10.354474863076126,
+        "pct52WeekHigh": -20.79009039169736,
+        "pct52WeekLow": 72.1353219352492,
+        "sma20": 86.06100082397461,
+        "sma50": 81.46500030517578,
+        "sma200": 78.98444993972778,
+        "rsi14": 69.79739721191156,
+        "macd": 2.6718096405242733,
+        "macdSignal": 1.7490588541203347,
+        "macdHistogram": 0.9227507864039386,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -700,26 +701,21 @@
         "group": "macro",
         "currency": "USD",
         "exchangeName": "NYB",
-        "currentPrice": 98.79,
-        "pct1Day": -0.3731380077094058,
-        "pct5Day": -0.6436692177526425,
-        "pct52WeekHigh": -2.956777996070718,
-        "pct52WeekLow": 3.390894819466258,
-        "sma20": 99.34200019836426,
-        "sma50": 100.18340042114258,
-        "sma200": 99.16215019226074,
-        "rsi14": 38.188231596621954,
-        "macd": -0.2674135123567538,
-        "macdSignal": -0.28211904950423994,
-        "macdHistogram": 0.014705537147486125,
+        "currentPrice": 98.744,
+        "pct1Day": -0.4195276792515256,
+        "pct5Day": -0.689932920718368,
+        "pct52WeekHigh": -3.001964636542237,
+        "pct52WeekLow": 3.342752485609631,
+        "sma20": 99.3397003173828,
+        "sma50": 100.18248046875,
+        "sma200": 99.1619202041626,
+        "rsi14": 37.67824121005697,
+        "macd": -0.27108283813910816,
+        "macdSignal": -0.2828529146607108,
+        "macdHistogram": 0.011770076521602613,
         "trend": "neutral",
         "rsiState": "normal",
-        "signals": [
-          {
-            "type": "near-52w-high",
-            "label": "接近 52 周高"
-          }
-        ]
+        "signals": []
       }
     ],
     "crypto_fear_greed": {
@@ -729,13 +725,13 @@
       "timestamp": "2026-09-09T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2694432595865.2344,
-      "total24hVolumeUsd": 91389350652.15428,
-      "marketCapChangePct24h": -1.9663356429014685,
-      "btcDominance": 58.33358440559875,
-      "ethDominance": 11.226077332307538,
+      "totalMarketCapUsd": 2698814272540.642,
+      "total24hVolumeUsd": 91179399718.81792,
+      "marketCapChangePct24h": -1.9963197685477492,
+      "btcDominance": 58.34791454861264,
+      "ethDominance": 11.227182570536302,
       "activeCryptocurrencies": 19697
     },
-    "generated_at": "2026-09-09T00:09:12.320Z"
+    "generated_at": "2026-09-09T00:31:19.593Z"
   }
 }
