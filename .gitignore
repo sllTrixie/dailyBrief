@@ -21,3 +21,9 @@
 
 # screenshot originals (only the cropped versions are committed)
 /docs/screenshots/originals/
+
+# python virtualenv & cache
+.venv/
+venv/
+__pycache__/
+*.pyc
