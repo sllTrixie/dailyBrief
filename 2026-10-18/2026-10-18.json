@@ -1,104 +1,112 @@
 {
-  "hero_headline": "全球动荡加剧：AI具身智能突破与欧洲抗议潮并存 / Global Volatility: AI Embodied Intelligence Breakthroughs and European Unrest",
-  "daily_overview": "今日科技界聚焦AI具身智能的实质性进展，优必选等机构在物理世界模型与VLA技术上取得基准测试第一，展示了AI从虚拟到物理操控的进化潜力；同时，AI基础设施投融资市场出现分化，部分高估值企业面临资金流动性考验。财经与地缘政治方面，中东局势升级冲击海运与能源供应，尼日尔能源出口禁令及红海船只袭击事件推高通胀担忧。欧洲多国爆发大规模生活成本抗议活动，显示通胀与地缘摩擦对社会稳定的持续侵蚀。综合来看，全球宏观经济正面临供应链碎片化与地缘风险的深度叠加，投资者与企业需在AI技术红利与动荡的政治环境间寻求平衡。\n\nToday, the tech sector is focused on substantial progress in embodied AI, with breakthroughs in world models and VLA technology showcasing AI's potential to transition from virtual tasks to physical manipulation. Meanwhile, AI infrastructure financing is seeing divergence, as high-valuation firms face liquidity tests. In finance and geopolitics, the escalating conflict in the Middle East is straining maritime routes and energy supplies, while Niger's fuel export ban and attacks on vessels in the Red Sea amplify inflationary pressures. Widespread protests over the cost of living across Europe highlight how inflation and geopolitical friction are eroding social stability. Overall, the global macro environment is currently defined by the collision of supply chain fragmentation and geopolitical volatility, necessitating a strategic balance between AI-driven productivity gains and mounting systemic risks.",
+  "hero_headline": "AI 重塑物理世界边界，全球多地爆发生活成本危机 / AI Reshaping Physical Frontiers, Living Cost Crises Erupt Globally",
+  "daily_overview": "今日科技界聚焦“具身智能”的进化，以世界模型推动机器人从任务执行迈向物理世界认知，同时AI Agent正加速替代代码开发与辅助决策流程。金融领域，澳洲房市受高利率抑制，欧洲多国因物价高企陷入社会动荡，能源与矿产供应链压力进一步加剧。时政方面，法国及欧洲多国爆发大规模生活成本抗议，中东局势升级与美国外交政策调整并存，全球经济社会不确定性显著攀升。\n\nToday's tech focus shifts toward \"embodied intelligence,\" utilizing world models to enable robots to transition from mere task execution to physical world reasoning, while AI Agents accelerate software development and decision-making. Financially, Australian housing is dampened by high rates, while European nations face social unrest due to inflation, coupled with strained energy and mineral supply chains. Politically, mass cost-of-living protests have erupted across France and Europe, with escalating tensions in the Middle East and shifting U.S. foreign policies, signaling a sharp rise in global uncertainty.",
   "tech_briefs": [
     {
-      "title": "优必选Thinker-WM在具身智能基准评测中夺冠 / Ubtech's Thinker-WM Tops Embodied Intelligence Benchmarks",
-      "url": "https://www.qbitai.com/2026/10/503843.html",
+      "title": "具身智能新突破：机器人世界模型 / New Embodied AI Breakthrough: Robotic World Models",
+      "url": "https://www.qbitai.com/2026/10/503865.html",
       "source": "量子位",
-      "summary": "优必选推出的Thinker-WM模型在三大具身世界模型基准测试中全部获得第一，标志着多模态统一表征能力在机器人控制领域的重大突破。（多家报道）\n\nUbtech's Thinker-WM model achieved top rankings across three major embodied world model benchmarks, marking a significant breakthrough in multimodal unified representation for robotic control. (Multiple reports)",
+      "summary": "通过将世界模型与VLA（视觉-语言-动作）架构结合，机器人不再仅仅是“能干活”，而是具备了“想清楚再干”的规划与认知能力。（多家报道）\n\nBy combining world models with VLA architectures, robots transition from mere execution to possessing planning and cognitive capabilities before acting.",
       "importance": 9
     },
     {
-      "title": "Modal成为纽约最新AI百亿独角兽 / Modal Becomes NYC's Newest AI Decacorn",
+      "title": "Modal 融资至 160 亿美元，AI 基础设施爆发 / Modal Hits $16B Valuation as AI Infrastructure Booms",
       "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
       "source": "Latent Space",
-      "summary": "AI基础设施平台Modal完成D轮融资，估值达160亿美元，年经常性收入突破10亿美元，显示AI基建赛道头部效应愈发显著。\n\nAI infrastructure platform Modal reached a $16 billion valuation in its Series D, with ARR exceeding $1 billion, signaling the growing concentration of market power in the AI infrastructure sector.",
+      "summary": "AI Infra 公司 Modal 年化收入达到 10 亿美元，估值在一年内飙升 15 倍，凸显市场对AI算力与沙盒环境的强劲需求。\n\nAI Infra firm Modal has reached $1B ARR, with valuation soaring 15x in a year, underscoring intense market demand for compute and sandbox environments.",
       "importance": 8
     },
     {
-      "title": "AI实验室竞购濒死初创公司数据用于模型训练 / AI Labs Buying Data from Defunct Startups",
-      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-      "source": "MIT Tech Review AI",
-      "summary": "AI实验室正通过收购濒死初创公司的资产来获取训练数据，反映了高质量语料获取已成为大模型竞争的生命线。\n\nAI labs are acquiring assets from dying startups to secure training data, reflecting that high-quality data access has become a critical lifeline for large model competition.",
+      "title": "AI Agent 框架构建工具链激增 / Surge in AI Agent Framework Tooling",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "source": "GitHub Trending",
+      "summary": "开源社区涌现大量基于 Claude Code 的代理框架，从自动化求职到计算机使用，工具正重构开发与行政工作流。\n\nOpen-source communities are seeing a surge in Claude Code-based agent frameworks, from automated job searching to computer use, reshaping development and admin workflows.",
       "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "尼日尔宣布暂停柴油与汽油出口以保供 / Niger Halts Fuel Exports to Protect Domestic Supply",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-17/niger-halts-diesel-petrol-exports-to-protect-domestic-supply",
-      "source": "Bloomberg Markets",
-      "summary": "为应对国内燃料供应短缺，尼日尔政府宣布禁止柴油及优质汽油出口，进一步加剧了区域性能源市场的不确定性。\n\nTo address domestic shortages, the Nigerien government has banned diesel and premium petrol exports, further exacerbating uncertainty in regional energy markets.",
+      "title": "欧洲多国爆发生活成本抗议 / Cost-of-Living Protests Erupt Across Europe",
+      "url": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france",
+      "source": "Al Jazeera",
+      "summary": "法国、比利时、意大利等多地爆发反政府示威，抗议生活成本高涨，法国境内发生多起骚乱。（多家报道）\n\nAnti-government demonstrations have erupted across France, Belgium, and Italy, protesting rising costs, with violent unrest reported in France.",
+      "importance": 9
+    },
+    {
+      "title": "红海冲突加剧大宗商品供应链压力 / Red Sea Conflict Strains Commodity Supply Chains",
+      "url": "https://www.economist.com/finance-and-economics/2026/10/15/a-shortage-of-sulphur-could-hurt-mines-and-farms-everywhere",
+      "source": "The Economist Finance",
+      "summary": "霍尔木兹海峡袭击事件激增导致能源出口放缓，硫磺等关键原材料短缺威胁全球矿业与农业供应链安全。\n\nIncreased attacks near Hormuz are slowing energy exports, while shortages of critical raw materials like sulfur threaten global mining and agricultural supply chains.",
       "importance": 8
     },
     {
-      "title": "AI垃圾债券市场因CoreWeave风险引发担忧 / AI Junk Bond Market Faces Risks from CoreWeave Concerns",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-17/coreweave-woes-risk-shutting-down-ai-junk-market-credit-weekly",
+      "title": "澳洲房市在加息周期中降温 / Australian Housing Cools Amid Rate Hikes",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-17/australian-home-auctions-decline-as-rate-hikes-dampen-activity",
       "source": "Bloomberg Markets",
-      "summary": "CoreWeave面临的财务质疑导致投资者对AI初创企业融资环境愈发谨慎，高杠杆AI企业的融资能力或将遭遇考验。\n\nFinancial skepticism surrounding CoreWeave is making investors more cautious toward AI startup financing, potentially threatening the fundraising capabilities of highly leveraged AI firms.",
-      "importance": 8
+      "summary": "受 15 年来最高利率影响，澳大利亚房屋拍卖活动显著萎缩，房产市场热度持续下滑。\n\nWeighed down by 15-year high interest rates, Australian home auction activity has significantly contracted as the property market cools.",
+      "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "欧洲多国爆发大规模生活成本抗议 / Widespread Cost-of-Living Protests Erupt Across Europe",
-      "url": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france",
+      "title": "中东局势升级： tanker 遇袭与外交摩擦 / Middle East Escalation: Tanker Attacks and Diplomatic Friction",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-humuz-israeli-settlers-attack-eu-diplomats",
       "source": "Al Jazeera",
-      "summary": "比利时、意大利、葡萄牙及法国等多地爆发大规模抗议，民众因通胀导致的巨大生活压力向政府施压。（多家报道）\n\nMass protests have erupted in Belgium, Italy, Portugal, and France, as citizens pressure governments over the immense cost-of-living burden caused by inflation. (Multiple reports)",
+      "summary": "霍尔木兹海峡油轮遭袭，同时驻西岸欧盟外交官遭遇以色列定居者袭击，地区局势愈发紧张。（多家报道）\n\nTankers were hit near Hormuz, while EU diplomats in the West Bank were attacked by settlers, significantly raising regional tensions.",
       "importance": 9
     },
     {
-      "title": "霍尔木兹海峡船只袭击事件创下历史纪录 / Attacks on Vessels Near Hormuz Reach Record High",
-      "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no",
-      "source": "BBC Business",
-      "summary": "霍尔木兹海峡及周边地区遭遇袭击的船只数量达到历史新高，严重阻碍了全球原油运输与海上供应链安全。\n\nAttacks on vessels near the Strait of Hormuz have hit a record high, significantly disrupting global crude oil transit and the safety of maritime supply chains.",
-      "importance": 9
+      "title": "美国调整对俄部分制裁政策 / U.S. Adjusts Policy on Russia Sanctions",
+      "url": "https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "summary": "美方以国家安全为由免除对俄部分制裁，旨在换取俄罗斯释放柴油供应，此举引发与乌克兰方面的外交摩擦。（多家报道）\n\nCiting national security, the U.S. has waived certain Russian sanctions to secure diesel supplies, triggering diplomatic friction with Ukraine.",
+      "importance": 8
     }
   ],
-  "editor_note": "地缘冲突引发的能源与物流梗阻，正成为全球经济的新痛点。AI技术虽在不断突破，但面对复杂现实的物质支撑需求，短期内难以化解通胀压力带来的阵痛。\n\nGeopolitical conflict is creating new bottlenecks in energy and logistics, forming a new pain point for the global economy. While AI technology continues to break new ground, it cannot immediately mitigate the systemic inflationary pressures.",
+  "editor_note": "技术奇点与社会阵痛并存：AI 正在重塑生产力，而通胀导致的人道主义危机在冲击社会稳定。保持技术敏锐，同时做好抗风险储备。 \n\nTech singularities and social pains coexist: AI is reshaping productivity, while inflation-led crises threaten stability. Stay sharp on tech while building risk resilience.",
   "keywords": [
     "具身智能",
-    "能源危机",
-    "通胀压力",
-    "AI基建",
-    "供应链安全",
-    "地缘政治"
+    "世界模型",
+    "生活成本危机",
+    "AI Agent",
+    "全球供应风险",
+    "霍尔木兹海峡",
+    "利率影响"
   ],
   "career_advice": [
-    "关注AI具身智能（机器人与自动化）领域的技能储备，这是未来从虚拟处理走向物理世界改造的核心增长点。",
-    "在动荡的宏观环境下，尽量避开单纯依赖高杠杆融资的AI项目，转而寻找具备实际收入模型和现金流的稳健岗位。",
-    "面对生活成本上涨，利用AI工具（如 Claude Code等）提升个人工作效率，将节省的时间投入到具备差异化竞争力的硬技能学习中。"
+    "关注“物理世界自动化”：不仅仅是代码生成，学会使用或理解具备感知能力的机器人系统将成为未来蓝领与技术岗位的核心竞争力。",
+    "不要完全依赖 AI 进行关键决策：尽管 AI 编写代码速度惊人，但对于系统的代码审查与逻辑验证，人类的“最后一道防线”依然不可或缺。",
+    "警惕通胀与社会动荡下的资产配置：全球供应链脆弱性加剧，个人职业选择与投资需向抗风险、强需求领域倾斜，避免过度投机。"
   ],
   "trading": {
-    "market_overview": "近期全球市场情绪波动明显，加密市场总市值在过去 24 小时内回调了约 3.19%，恐慌贪婪指数维持在 53 的中性水平，这意味着投资者的心态正处于“冷静观望”阶段。对于普通人而言，美股大盘（SPY、QQQ）出现回调，加上恐慌指数 VIX 单日大涨 21.45%，提醒我们短期市场避险情绪升温，不必急于梭哈进场，定投节奏要稳。此外，人民币汇率维持强势（USDCNY=X 处于超卖区间），如果你近期有海淘计划，或者准备年底兑换外汇支付学费、购买进口商品，现在或许是相对划算的时间窗口。原油价格（CL=F）近期涨势较猛，未来加油成本或受波及，建议合理安排出行预算。核心理财建议：1. 严控杠杆，在市场波动加剧时优先保留现金流；2. 趁汇率优势合理分批购汇，平摊成本。",
+    "market_overview": "最近市场情绪稍微有点降温，加密货币总市值回落至 2.75T 美元，恐慌贪婪指数维持在 53 的中性水平，说明大家现在都在观望，既不敢盲目冲锋，也没到恐慌抛售的地步。对于咱们普通人来说，现在的市场有三个信号值得关注：一是美元兑人民币（USDCNY=X）处于超卖状态，近期汇率小幅回落，如果你近期有留学缴费或海淘计划，现在可以考虑分批换汇，锁定成本；二是原油期货（CL=F）近期涨势明显，虽然能源股看着热闹，但这意味着我们的燃油成本可能又要增加了，建议出行尽量选择公共交通；三是股市波动较大，像纳指ETF这类波动剧烈的产品，如果你有定投计划，千万别被短期的大跌吓到，管住手，按节奏分批买入比什么都强。记住，理财的本质是让生活变好，而不是被数字牵着走。",
     "watchlist": [
       {
-        "symbol": "AAPL",
-        "display_name": "苹果 (AAPL)",
-        "stance": "偏上行",
-        "rationale": "作为科技巨头，苹果在当前市场回调背景下依然保持了 MACD 金叉的强势信号，且价格处于 52 周高点附近，走势强于大盘。对于消费者而言，其股价表现稳定，若你是该品牌的长期用户或持有者，其较好的抗跌性显示了公司在消费电子领域的统治地位，适合长期持有者继续关注。"
-      },
-      {
         "symbol": "USDCNY=X",
-        "display_name": "美元兑人民币 (USDCNY=X)",
-        "stance": "偏下行",
-        "rationale": "目前美元兑人民币汇率 RSI 指标已降至 18.6，进入技术性超卖区间，且处于空头排列趋势中。这对于普通人来说是个好消息：如果你有留学、旅游或海淘需求，人民币目前的相对升值意味着你换汇的成本降低了，建议可以根据未来三个月的实际需要，采取分批购汇的策略来锁定成本。"
+        "display_name": "美元 / 人民币",
+        "stance": "偏上行",
+        "rationale": "当前汇率处于超卖区域（RSI 14 仅为 18.6），叠加 MACD 死叉信号，汇率短期内有震荡回升的修复需求。对于有海外支出计划的家庭来说，目前人民币相对强势的窗口期建议分批换汇，不一定要追求最低点，但现在这个价格相比长期中枢已经比较划算，能帮你的海淘或教育支出降低不少购汇成本。"
       },
       {
         "symbol": "CL=F",
         "display_name": "WTI 原油期货",
         "stance": "偏上行",
-        "rationale": "原油价格近期波动较大，5 日内涨幅达 7.81%，目前处于多头排列且 MACD 指标金叉，显示出较强的上涨动力。原油是重要的生活成本指标，油价上涨通常会传导至汽油及物流配送成本。对于普通家庭，短期内若有购车或长途出行计划，应考虑到未来油价可能维持高位，适当留足预算。"
+        "rationale": "原油近期表现强劲，5 日涨幅接近 7.81%，且处于多头排列，显示能源价格有回升压力。对普通人的生活影响最直接的就是油价，建议近期用车多关注油价变动，如果预计下个月能源支出增加，现在可以适当控制非必要的大额开车出行，毕竟大宗商品走强往往会带来连带的消费成本上升。"
+      },
+      {
+        "symbol": "AAPL",
+        "display_name": "苹果 (AAPL)",
+        "stance": "中性",
+        "rationale": "在科技股普遍回撤时，苹果表现出难得的韧性，目前处于多头排列且 MACD 出现金叉，离 52 周高点仅差 1.35%。作为科技风向标，它的走势比较稳健，如果你的投资组合里需要一些抗风险的核心科技资产，它目前是个不错的观测对象，但要注意溢价，不需要一次性重仓，分批介入更安全。"
       },
       {
         "symbol": "^VIX",
         "display_name": "VIX 恐慌指数",
-        "stance": "中性",
-        "rationale": "VIX 指数单日激增 21.45%，且出现 MACD 金叉，这是市场情绪紧张的直接信号。作为“恐慌晴雨表”，VIX 的大幅波动提醒普通投资者目前风险溢价正在升高。这并非让你恐慌抛售，而是提醒你在进行高风险投资决策时，应降低预期收益，增加对波动性的心理准备，避开短期博弈行为。"
+        "stance": "偏下行",
+        "rationale": "VIX 单日飙升 21.45%，说明市场对近期波动表现出了极度的不安，通常这种恐慌情绪过激时，反而是一个反向冷静期。恐慌指数高企时往往是市场情绪的阶段性顶点，这时候不要轻易割肉手中的长线资产。建议保持冷静，避免在恐慌情绪蔓延时进行不理智的止损，耐心等待市场回归理性。"
       }
     ],
-    "risk_caveat": "本报告基于公开金融数据分析，旨在提供生活化理财参考。文中提及的市场走势及价格波动仅反映过去行情，不作为未来预测依据。金融市场风险多变，文中内容仅供交流参考，不构成实质投资建议，请各位根据自身风险承受能力审慎决策。",
+    "risk_caveat": "本报告基于当前公开的市场数据分析，提供的信息仅供交流参考，不构成任何实质性的投资建议。市场有风险，投资需谨慎，请根据个人的财务状况与风险承受能力做出独立判断。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -349,18 +357,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 81393.71,
-        "pct1Day": -0.13140322713454017,
-        "pct5Day": -0.45112639418559514,
-        "pct52WeekHigh": -29.99794191805496,
-        "pct52WeekLow": 40.9469415665361,
-        "sma20": 83408.183984375,
-        "sma50": 81323.12765625,
-        "sma200": 72425.74859375,
-        "rsi14": 46.105743916076456,
-        "macd": 82.4302985073009,
-        "macdSignal": 608.4674700108342,
-        "macdHistogram": -526.0371715035333,
+        "currentPrice": 81436.51,
+        "pct1Day": -0.07888840821453422,
+        "pct5Day": -0.3987796982268079,
+        "pct52WeekHigh": -29.961132094717186,
+        "pct52WeekLow": 41.02105698772831,
+        "sma20": 83410.323828125,
+        "sma50": 81323.98359375,
+        "sma200": 72425.962578125,
+        "rsi14": 46.25577315197278,
+        "macd": 85.84429423380061,
+        "macdSignal": 609.1502691561341,
+        "macdHistogram": -523.3059749223335,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -376,18 +384,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 2400.89,
-        "pct1Day": -0.7801301273578157,
-        "pct5Day": -1.778276019947093,
-        "pct52WeekHigh": -43.51737490795569,
-        "pct52WeekLow": 59.368132493624145,
-        "sma20": 2571.75517578125,
-        "sma50": 2551.6124755859373,
-        "sma200": 2146.1990557861327,
-        "rsi14": 37.26111860524803,
-        "macd": -43.97765235065572,
-        "macdSignal": -16.104747749368848,
-        "macdHistogram": -27.87290460128687,
+        "currentPrice": 2402.93,
+        "pct1Day": -0.6958245013024003,
+        "pct5Day": -1.694818503393105,
+        "pct52WeekHigh": -43.469382473821774,
+        "pct52WeekLow": 59.5035451907019,
+        "sma20": 2571.857177734375,
+        "sma50": 2551.6532763671876,
+        "sma200": 2146.2092559814455,
+        "rsi14": 37.39801609613471,
+        "macd": -43.814914191823846,
+        "macdSignal": -16.07220011760247,
+        "macdHistogram": -27.742714074221375,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -398,18 +406,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 103.3,
-        "pct1Day": -0.9555878882575993,
-        "pct5Day": -2.14037317619982,
-        "pct52WeekHigh": -49.61468402724514,
-        "pct52WeekLow": 70.98481959363545,
-        "sma20": 113.04902992248535,
-        "sma50": 109.3494123840332,
-        "sma200": 87.45962142944336,
-        "rsi14": 37.27593744424873,
-        "macd": -1.881160462714547,
-        "macdSignal": -0.028965744247124947,
-        "macdHistogram": -1.8521947184674221,
+        "currentPrice": 103.31,
+        "pct1Day": -0.9459998522351604,
+        "pct5Day": -2.130899833816098,
+        "pct52WeekHigh": -49.609806455514956,
+        "pct52WeekLow": 71.00137185109854,
+        "sma20": 113.04952964782714,
+        "sma50": 109.34961227416993,
+        "sma200": 87.45967140197754,
+        "rsi14": 37.28896941182077,
+        "macd": -1.8803631801179534,
+        "macdSignal": -0.02880628772780619,
+        "macdHistogram": -1.8515568923901473,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -743,13 +751,13 @@
       "timestamp": "2026-10-18T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2740825167809.9546,
-      "total24hVolumeUsd": 179039423599693.28,
-      "marketCapChangePct24h": -3.1930291639399035,
-      "btcDominance": 59.521867657815186,
-      "ethDominance": 10.659589004751995,
-      "activeCryptocurrencies": 22320
+      "totalMarketCapUsd": 2747610732891.8965,
+      "total24hVolumeUsd": 185193670611012.62,
+      "marketCapChangePct24h": -2.996693529768063,
+      "btcDominance": 59.459766639770784,
+      "ethDominance": 10.661926832479104,
+      "activeCryptocurrencies": 22327
     },
-    "generated_at": "2026-10-18T00:16:30.454Z"
+    "generated_at": "2026-10-18T00:58:35.965Z"
   }
 }
