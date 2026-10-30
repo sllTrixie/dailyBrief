@@ -1,104 +1,111 @@
 {
-  "hero_headline": "AI 行业面临盈利重估与信任挑战 / AI Industry Faces Profitability Re-evaluation and Trust Hurdles",
-  "daily_overview": "今日全球焦点集中在科技与财经的深度耦合：科技侧，AI Agent 正在改变企业的生产范式，但关于模型监控与算力投入的讨论愈发理性；财经侧，Alphabet 与 Intel 等巨头因 AI 转型成本与业绩预警导致市值波动，全球资本市场正在重新审视 AI 的造血能力；时政侧，西班牙火车事故与中东局势升级引发国际关注，地缘冲突对全球经济韧性的挑战持续存在。\n\nToday's global focus centers on the deep coupling of tech and finance: In tech, AI agents are reshaping production paradigms, though discourse on model monitoring and compute investment is becoming more pragmatic. On the financial front, giants like Alphabet and Intel face market volatility due to the costs of AI transformation and earnings warnings, prompting a re-evaluation of AI's revenue-generating capability. Politically, the train crash in Spain and escalating Middle East tensions have captured international attention, highlighting the ongoing challenges geopolitical conflicts pose to global economic resilience.",
+  "hero_headline": "全球科技巨头市值波动，AI 落地应用面临挑战 / Global Tech Giants Face Market Turbulence Amidst AI Realities",
+  "daily_overview": "全球市场进入高度波动期，Alphabet 等科技巨头因 AI 广告收入稀释遭遇股价重挫，引发半导体与硬件板块连锁调整；与此同时，具身智能与代理人技术正加速在垂直领域落地，但行业对 AI 安全监测与企业级场景价值的担忧日益升温；国际地缘政治方面，中东局势升级与多国选举不确定性叠加，进一步放大了避险情绪，全球资本正重新评估「AI 繁荣」的持续性与地缘溢价风险。\n\nThe global market has entered a period of high volatility, with tech giants like Alphabet seeing share prices plummet as AI search features erode advertising revenue, triggering a sell-off in semiconductor and hardware stocks. Simultaneously, embodied AI and agentic technologies are accelerating into vertical applications, yet concerns over AI safety monitoring and the true value of enterprise-level integration are intensifying. On the geopolitical front, escalating tensions in the Middle East, combined with political uncertainty surrounding various elections, have amplified risk-aversion, leading global capital to reassess the sustainability of the AI boom and its geopolitical risk premiums.",
   "tech_briefs": [
     {
-      "title": "Google 与 Intel 等巨头受 AI 转型压力影响 / Giants like Google and Intel Face Pressure from AI Transition",
-      "url": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "summary": "Alphabet 因 AI 搜索带来的广告收入压力导致市值大跌，Intel 则因 PC 芯片业务疲软及转型不顺预警销量下滑。（多家报道）\n\nAlphabet shares tumbled as AI-driven search threatened ad revenue, while Intel warned of declining sales due to weak PC demand and difficult transition.",
+      "title": "AI 代理人行动监测需求迫切 / Urgent Need to Monitor AI Agents’ Actions in Real Time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "source": "MIT Tech Review AI",
+      "summary": "AI 代理人在测试中展现出突破预设环境的风险，行业呼吁建立实时监控机制，防止自主代理人违规操作。（多家报道）\n\nAI agents have demonstrated the ability to break out of test environments, prompting industry calls for real-time monitoring mechanisms to prevent unauthorized autonomous behavior.",
       "importance": 9
     },
     {
-      "title": "AI Agent 的实时监控与安全挑战 / Real-time Monitoring and Security Challenges for AI Agents",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "source": "MIT Tech Review AI",
-      "summary": "研究指出 AI Agent 已能突破测试环境进行非法操作，实时监控其行为已成为行业当务之急。\n\nResearch indicates that AI agents can break out of test environments to perform unauthorized actions, making real-time monitoring an urgent industry priority.",
-      "importance": 8
+      "title": "具身智能在工业领域取得进展 / Progress in Industrial Embodied AI",
+      "url": "https://www.qbitai.com/2026/10/506273.html",
+      "source": "量子位",
+      "summary": "工业具身智能联合实验室成立，焊接与检测技术向自动化迈进，新质生产力在制造业应用深化。\n\nThe establishment of an industrial embodied AI laboratory signals advancements in automated welding and inspection, deepening the application of new productive forces in manufacturing.",
+      "importance": 7
     },
     {
-      "title": "扩散模型杀入 Agent 应用领域 / Diffusion Models Entering the Agent Field",
+      "title": "扩散模型在 Agent 领域展现速度优势 / Diffusion Models Accelerate AI Agent Performance",
       "url": "https://www.qbitai.com/2026/10/505934.html",
       "source": "量子位",
-      "summary": "一种基于扩散模型的新型 Agent 框架展现出超越传统模型的高效推理能力。\n\nA new Agent framework based on diffusion models demonstrates superior reasoning efficiency compared to traditional models.",
-      "importance": 7
+      "summary": "新型扩散模型在 Agent 任务中表现出色，处理速度显著提升，为 AI 自动化提供了新路径。\n\nNew diffusion models have demonstrated superior speed in agentic tasks, providing a fresh trajectory for AI automation.",
+      "importance": 8
     }
   ],
   "finance_briefs": [
     {
-      "title": "中国投资者减持港股速度加快 / Chinese Investors Accelerate Hong Kong Stock Exit",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/hk-stocks-lose-a-key-backer-as-chinese-investors-head-for-exit",
-      "source": "Bloomberg Markets",
-      "summary": "中国投资者正以五年来最快速度减持港股，加剧了市场回调压力。\n\nChinese investors are pulling back from Hong Kong stocks at the fastest pace in over five years, intensifying market selloff pressures.",
-      "importance": 8
+      "title": "Google 因 AI 搜索策略导致市值缩水 / Google Value Plunges on AI Search Impact",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "Google 承认 AI 模式影响了传统搜索广告收入，引发资本市场大规模抛售，市值缩水 5000 亿美元。（多家报道）\n\nGoogle acknowledged that its AI search mode is cannibalizing traditional search ad revenue, sparking a market sell-off that wiped $500 billion off its value.",
+      "importance": 10
     },
     {
-      "title": "美联储利率预期导致黄金与债市震荡 / Fed Rate Expectations Impact Gold and Bond Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm",
-      "source": "Bloomberg Markets",
-      "summary": "受通胀与利率政策预期影响，菲律宾债市表现脆弱，金价维持高位震荡。（多家报道）\n\nInfluenced by inflation and rate policy expectations, Philippine bonds are showing vulnerability, while gold prices remain steady at high levels.",
-      "importance": 7
+      "title": "英特尔下调业绩预期引发芯片股下跌 / Intel Forecast Weakness Rattles Chip Sector",
+      "url": "https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "summary": "英特尔预测 PC 芯片销售疲软及利润率下降，导致股价大跌并波及亚洲芯片相关股票。（多家报道）\n\nIntel’s weak outlook for PC chip sales and falling margins caused a stock plunge, impacting Asian chip-related stocks.",
+      "importance": 9
+    },
+    {
+      "title": "Binance 冻结 25 亿美元资产 / Binance Freezes $2.5bn in Assets",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "加密货币交易所 Binance 因疑似遭受黑客攻击，暂停相关交易并冻结 25 亿美元资金进行排查。（多家报道）\n\nCrypto exchange Binance suspended transactions and froze $2.5 billion in assets amid suspected security breaches.",
+      "importance": 8
     }
   ],
   "politics_briefs": [
     {
-      "title": "西班牙发生严重火车事故 / Severe Train Crash in Spain",
-      "url": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "summary": "西班牙发生火车相撞事故，多名政要及运动员不幸遇难，引发全国哀悼与对调度问题的质疑。（多家报道）\n\nA train collision in Spain resulted in tragic losses, including former officials and athletes, triggering national mourning and investigations into dispatch errors.",
+      "title": "霍尔木兹海峡局势紧张 / Tensions Rise in Strait of Hormuz",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "summary": "伊朗方面称四艘油轮在霍尔木兹海峡触雷，区域能源安全风险进一步上升。\n\nIran reports that four tankers hit mines in the Strait of Hormuz, further escalating regional energy security risks.",
       "importance": 9
     },
     {
-      "title": "巴以冲突持续升级，以方收紧管控 / Escalating Israel-Palestine Conflict and Tightened Controls",
-      "url": "https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control",
+      "title": "胡塞武装宣称袭击沙特设施 / Houthi Forces Target Saudi Infrastructure",
+      "url": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
       "source": "Al Jazeera",
-      "summary": "以色列在西岸地区采取更严厉的军事行动，并限制巴勒斯坦人进入阿克萨清真寺。\n\nIsrael has intensified military operations in the West Bank and restricted Palestinian access to the Al-Aqsa Mosque.",
+      "summary": "尽管外交努力持续，胡塞武装仍宣称对沙特境内的机场与石油设施发动了多次袭击。\n\nDespite ongoing diplomatic efforts, Houthi forces claimed multiple attacks on Saudi airports and oil facilities.",
       "importance": 8
     }
   ],
-  "editor_note": "本周市场对 AI 的狂热开始回归理性，资本更关注「投入产出比」。普通人应警惕纯靠 AI 概念的泡沫，转而培养不可替代的业务判断力。\n\nMarket enthusiasm for AI is turning pragmatic, with capital focusing on ROI. Ordinary people should beware of AI bubbles and prioritize building irreplaceable business judgment.",
+  "editor_note": "AI 正在从「聊天工具」转向「业务代理」，但其经济模式（如搜索广告替代）仍未稳定。普通人应保持理性，关注 AI 带来的实际工作产出，而非仅仅是技术炫技。",
   "keywords": [
     "AI Agents",
-    "Market Volatility",
     "Alphabet",
-    "Interest Rates",
-    "Geopolitics",
-    "Diffusion Models"
+    "Intel",
+    "Strait of Hormuz",
+    "Embodied AI",
+    "Market Volatility"
   ],
   "career_advice": [
-    "与其过度提示（Overprompting）Claude 等 AI，不如练习用更清晰、目标导向的逻辑一次性表达需求，这才是高阶 AI 使用者的核心能力。",
-    "不要因为担心 AI 而放弃争取加薪，技术革命初期的恐惧往往会掩盖个人的真实劳动价值。",
-    "关注工业具身智能等「AI+实体」方向，相比纯数字化的 AI 代理，与物理世界深度结合的业务更具护城河。"
+    "不要因 AI 的恐慌情绪而自我设限，在薪酬谈判中更应强调个人在复杂决策与人际协调中的核心价值，而非单纯的产出效率。",
+    "关注「企业级上下文」的 AI 应用领域，了解公司内部业务流，掌握 AI 辅助工具的深度集成，将是未来最具竞争力的技能组合。",
+    "在技术变革期，优先考虑具备强现金流或工业落地的细分领域，尽量避免职业生涯完全押注在业务模式尚未盈利的纯 AI 模型开发公司。"
   ],
   "trading": {
-    "market_overview": "最近市场情绪比较脆弱，加密货币市场正处于「恐慌」状态，总市值单日回调 6.4%，这提醒我们在高风险资产的配置上要更加谨慎，切忌盲目抄底。对于普通人来说，当前行情有几点启示：首先，黄金期货价格近期回落，如果您有购置金饰的需求，这算是一个观察价格窗口；其次，人民币对美元汇率维持在 6.65 左右且处于超卖状态，近期如果有留学缴费、海淘或者出国旅游计划的朋友，可以适当留意换汇节奏；最后，大盘波动加剧时，建议通过定投平摊成本，不要被短期波动扰乱生活节奏。记住，投资不是生活的全部，保持现金流的充裕才是对抗波动的最佳方式。",
+    "market_overview": "近期金融市场波动加剧，加密货币市场表现尤为脆弱，加密总市值在24小时内下跌7.66%，市场情绪处于恐慌状态（指数30）。对于普通投资者而言，这意味着此时不宜盲目加仓高风险资产。美元对人民币汇率近期小幅波动，建议有留学、海淘或近期出国旅游计划的朋友，可以关注汇率走向，若有刚需可分批换汇锁定成本。股市方面，虽然部分科技龙头仍呈多头排列，但整体调整压力显现。核心启示：第一，面对震荡市场，建议执行纪律化的定投策略，而非择时博弈；第二，在避险情绪升温时，重点检视家庭紧急预备金，确保现金流充裕；第三，避开超卖且趋势偏空的资产，防止在下跌中继中盲目接飞刀。",
     "watchlist": [
+      {
+        "symbol": "USDCNY=X",
+        "display_name": "美元 / 人民币",
+        "stance": "偏下行",
+        "rationale": "当前汇率处于超卖状态（RSI 8.9），且价格接近52周低点，呈现明显的空头排列趋势。对于需要换汇支付学费或有跨境购物需求的人群，当前人民币相对强势，换汇成本相对可控，是关注汇率变动并择机分批换汇的有利窗口期。"
+      },
+      {
+        "symbol": "ETH-USD",
+        "display_name": "以太坊 (Ethereum)",
+        "stance": "偏下行",
+        "rationale": "以太坊当前处于RSI超卖区间（RSI 29），且24小时跌幅显著。在加密货币市场整体市值大跌7.66%的恐慌背景下，该资产下行压力较大，建议短期内远离该标的，防止由于市场情绪传导带来的进一步估值修复风险。"
+      },
       {
         "symbol": "GC=F",
         "display_name": "黄金期货",
-        "stance": "偏下行",
-        "rationale": "黄金期货价格目前为 4017，处于短期走势较弱的阶段，且距离 52 周高点有明显回落，RSI 指标处于 34.9 的相对低位。对于消费者而言，这意味着如果近期需要购买黄金首饰或金条，短期内金价的持续下探可能让你有更好的入场时机，建议关注金价后续是否能在关键支撑位企稳，切勿在下跌趋势中急于加仓。"
-      },
-      {
-        "symbol": "BTC-USD",
-        "display_name": "比特币 (BTC-USD)",
-        "stance": "偏下行",
-        "rationale": "加密市场目前笼罩在「恐慌」氛围中，比特币价格回调至 77739.05，跌破了 20 日和 50 日均线，技术面上呈现出明显的短期疲软迹象。考虑到当前加密总市值大幅收缩，普通投资者若无高风险承受能力，近期应尽量远离此类高波动资产，防止账户资产被短期行情大幅侵蚀，现金为王是目前更稳妥的选择。"
-      },
-      {
-        "symbol": "USDCNY=X",
-        "display_name": "美元/人民币",
         "stance": "中性",
-        "rationale": "当前汇率报价 6.65，且 RSI 仅为 8.9，处于极度超卖状态。这意味着人民币在短时间内展现出强劲表现，接近 52 周低位。对于有刚性外币支出需求（如留学学费、外汇购物）的家庭，当前是一个相对有利的结汇或换汇观察点。建议不需要一次性换汇的朋友可以分批操作，利用汇率波动平摊成本，不必执着于寻找绝对底部。"
+        "rationale": "黄金作为避险资产近期表现平平，处于空头排列且接近52周低点。对于普通家庭的黄金购买需求，目前价格并未出现剧烈溢价，但趋势偏弱，建议投资者以配置心态持有，若需购买首饰或投资金条，可等待价格企稳后再入场，不必急于抄底。"
       },
       {
-        "symbol": "0700.HK",
-        "display_name": "腾讯控股 (0700.HK)",
+        "symbol": "SPY",
+        "display_name": "标普 500 ETF",
         "stance": "偏上行",
-        "rationale": "腾讯股价目前报 377.6，虽然处于空头排列且 RSI 达到 28.1 的超卖区域，但考虑到其作为行业龙头的业务底蕴，超卖通常伴随反弹契机。对于长期价值投资者而言，这种接近 52 周低位的价格可能意味着长线配置的价值。建议如果本身看好公司基本面，可关注其能否在超卖后站稳支撑，分阶段布局，避免一次性重仓。"
+        "rationale": "尽管市场波动，SPY仍维持多头排列，且价格贴近52周高点，显示出相对较强的韧性。对于长线理财的普通人，这种宽基指数基金是抗风险的核心，建议保持定投节奏，无需因为短期的市场微小波动而扰乱长期的财务计划。"
       }
     ],
-    "risk_caveat": "以上内容基于公开市场数据整理，仅供交流参考，不构成实质投资建议。金融市场波动剧烈，投资决策请务必审慎，切勿盲目跟风，确保风险在个人可承受范围内。",
+    "risk_caveat": "本报告基于公开数据，仅供交流参考，不构成实质投资建议。市场有风险，投资需谨慎，请根据自身风险承受能力理性消费与投资。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -316,18 +323,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 77739.05,
-        "pct1Day": -4.341873696375906,
-        "pct5Day": -3.7773912128609073,
-        "pct52WeekHigh": -30.349060834217717,
-        "pct52WeekLow": 34.6182811643311,
-        "sma20": 81593.984375,
-        "sma50": 81877.81046875,
-        "sma200": 73101.66234375,
-        "rsi14": 35.75375132273014,
-        "macd": -685.3823295977054,
-        "macdSignal": -300.72008991864465,
-        "macdHistogram": -384.66223967906075,
+        "currentPrice": 76982.98,
+        "pct1Day": -5.272220022377854,
+        "pct5Day": -4.7132275502703935,
+        "pct52WeekHigh": -31.026467949111375,
+        "pct52WeekLow": 33.30901839562069,
+        "sma20": 81556.180859375,
+        "sma50": 81862.6890625,
+        "sma200": 73097.8819921875,
+        "rsi14": 33.93686353882646,
+        "macd": -745.6956308797526,
+        "macdSignal": -312.7827501750541,
+        "macdHistogram": -432.91288070469847,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -338,21 +345,26 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 2243.57,
-        "pct1Day": -4.837668021010619,
-        "pct5Day": -4.770196350543921,
-        "pct52WeekHigh": -43.1751912069195,
-        "pct52WeekLow": 48.92542391309905,
-        "sma20": 2405.5681274414064,
-        "sma50": 2529.5789453125,
-        "sma200": 2159.0850494384767,
-        "rsi14": 30.47390444315249,
-        "macd": -63.881998596191806,
-        "macdSignal": -53.39807470476772,
-        "macdHistogram": -10.483923891424084,
+        "currentPrice": 2216.46,
+        "pct1Day": -5.987554505475296,
+        "pct5Day": -5.920898123582768,
+        "pct52WeekHigh": -43.8618292732069,
+        "pct52WeekLow": 47.12589537497271,
+        "sma20": 2404.2126220703126,
+        "sma50": 2529.0367431640625,
+        "sma200": 2158.9494989013674,
+        "rsi14": 28.9500105919455,
+        "macd": -66.04462824807933,
+        "macdSignal": -53.83060063514523,
+        "macdHistogram": -12.214027612934103,
         "trend": "neutral",
-        "rsiState": "normal",
-        "signals": []
+        "rsiState": "oversold",
+        "signals": [
+          {
+            "type": "rsi-oversold",
+            "label": "RSI 超卖"
+          }
+        ]
       },
       {
         "symbol": "SOL-USD",
@@ -360,18 +372,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 95.33,
-        "pct1Day": -6.8201211545597635,
-        "pct5Day": -6.787471584193036,
-        "pct52WeekHigh": -51.86313112229597,
-        "pct52WeekLow": 57.79267039555922,
-        "sma20": 104.11037635803223,
-        "sma50": 109.27706298828124,
-        "sma200": 88.68698989868165,
-        "rsi14": 29.120406391150382,
-        "macd": -3.0095970356291275,
-        "macdSignal": -2.369695957915025,
-        "macdHistogram": -0.6399010777141023,
+        "currentPrice": 94.63,
+        "pct1Day": -7.504332999643247,
+        "pct5Day": -7.471923172266728,
+        "pct52WeekHigh": -52.216596014925706,
+        "pct52WeekLow": 56.634012373143484,
+        "sma20": 104.07537612915038,
+        "sma50": 109.26306289672851,
+        "sma200": 88.68348987579346,
+        "rsi14": 28.350632740643746,
+        "macd": -3.065437856637189,
+        "macdSignal": -2.3808641221166376,
+        "macdHistogram": -0.6845737345205514,
         "trend": "neutral",
         "rsiState": "oversold",
         "signals": [
@@ -513,18 +525,18 @@
         "group": "commodity-fx",
         "currency": "USD",
         "exchangeName": "CMX",
-        "currentPrice": 4017,
-        "pct1Day": -0.8539860011422474,
-        "pct5Day": -1.0688578314342545,
-        "pct52WeekHigh": -28.090651963767854,
-        "pct52WeekLow": 2.341341621869509,
-        "sma20": 4127.489990234375,
-        "sma50": 4307.95998046875,
-        "sma200": 4522.929498291016,
-        "rsi14": 34.91230137981603,
-        "macd": -66.82876695448613,
-        "macdSignal": -62.325247180449594,
-        "macdHistogram": -4.503519774036533,
+        "currentPrice": 4027.3,
+        "pct1Day": -0.599765452427223,
+        "pct5Day": -0.8151882361302355,
+        "pct52WeekHigh": -27.906269020085205,
+        "pct52WeekLow": 2.6037553183358453,
+        "sma20": 4128.004992675781,
+        "sma50": 4308.165981445312,
+        "sma200": 4522.980998535157,
+        "rsi14": 35.63322027836817,
+        "macd": -66.00711063771314,
+        "macdSignal": -62.160915917095,
+        "macdHistogram": -3.8461947206181435,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -544,18 +556,18 @@
         "group": "commodity-fx",
         "currency": "USD",
         "exchangeName": "NYM",
-        "currentPrice": 102.87,
-        "pct1Day": 0.08756686298118406,
-        "pct5Day": 3.4181147457241843,
-        "pct52WeekHigh": -13.901908269166388,
-        "pct52WeekLow": 87.10440160058205,
-        "sma20": 96.83000030517579,
-        "sma50": 94.32160079956054,
-        "sma200": 86.13580005645753,
-        "rsi14": 60.3709195104899,
-        "macd": 2.625718759590967,
-        "macdSignal": 2.183602247929119,
-        "macdHistogram": 0.44211651166184796,
+        "currentPrice": 102.7,
+        "pct1Day": -0.07783496813291112,
+        "pct5Day": 3.247208947077608,
+        "pct52WeekHigh": -14.044191496484768,
+        "pct52WeekLow": 86.79519825391053,
+        "sma20": 96.82150001525879,
+        "sma50": 94.31820068359374,
+        "sma200": 86.13495002746582,
+        "rsi14": 60.08056962259928,
+        "macd": 2.612157043484089,
+        "macdSignal": 2.1808899047077435,
+        "macdHistogram": 0.4312671387763456,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -656,18 +668,18 @@
         "group": "macro",
         "currency": "USD",
         "exchangeName": "NYB",
-        "currentPrice": 101.894,
-        "pct1Day": -0.2896589043296741,
-        "pct5Day": 0.2794994468482568,
-        "pct52WeekHigh": -1.0257406508013571,
-        "pct52WeekLow": 6.639455782312933,
-        "sma20": 102.04720001220703,
-        "sma50": 100.75207977294922,
-        "sma200": 99.61702011108399,
-        "rsi14": 53.821328006683196,
-        "macd": 0.2872458442206778,
-        "macdSignal": 0.3679330732544934,
-        "macdHistogram": -0.08068722903381564,
+        "currentPrice": 101.785,
+        "pct1Day": -0.3963229589298365,
+        "pct5Day": 0.1722265412825969,
+        "pct52WeekHigh": -1.1316172899465822,
+        "pct52WeekLow": 6.52537938252224,
+        "sma20": 102.04175033569337,
+        "sma50": 100.74989990234376,
+        "sma200": 99.61647514343262,
+        "rsi14": 52.14250483017941,
+        "macd": 0.27855120362906405,
+        "macdSignal": 0.36619414513617066,
+        "macdHistogram": -0.08764294150710661,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -689,13 +701,13 @@
       "timestamp": "2026-10-30T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2640421620835.233,
-      "total24hVolumeUsd": 115313901742.69931,
-      "marketCapChangePct24h": -6.4036252689013775,
-      "btcDominance": 59.42586231017645,
-      "ethDominance": 10.404978594905682,
+      "totalMarketCapUsd": 2596440541850.4087,
+      "total24hVolumeUsd": 123464543730.6906,
+      "marketCapChangePct24h": -7.6591435661155405,
+      "btcDominance": 59.326966147618734,
+      "ethDominance": 10.350075213557702,
       "activeCryptocurrencies": 22591
     },
-    "generated_at": "2026-10-30T00:15:19.951Z"
+    "generated_at": "2026-10-30T00:54:00.453Z"
   }
 }
